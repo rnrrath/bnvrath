@@ -12,8 +12,7 @@ public func routes(_ router: Router) throws {
         return "Hello, world!"
     }
     router.get("getName") { req in
-     var name: String = "Ram Naresh is a vapor developer"
-      return name
+      return "Ram Naresh is a vapor developer"
     }
 
     // Example of configuring a controller
