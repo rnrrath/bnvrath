@@ -11,9 +11,6 @@ public func routes(_ router: Router) throws {
     router.get("hello") { req in
         return "Hello, world!"
     }
-    router.get("getName") { req in
-      return "Ram Naresh is a vapor developer"
-    }
 
     // Example of configuring a controller
     let todoController = TodoController()
