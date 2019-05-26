@@ -1,10 +1,10 @@
 version: "Swift version 5.0 (swift-5.0-RELEASE)"
 options: "4a5873f15831b21637a545f0a9513a44"
-build_time: [1558846274, 230740170]
+build_time: [1558846612, 245221402]
 inputs:
   "/home/rrajput/bnvrath/Sources/App/Controllers/TodoController.swift": [1558801251, 212916852]
   "/home/rrajput/bnvrath/Sources/App/Models/Todo.swift": [1558801251, 212916852]
   "/home/rrajput/bnvrath/Sources/App/app.swift": [1558801251, 212916852]
   "/home/rrajput/bnvrath/Sources/App/boot.swift": [1558801251, 212916852]
   "/home/rrajput/bnvrath/Sources/App/configure.swift": [1558801251, 212916852]
-  "/home/rrajput/bnvrath/Sources/App/routes.swift": [1558807596, 238464466]
+  "/home/rrajput/bnvrath/Sources/App/routes.swift": [1558846442, 19636673]
