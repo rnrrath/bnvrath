@@ -1,0 +1,165 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["5Vapor7RequestC", ""]
+- ["5Vapor7RequestC", "session"]
+- ["5Vapor7RequestC", "hasSession"]
+- ["5Vapor7RequestC", "destroySession"]
+depends-top-level:
+- !private "!="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Request"
+- "Session"
+- !private "SessionCache"
+- !private "StringLiteralType"
+- !private "VaporError"
+depends-member:
+- !private ["5Async11BasicWorkerP", "Session"]
+- !private ["5Async11BasicWorkerP", "SessionCache"]
+- !private ["5Async11BasicWorkerP", "VaporError"]
+- !private ["5Async11BasicWorkerP", "make"]
+- !private ["5Async11BasicWorkerP", "privateContainer"]
+- !private ["7Service9ContainerP", "Session"]
+- !private ["7Service9ContainerP", "SessionCache"]
+- !private ["7Service9ContainerP", "VaporError"]
+- !private ["7Service9ContainerP", "make"]
+- !private ["7Service9ContainerP", "privateContainer"]
+- !private ["7Service14ContainerAliasP", "Session"]
+- !private ["7Service14ContainerAliasP", "SessionCache"]
+- !private ["7Service14ContainerAliasP", "VaporError"]
+- !private ["7Service14ContainerAliasP", "privateContainer"]
+- !private ["s28CustomDebugStringConvertibleP", "Session"]
+- !private ["s28CustomDebugStringConvertibleP", "SessionCache"]
+- !private ["s28CustomDebugStringConvertibleP", "VaporError"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "privateContainer"]
+- !private ["s23CustomStringConvertibleP", "Session"]
+- !private ["s23CustomStringConvertibleP", "SessionCache"]
+- !private ["s23CustomStringConvertibleP", "VaporError"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "privateContainer"]
+- !private ["11DatabaseKit0A11ConnectableP", "Session"]
+- !private ["11DatabaseKit0A11ConnectableP", "SessionCache"]
+- !private ["11DatabaseKit0A11ConnectableP", "VaporError"]
+- !private ["11DatabaseKit0A11ConnectableP", "privateContainer"]
+- !private ["9Debugging10DebuggableP", "init"]
+- !private ["s5ErrorP", "init"]
+- !private ["3NIO14EventLoopGroupP", "Session"]
+- !private ["3NIO14EventLoopGroupP", "SessionCache"]
+- !private ["3NIO14EventLoopGroupP", "VaporError"]
+- !private ["3NIO14EventLoopGroupP", "make"]
+- !private ["3NIO14EventLoopGroupP", "privateContainer"]
+- !private ["5Vapor20HTTPMessageContainerP", "Session"]
+- !private ["5Vapor20HTTPMessageContainerP", "SessionCache"]
+- !private ["5Vapor20HTTPMessageContainerP", "VaporError"]
+- !private ["5Vapor20HTTPMessageContainerP", "privateContainer"]
+- !private ["10Foundation14LocalizedErrorP", "init"]
+- ["5Vapor7RequestC", "Bool"]
+- ["5Vapor7RequestC", "Session"]
+- !private ["5Vapor7RequestC", "SessionCache"]
+- !private ["5Vapor7RequestC", "VaporError"]
+- ["5Vapor7RequestC", "destroySession"]
+- ["5Vapor7RequestC", "hasSession"]
+- !private ["5Vapor7RequestC", "privateContainer"]
+- ["5Vapor7RequestC", "session"]
+- !private ["5Vapor16RequestDecodableP", "Session"]
+- !private ["5Vapor16RequestDecodableP", "SessionCache"]
+- !private ["5Vapor16RequestDecodableP", "VaporError"]
+- !private ["5Vapor16RequestDecodableP", "privateContainer"]
+- !private ["5Vapor16RequestEncodableP", "Session"]
+- !private ["5Vapor16RequestEncodableP", "SessionCache"]
+- !private ["5Vapor16RequestEncodableP", "VaporError"]
+- !private ["5Vapor16RequestEncodableP", "privateContainer"]
+- !private ["7ServiceAAP", "middlewareFlag"]
+- !private ["7ServiceAAP", "session"]
+- !private ["7Service0A4TypeP", "middlewareFlag"]
+- !private ["7Service0A4TypeP", "session"]
+- !private ["5Vapor7SessionC", "init"]
+- !private ["5Vapor12SessionCacheC", "middlewareFlag"]
+- !private ["5Vapor12SessionCacheC", "session"]
+- !private ["7Service12SubContainerP", "make"]
+- !private ["5Vapor0A5ErrorV", "deinit"]
+- !private ["5Vapor0A5ErrorV", "init"]
+depends-nominal:
+- !private "5Async11BasicWorkerP"
+- !private "7Service9ContainerP"
+- !private "7Service14ContainerAliasP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "11DatabaseKit0A11ConnectableP"
+- !private "9Debugging10DebuggableP"
+- !private "s5ErrorP"
+- !private "3NIO14EventLoopGroupP"
+- !private "5Vapor20HTTPMessageContainerP"
+- !private "10Foundation14LocalizedErrorP"
+- "5Vapor7RequestC"
+- !private "5Vapor16RequestDecodableP"
+- !private "5Vapor16RequestEncodableP"
+- !private "7ServiceAAP"
+- !private "7Service0A4TypeP"
+- !private "5Vapor7SessionC"
+- !private "5Vapor12SessionCacheC"
+- !private "7Service12SubContainerP"
+- !private "5Vapor0A5ErrorV"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Command.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/URLEncodedForm.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Validation.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Crypto.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/DatabaseKit.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOSHA1/include/CNIOSHA1.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl-support.git-5259653155612051483/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBase32/include/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBcrypt/include/module.modulemap"
+interface-hash: "cba3f02f00671687727a374a55c88a9f"

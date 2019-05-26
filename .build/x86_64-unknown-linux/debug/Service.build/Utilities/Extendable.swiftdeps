@@ -1,0 +1,191 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Extendable"
+- "Extend"
+provides-nominal:
+- "7Service10ExtendableP"
+- "7Service6ExtendV"
+provides-member:
+- ["7Service10ExtendableP", ""]
+- ["7Service6ExtendV", ""]
+depends-top-level:
+- !private "??"
+- "AnyKeyPath"
+- "AnyObject"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Codable"
+- "Decoder"
+- "Encoder"
+- "ExpressibleByDictionaryLiteral"
+- "Extend"
+- "Extendable"
+- "String"
+depends-member:
+- !private ["s18AdditiveArithmeticP", "description"]
+- !private ["s10AnyKeyPathC", "hashValue"]
+- !private ["4Core22AnyReflectionDecodableP", "description"]
+- !private ["4Core22AnyReflectionDecodableP", "subscript"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "description"]
+- !private ["4Core21BasicKeyRepresentableP", "description"]
+- !private ["Sz", "description"]
+- !private ["s7CVarArgP", "description"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "description"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "description"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- ["Se", "Key"]
+- ["Se", "Value"]
+- ["Se", ""]
+- ["Se", "_Default_Key"]
+- ["Se", "_Default_Value"]
+- !private ["Se", "description"]
+- ["Se", "encode"]
+- !private ["Se", "get"]
+- ["Se", "init"]
+- !private ["Se", "set"]
+- !private ["Se", "storage"]
+- !private ["Se", "subscript"]
+- !private ["SD", "subscript"]
+- ["SE", "Key"]
+- ["SE", "Value"]
+- ["SE", ""]
+- ["SE", "_Default_Key"]
+- ["SE", "_Default_Value"]
+- !private ["SE", "description"]
+- ["SE", "encode"]
+- !private ["SE", "get"]
+- ["SE", "init"]
+- !private ["SE", "set"]
+- !private ["SE", "storage"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "description"]
+- !private ["SQ", "hashValue"]
+- !private ["SQ", "subscript"]
+- ["s30ExpressibleByDictionaryLiteralP", "Key"]
+- ["s30ExpressibleByDictionaryLiteralP", "Value"]
+- ["s30ExpressibleByDictionaryLiteralP", ""]
+- ["s30ExpressibleByDictionaryLiteralP", "_Default_Key"]
+- ["s30ExpressibleByDictionaryLiteralP", "_Default_Value"]
+- ["s30ExpressibleByDictionaryLiteralP", "encode"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "get"]
+- ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "set"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "storage"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s27ExpressibleByIntegerLiteralP", "description"]
+- ["7Service6ExtendV", "AnyKeyPath"]
+- ["7Service6ExtendV", "Decoder"]
+- ["7Service6ExtendV", "Encoder"]
+- ["7Service6ExtendV", "Key"]
+- ["7Service6ExtendV", "String"]
+- ["7Service6ExtendV", "Value"]
+- ["7Service6ExtendV", "_Default_Key"]
+- ["7Service6ExtendV", "_Default_Value"]
+- ["7Service6ExtendV", "deinit"]
+- ["7Service6ExtendV", "encode"]
+- ["7Service6ExtendV", "get"]
+- ["7Service6ExtendV", "init"]
+- ["7Service6ExtendV", "set"]
+- ["7Service6ExtendV", "storage"]
+- ["7Service6ExtendV", "subscript"]
+- ["7Service10ExtendableP", "Extend"]
+- ["7Service10ExtendableP", "extend"]
+- !private ["s17FixedWidthIntegerP", "description"]
+- !private ["SH", "description"]
+- !private ["SH", "hashValue"]
+- !private ["SH", "subscript"]
+- !private ["Si", "description"]
+- !private ["s25LosslessStringConvertibleP", "description"]
+- !private ["s10MirrorPathP", "description"]
+- !private ["Sj", "description"]
+- !private ["4Core19ReflectionDecodableP", "description"]
+- !private ["4Core19ReflectionDecodableP", "subscript"]
+- !private ["s10SIMDScalarP", "description"]
+- !private ["ST", "subscript"]
+- !private ["SZ", "description"]
+- !private ["s13SignedNumericP", "description"]
+- !private ["Sx", "description"]
+- !private ["s14_AppendKeyPathP", "hashValue"]
+- !private ["10Foundation13_CFBridgeableP", "subscript"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "description"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "description"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "description"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation13_NSBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "description"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "s10AnyKeyPathC"
+- !private "4Core22AnyReflectionDecodableP"
+- !private "21NIOConcurrencyHelpers15AtomicPrimitiveP"
+- !private "4Core21BasicKeyRepresentableP"
+- !private "Sz"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "Se"
+- !private "SD"
+- "SE"
+- !private "SQ"
+- "s30ExpressibleByDictionaryLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- "7Service6ExtendV"
+- "7Service10ExtendableP"
+- !private "s17FixedWidthIntegerP"
+- !private "SH"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "Sj"
+- !private "4Core19ReflectionDecodableP"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s14_AppendKeyPathP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "0cb24700e0e165762a3b9d010dc4695c"

@@ -1,0 +1,20 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "94e5de72b55ef4d8a7d3f2d96b497308"
+build_time: [1558846266, 636560669]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Base/CommandOption.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Base/CommandRunnable.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Command/Command.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Command/CommandArgument.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Config/CommandConfig.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Config/Commands.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Group/BasicCommandGroup.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Group/CommandGroup.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Run/CommandContext.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Run/CommandInput.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Run/Console+Run.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Run/Output+Autocomplete.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Run/Output+Help.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Utilities/CommandError.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Utilities/Exports.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Command/Utilities/Utilities.swift": [1558804089, 151096513]

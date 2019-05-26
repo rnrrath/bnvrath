@@ -1,0 +1,182 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DatabaseConnectionCache"
+provides-nominal:
+- "11DatabaseKit0A15ConnectionCacheC"
+provides-member:
+- ["7Service9ContainerP", ""]
+- ["11DatabaseKit0A15ConnectionCacheC", ""]
+- ["7Service9ContainerP", "requestCachedConnection"]
+- ["7Service9ContainerP", "requestCachedConnection"]
+- ["7Service9ContainerP", "releaseCachedConnections"]
+depends-top-level:
+- "AssignmentPrecedence"
+- "CachedDatabaseConnection"
+- "CastingPrecedence"
+- "Container"
+- "DatabaseConnectionCache"
+- "DatabaseIdentifier"
+- !private "ERROR"
+- !private "FloatLiteralType"
+- "Future"
+- !private "IntegerLiteralType"
+- "ServiceType"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- !private ["4Core22AnyReflectionDecodableP", "subscript"]
+- !private ["5Async11BasicWorkerP", "CachedDatabaseConnection"]
+- ["5Async11BasicWorkerP", "Container"]
+- !private ["5Async11BasicWorkerP", "DatabaseConnectionCache"]
+- ["5Async11BasicWorkerP", "DatabaseIdentifier"]
+- !private ["5Async11BasicWorkerP", "ERROR"]
+- ["5Async11BasicWorkerP", "Future"]
+- !private ["5Async11BasicWorkerP", "connectionPool"]
+- !private ["5Async11BasicWorkerP", "eventLoop"]
+- !private ["5Async11BasicWorkerP", "make"]
+- !private ["5Async11BasicWorkerP", "requestCachedConnection"]
+- !private ["Sl", "subscript"]
+- !private ["11DatabaseKit010ConfiguredA0V", "deinit"]
+- !private ["7Service9ContainerP", "CachedDatabaseConnection"]
+- ["7Service9ContainerP", "Container"]
+- !private ["7Service9ContainerP", "DatabaseConnectionCache"]
+- ["7Service9ContainerP", "DatabaseIdentifier"]
+- !private ["7Service9ContainerP", "ERROR"]
+- ["7Service9ContainerP", "Future"]
+- !private ["7Service9ContainerP", "connectionPool"]
+- !private ["7Service9ContainerP", "eventLoop"]
+- !private ["7Service9ContainerP", "make"]
+- ["7Service9ContainerP", "releaseCachedConnections"]
+- ["7Service9ContainerP", "requestCachedConnection"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "uid"]
+- !private ["11DatabaseKit0A0P", "Connection"]
+- ["11DatabaseKit0A15ConnectionCacheC", "CachedDatabaseConnection"]
+- ["11DatabaseKit0A15ConnectionCacheC", "Container"]
+- ["11DatabaseKit0A15ConnectionCacheC", "DatabaseConnectionCache"]
+- ["11DatabaseKit0A15ConnectionCacheC", "String"]
+- !private ["11DatabaseKit0A15ConnectionCacheC", "cache"]
+- ["11DatabaseKit0A15ConnectionCacheC", "deinit"]
+- !private ["11DatabaseKit0A15ConnectionCacheC", "init"]
+- !private ["11DatabaseKit0A15ConnectionCacheC", "init"]
+- ["11DatabaseKit0A15ConnectionCacheC", "makeService"]
+- ["11DatabaseKit0A15ConnectionCacheC", "serviceSupports"]
+- !private ["11DatabaseKit0A14ConnectionPoolC", "releaseConnection"]
+- !private ["11DatabaseKit0A14ConnectionPoolC", "requestConnection"]
+- !private ["11DatabaseKit0A10IdentifierV", "uid"]
+- !private ["11DatabaseKit0A9QueryableP", "releaseConnection"]
+- !private ["11DatabaseKit0A9QueryableP", "requestConnection"]
+- !private ["Se", "subscript"]
+- !private ["SD", "subscript"]
+- !private ["SE", "map"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "map"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "uid"]
+- !private ["3NIO9EventLoopP", "newFailedFuture"]
+- !private ["3NIO15EventLoopFutureC", "map"]
+- !private ["3NIO14EventLoopGroupP", "CachedDatabaseConnection"]
+- ["3NIO14EventLoopGroupP", "Container"]
+- !private ["3NIO14EventLoopGroupP", "DatabaseConnectionCache"]
+- ["3NIO14EventLoopGroupP", "DatabaseIdentifier"]
+- !private ["3NIO14EventLoopGroupP", "ERROR"]
+- ["3NIO14EventLoopGroupP", "Future"]
+- !private ["3NIO14EventLoopGroupP", "connectionPool"]
+- !private ["3NIO14EventLoopGroupP", "eventLoop"]
+- !private ["3NIO14EventLoopGroupP", "make"]
+- !private ["3NIO14EventLoopGroupP", "newFailedFuture"]
+- !private ["3NIO14EventLoopGroupP", "requestCachedConnection"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "uid"]
+- !private ["s26ExpressibleByStringLiteralP", "uid"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "uid"]
+- !private ["5Async10FutureTypeP", "map"]
+- !private ["SH", "subscript"]
+- !private ["SH", "uid"]
+- !private ["4Core19ReflectionDecodableP", "subscript"]
+- !private ["ST", "subscript"]
+- ["7ServiceAAP", ""]
+- !private ["7ServiceAAP", "cache"]
+- !private ["7ServiceAAP", "init"]
+- !private ["7ServiceAAP", "init"]
+- ["7ServiceAAP", "makeService"]
+- ["7ServiceAAP", "serviceSupports"]
+- ["7Service0A4TypeP", ""]
+- !private ["7Service0A4TypeP", "cache"]
+- !private ["7Service0A4TypeP", "init"]
+- !private ["7Service0A4TypeP", "init"]
+- ["7Service0A4TypeP", "makeService"]
+- ["7Service0A4TypeP", "serviceSupports"]
+- !private ["10Foundation13_CFBridgeableP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation13_NSBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "4Core22AnyReflectionDecodableP"
+- "5Async11BasicWorkerP"
+- !private "Sl"
+- !private "11DatabaseKit010ConfiguredA0V"
+- "7Service9ContainerP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "11DatabaseKit0A0P"
+- "11DatabaseKit0A15ConnectionCacheC"
+- !private "11DatabaseKit0A14ConnectionPoolC"
+- !private "11DatabaseKit0A10IdentifierV"
+- !private "11DatabaseKit0A9QueryableP"
+- !private "Se"
+- !private "SD"
+- !private "SE"
+- !private "SQ"
+- !private "3NIO9EventLoopP"
+- !private "3NIO15EventLoopFutureC"
+- "3NIO14EventLoopGroupP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "5Async10FutureTypeP"
+- !private "SH"
+- !private "4Core19ReflectionDecodableP"
+- !private "ST"
+- "7ServiceAAP"
+- "7Service0A4TypeP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "dd23848e8825f6861bea0a1166e391a8"

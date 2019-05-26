@@ -1,0 +1,87 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "6SQLite0A8DatabaseC"
+provides-member:
+- ["6SQLite0A8DatabaseC", ""]
+depends-top-level:
+- "MigrationSupporting"
+- "SQLiteDatabase"
+depends-member:
+- ["11DatabaseKit0A0P", "prepareMigrationMetadata"]
+- ["11DatabaseKit0A0P", "revertMigrationMetadata"]
+- ["6Fluent14JoinSupportingP", "prepareMigrationMetadata"]
+- ["6Fluent14JoinSupportingP", "revertMigrationMetadata"]
+- ["11DatabaseKit20KeyedCacheSupportingP", "prepareMigrationMetadata"]
+- ["11DatabaseKit20KeyedCacheSupportingP", "revertMigrationMetadata"]
+- ["11DatabaseKit13LogSupportingP", "prepareMigrationMetadata"]
+- ["11DatabaseKit13LogSupportingP", "revertMigrationMetadata"]
+- ["6Fluent19MigrationSupportingP", ""]
+- ["6Fluent19MigrationSupportingP", "prepareMigrationMetadata"]
+- ["6Fluent19MigrationSupportingP", "revertMigrationMetadata"]
+- ["6Fluent15QuerySupportingP", "prepareMigrationMetadata"]
+- ["6Fluent15QuerySupportingP", "revertMigrationMetadata"]
+- ["9FluentSQL33SQLConstraintIdentifierNormalizerP", "prepareMigrationMetadata"]
+- ["9FluentSQL33SQLConstraintIdentifierNormalizerP", "revertMigrationMetadata"]
+- ["6SQLite0A8DatabaseC", "deinit"]
+- ["6SQLite0A8DatabaseC", "prepareMigrationMetadata"]
+- ["6SQLite0A8DatabaseC", "revertMigrationMetadata"]
+- ["6Fluent16SchemaSupportingP", "prepareMigrationMetadata"]
+- ["6Fluent16SchemaSupportingP", "revertMigrationMetadata"]
+- ["7ServiceAAP", "prepareMigrationMetadata"]
+- ["7ServiceAAP", "revertMigrationMetadata"]
+- ["6Fluent21TransactionSupportingP", "prepareMigrationMetadata"]
+- ["6Fluent21TransactionSupportingP", "revertMigrationMetadata"]
+depends-nominal:
+- "11DatabaseKit0A0P"
+- "6Fluent14JoinSupportingP"
+- "11DatabaseKit20KeyedCacheSupportingP"
+- "11DatabaseKit13LogSupportingP"
+- "6Fluent19MigrationSupportingP"
+- "6Fluent15QuerySupportingP"
+- "9FluentSQL33SQLConstraintIdentifierNormalizerP"
+- "6SQLite0A8DatabaseC"
+- "6Fluent16SchemaSupportingP"
+- "7ServiceAAP"
+- "6Fluent21TransactionSupportingP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Command.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQLite.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/DatabaseKit.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Fluent.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/sqlite.git-176835955830461430/Sources/CSQLite/include/sqlite3.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "2a2f5c52be0a9bc5e5fc693fd68a81ab"

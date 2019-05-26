@@ -1,0 +1,175 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CipherAlgorithm"
+provides-nominal:
+- "6Crypto15CipherAlgorithmC"
+provides-member:
+- ["6Crypto15CipherAlgorithmC", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "CipherAlgorithm"
+- !private "CryptoError"
+- !private "EVP_CIPHER_block_size"
+- !private "EVP_CIPHER_iv_length"
+- !private "EVP_CIPHER_key_length"
+- !private "EVP_CIPHER_type"
+- "EVP_aes_128_ecb"
+- "EVP_aes_256_cbc"
+- "EVP_aes_256_cfb128"
+- "EVP_aes_256_ecb"
+- !private "EVP_get_cipherbyname"
+- !private "FloatLiteralType"
+- "Int32"
+- !private "IntegerLiteralType"
+- "OpaquePointer"
+- "OpenSSLCipherAlgorithm"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- ["4Core15AnyOptionalTypeP", "convert"]
+- ["4Core22AnyReflectionDecodableP", "convert"]
+- ["s7CVarArgP", "convert"]
+- ["6Crypto15CipherAlgorithmC", "CipherAlgorithm"]
+- !private ["6Crypto15CipherAlgorithmC", "CryptoError"]
+- !private ["6Crypto15CipherAlgorithmC", "EVP_CIPHER_block_size"]
+- !private ["6Crypto15CipherAlgorithmC", "EVP_CIPHER_iv_length"]
+- !private ["6Crypto15CipherAlgorithmC", "EVP_CIPHER_key_length"]
+- !private ["6Crypto15CipherAlgorithmC", "EVP_CIPHER_type"]
+- ["6Crypto15CipherAlgorithmC", "EVP_aes_128_ecb"]
+- ["6Crypto15CipherAlgorithmC", "EVP_aes_256_cbc"]
+- ["6Crypto15CipherAlgorithmC", "EVP_aes_256_cfb128"]
+- ["6Crypto15CipherAlgorithmC", "EVP_aes_256_ecb"]
+- !private ["6Crypto15CipherAlgorithmC", "EVP_get_cipherbyname"]
+- ["6Crypto15CipherAlgorithmC", "Int32"]
+- ["6Crypto15CipherAlgorithmC", "OpaquePointer"]
+- ["6Crypto15CipherAlgorithmC", "String"]
+- ["6Crypto15CipherAlgorithmC", "aes128ecb"]
+- ["6Crypto15CipherAlgorithmC", "aes256cbc"]
+- ["6Crypto15CipherAlgorithmC", "aes256cfb"]
+- ["6Crypto15CipherAlgorithmC", "aes256ecb"]
+- ["6Crypto15CipherAlgorithmC", "blockSize"]
+- ["6Crypto15CipherAlgorithmC", "c"]
+- ["6Crypto15CipherAlgorithmC", "deinit"]
+- ["6Crypto15CipherAlgorithmC", "init"]
+- ["6Crypto15CipherAlgorithmC", "init"]
+- ["6Crypto15CipherAlgorithmC", "ivSize"]
+- ["6Crypto15CipherAlgorithmC", "keySize"]
+- ["6Crypto15CipherAlgorithmC", "named"]
+- ["6Crypto15CipherAlgorithmC", "type"]
+- ["SL", "convert"]
+- !private ["6Crypto0A5ErrorV", "deinit"]
+- !private ["6Crypto0A5ErrorV", "openssl"]
+- ["s28CustomDebugStringConvertibleP", "convert"]
+- !private ["s28CustomDebugStringConvertibleP", "openssl"]
+- ["s17CustomReflectableP", "convert"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "openssl"]
+- !private ["9Debugging10DebuggableP", "openssl"]
+- ["Se", "convert"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SE", "convert"]
+- ["SQ", "convert"]
+- !private ["s5ErrorP", "openssl"]
+- ["s23ExpressibleByNilLiteralP", "convert"]
+- ["SH", "convert"]
+- !private ["10Foundation14LocalizedErrorP", "openssl"]
+- !private ["s13OpaquePointerV", "convert"]
+- !private ["6Crypto22OpenSSLCipherAlgorithmP", "CryptoError"]
+- !private ["6Crypto22OpenSSLCipherAlgorithmP", "EVP_CIPHER_block_size"]
+- !private ["6Crypto22OpenSSLCipherAlgorithmP", "EVP_CIPHER_iv_length"]
+- !private ["6Crypto22OpenSSLCipherAlgorithmP", "EVP_CIPHER_key_length"]
+- !private ["6Crypto22OpenSSLCipherAlgorithmP", "EVP_CIPHER_type"]
+- ["6Crypto22OpenSSLCipherAlgorithmP", "EVP_aes_128_ecb"]
+- ["6Crypto22OpenSSLCipherAlgorithmP", "EVP_aes_256_cbc"]
+- ["6Crypto22OpenSSLCipherAlgorithmP", "EVP_aes_256_cfb128"]
+- ["6Crypto22OpenSSLCipherAlgorithmP", "EVP_aes_256_ecb"]
+- !private ["6Crypto22OpenSSLCipherAlgorithmP", "EVP_get_cipherbyname"]
+- ["6Crypto22OpenSSLCipherAlgorithmP", ""]
+- ["6Crypto22OpenSSLCipherAlgorithmP", "blockSize"]
+- ["6Crypto22OpenSSLCipherAlgorithmP", "c"]
+- ["6Crypto22OpenSSLCipherAlgorithmP", "init"]
+- ["6Crypto22OpenSSLCipherAlgorithmP", "init"]
+- ["6Crypto22OpenSSLCipherAlgorithmP", "ivSize"]
+- ["6Crypto22OpenSSLCipherAlgorithmP", "keySize"]
+- ["6Crypto22OpenSSLCipherAlgorithmP", "type"]
+- ["Sq", "convert"]
+- ["4Core12OptionalTypeP", "convert"]
+- ["4Core19ReflectionDecodableP", "convert"]
+- ["Sx", "convert"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- ["SP", "convert"]
+- ["s30_CustomPlaygroundQuickLookableP", "convert"]
+- ["s8_PointerP", "convert"]
+- ["s12_UnwrappableP", "convert"]
+depends-nominal:
+- "4Core15AnyOptionalTypeP"
+- "4Core22AnyReflectionDecodableP"
+- "s7CVarArgP"
+- "6Crypto15CipherAlgorithmC"
+- "SL"
+- !private "6Crypto0A5ErrorV"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "9Debugging10DebuggableP"
+- "Se"
+- !private "s26DefaultStringInterpolationV"
+- "SE"
+- "SQ"
+- !private "s5ErrorP"
+- "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "10Foundation14LocalizedErrorP"
+- !private "s13OpaquePointerV"
+- "6Crypto22OpenSSLCipherAlgorithmP"
+- "Sq"
+- "4Core12OptionalTypeP"
+- "4Core19ReflectionDecodableP"
+- "Sx"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- "SP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s8_PointerP"
+- "s12_UnwrappableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl-support.git-5259653155612051483/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBase32/include/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBcrypt/include/module.modulemap"
+interface-hash: "bd0ee569c4c6b4cb9e0ccfdfc2d74310"

@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Parameter/Parameter.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/Parameter.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/Parameter.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/Parameter~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/Parameter.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Parameter/ParameterValue.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/ParameterValue.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/ParameterValue.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/ParameterValue~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/ParameterValue.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Parameter/Parameters.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/Parameters.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/Parameters.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/Parameters~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Parameter/Parameters.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Register/PathComponent.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/PathComponent.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/PathComponent.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/PathComponent~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/PathComponent.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Register/Route.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/Route.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/Route.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/Route~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/Route.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Register/RouterOption.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/RouterOption.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/RouterOption.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/RouterOption~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Register/RouterOption.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Routing/RoutableComponent.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/RoutableComponent.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/RoutableComponent.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/RoutableComponent~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/RoutableComponent.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Routing/RouterNode.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/RouterNode.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/RouterNode.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/RouterNode~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/RouterNode.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Routing/TrieRouter.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/TrieRouter.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/TrieRouter.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/TrieRouter~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Routing/TrieRouter.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Utilities/Deprecated.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/Deprecated.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/Deprecated.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/Deprecated.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Utilities/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Utilities/RoutingError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/RoutingError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/RoutingError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/RoutingError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.build/Utilities/RoutingError.swiftdeps"
+  }
+}

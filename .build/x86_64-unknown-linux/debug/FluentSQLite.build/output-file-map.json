@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/FluentSQLiteError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteError.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/FluentSQLiteProvider.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteProvider.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteProvider.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteProvider~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteProvider.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/FluentSQLiteQuery.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteQuery.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteQuery.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteQuery~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteQuery.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/FluentSQLiteSchema.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteSchema.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteSchema.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteSchema~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/FluentSQLiteSchema.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteDatabase+JoinSupporting.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+JoinSupporting.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteDatabase+MigrationSupporting.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+MigrationSupporting.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteDatabase+QuerySupporting.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+QuerySupporting.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteDatabase+SchemaSupporting.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+SchemaSupporting.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteDatabase+TransactionSupporting.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteDatabase+TransactionSupporting.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteModels.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteModels.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteModels.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteModels~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteModels.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteTypes.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteTypes.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteTypes.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteTypes~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQLite.build/SQLiteTypes.swiftdeps"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/BitsError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/BitsError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/BitsError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/BitsError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/BitsError.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Byte+Alphabet.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Alphabet.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Alphabet.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Alphabet~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Alphabet.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Byte+Control.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Control.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Control.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Control~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Control.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Byte+Digit.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Digit.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Digit.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Digit~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Byte+Digit.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+binaryFloatingPointOperations.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+binaryFloatingPointOperations.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+binaryFloatingPointOperations~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+binaryFloatingPointOperations.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/ByteBuffer+peek.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+peek.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+peek.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+peek~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+peek.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/ByteBuffer+require.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+require.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+require.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+require~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+require.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/ByteBuffer+string.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+string.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+string.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+string~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/ByteBuffer+string.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Bytes.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Bytes.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Bytes.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Bytes~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Bytes.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Data+Bytes.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Data+Bytes.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Data+Bytes.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Data+Bytes~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Data+Bytes.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Data+Strings.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Data+Strings.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Data+Strings.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Data+Strings~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Data+Strings.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Deprecated.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Deprecated.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Deprecated.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.build/Deprecated.swiftdeps"
+  }
+}

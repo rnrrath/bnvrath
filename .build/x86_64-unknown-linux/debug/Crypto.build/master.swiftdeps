@@ -1,0 +1,23 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "a083b6732c33b629acc99a911c986c64"
+build_time: [1558846260, 893871601]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/BCrypt/BCryptDigest.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Cipher/Cipher.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Digest/Digest.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Digest/DigestAlgorithm.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/MAC/HMAC.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/MAC/OTP.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/RSA/RSA.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/RSA/RSAKey.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/RSA/RSAPadding.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Random/CryptoRandom.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Utilities/Base32.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Utilities/CryptoError.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Utilities/Deprecated.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Crypto/Utilities/Exports.swift": [1558804088, 430709839]

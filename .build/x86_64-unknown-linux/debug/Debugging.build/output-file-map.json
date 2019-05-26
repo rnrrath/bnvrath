@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Debugging/Debuggable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/Debuggable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/Debuggable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/Debuggable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/Debuggable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Debugging/Demangler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/Demangler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/Demangler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/Demangler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/Demangler.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Debugging/SourceLocation.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/SourceLocation.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/SourceLocation.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/SourceLocation~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.build/SourceLocation.swiftdeps"
+  }
+}

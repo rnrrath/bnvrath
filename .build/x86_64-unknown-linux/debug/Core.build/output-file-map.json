@@ -1,0 +1,155 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/BasicKey.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/BasicKey.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/BasicKey.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/BasicKey~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/BasicKey.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/CaseInsensitiveString.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CaseInsensitiveString.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CaseInsensitiveString.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CaseInsensitiveString~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CaseInsensitiveString.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/CodableReflection/Decodable+Reflectable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/Decodable+Reflectable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/Decodable+Reflectable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/Decodable+Reflectable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/Decodable+Reflectable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/CodableReflection/ReflectionDecodable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/ReflectionDecodable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/ReflectionDecodable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/ReflectionDecodable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/ReflectionDecodable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/CodableReflection/ReflectionDecoders.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/ReflectionDecoders.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/ReflectionDecoders.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/ReflectionDecoders~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CodableReflection/ReflectionDecoders.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/CoreError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CoreError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CoreError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CoreError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/CoreError.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/Data+Base64URL.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Data+Base64URL.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Data+Base64URL.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Data+Base64URL~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Data+Base64URL.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/Data+Hex.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Data+Hex.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Data+Hex.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Data+Hex~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Data+Hex.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/DataCoders.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/DataCoders.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/DataCoders.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/DataCoders~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/DataCoders.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/Deprecated.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Deprecated.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Deprecated.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Deprecated.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/DirectoryConfig.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/DirectoryConfig.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/DirectoryConfig.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/DirectoryConfig~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/DirectoryConfig.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/File.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/File.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/File.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/File~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/File.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/Future+Unwrap.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Future+Unwrap.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Future+Unwrap.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Future+Unwrap~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Future+Unwrap.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/FutureEncoder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/FutureEncoder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/FutureEncoder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/FutureEncoder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/FutureEncoder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/HeaderValue.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/HeaderValue.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/HeaderValue.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/HeaderValue~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/HeaderValue.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/LosslessDataConvertible.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/LosslessDataConvertible.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/LosslessDataConvertible.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/LosslessDataConvertible~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/LosslessDataConvertible.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/MediaType.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/MediaType.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/MediaType.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/MediaType~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/MediaType.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/NestedData.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/NestedData.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/NestedData.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/NestedData~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/NestedData.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/NotFound.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/NotFound.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/NotFound.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/NotFound~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/NotFound.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/OptionalType.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/OptionalType.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/OptionalType.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/OptionalType~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/OptionalType.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/Process+Execute.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Process+Execute.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Process+Execute.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Process+Execute~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Process+Execute.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/Reflectable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Reflectable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Reflectable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Reflectable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Reflectable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/String+Utilities.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/String+Utilities.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/String+Utilities.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/String+Utilities~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/String+Utilities.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Core/Thread+Async.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Thread+Async.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Thread+Async.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Thread+Async~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.build/Thread+Async.swiftdeps"
+  }
+}

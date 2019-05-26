@@ -1,0 +1,173 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Activity/ActivityBar.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityBar.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityBar.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityBar~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityBar.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Activity/ActivityIndicator.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicator.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicator.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicator~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicator.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Activity/ActivityIndicatorRenderer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicatorRenderer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicatorRenderer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicatorRenderer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicatorRenderer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Activity/ActivityIndicatorState.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicatorState.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicatorState.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicatorState~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ActivityIndicatorState.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Activity/CustomActivity.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/CustomActivity.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/CustomActivity.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/CustomActivity~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/CustomActivity.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Activity/LoadingBar.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/LoadingBar.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/LoadingBar.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/LoadingBar~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/LoadingBar.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Activity/ProgressBar.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ProgressBar.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ProgressBar.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ProgressBar~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Activity/ProgressBar.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Clear/Console+Clear.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/Console+Clear.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/Console+Clear.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/Console+Clear~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/Console+Clear.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Clear/Console+Ephemeral.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/Console+Ephemeral.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/Console+Ephemeral.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/Console+Ephemeral~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/Console+Ephemeral.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Clear/ConsoleClear.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/ConsoleClear.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/ConsoleClear.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/ConsoleClear~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Clear/ConsoleClear.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Console.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Console.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Console.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Console~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Console.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Deprecated.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Deprecated.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Deprecated.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Deprecated.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Input/Console+Ask.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Ask.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Ask.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Ask~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Ask.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Input/Console+Choose.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Choose.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Choose.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Choose~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Choose.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Input/Console+Confirm.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Confirm.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Confirm.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Confirm~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Confirm.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Input/Console+Input.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Input.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Input.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Input~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Input/Console+Input.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Output/Console+Center.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Center.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Center.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Center~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Center.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Output/Console+Output.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Output.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Output.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Output~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Output.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Output/Console+Wait.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Wait.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Wait.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Wait~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/Console+Wait.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Output/ConsoleColor.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleColor.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleColor.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleColor~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleColor.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Output/ConsoleStyle.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleStyle.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleStyle.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleStyle~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleStyle.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Output/ConsoleText.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleText.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleText.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleText~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleText.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Output/ConsoleTextFragment.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleTextFragment.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleTextFragment.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleTextFragment~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Output/ConsoleTextFragment.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Terminal/ANSI.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Terminal/ANSI.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Terminal/ANSI.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Terminal/ANSI~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Terminal/ANSI.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Terminal/Terminal.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Terminal/Terminal.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Terminal/Terminal.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Terminal/Terminal~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Terminal/Terminal.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Utilities/ConsoleError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/ConsoleError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/ConsoleError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/ConsoleError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/ConsoleError.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Utilities/ConsoleLogger.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/ConsoleLogger.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/ConsoleLogger.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/ConsoleLogger~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/ConsoleLogger.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Console/Utilities/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.build/Utilities/Exports.swiftdeps"
+  }
+}

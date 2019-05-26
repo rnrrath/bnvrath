@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/Base64.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/Base64.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/Base64.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/Base64~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/Base64.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/SHA1.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/SHA1.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/SHA1.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/SHA1~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/SHA1.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketErrorCodes.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketErrorCodes.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketErrorCodes.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketErrorCodes~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketErrorCodes.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketFrame.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrame.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrame.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrame~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrame.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrameDecoder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrameDecoder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrameDecoder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrameDecoder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrameEncoder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrameEncoder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrameEncoder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketFrameEncoder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketOpcode.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketOpcode.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketOpcode.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketOpcode~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketOpcode.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketProtocolErrorHandler.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketUpgrader.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketUpgrader.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketUpgrader.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketUpgrader~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.build/WebSocketUpgrader.swiftdeps"
+  }
+}

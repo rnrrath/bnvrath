@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Random/Array+Random.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/Array+Random.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/Array+Random.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/Array+Random~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/Array+Random.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Random/OSRandom.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/OSRandom.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/OSRandom.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/OSRandom~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/OSRandom.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Random/RandomProtocol.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/RandomProtocol.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/RandomProtocol.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/RandomProtocol~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/RandomProtocol.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Random/URandom.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/URandom.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/URandom.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/URandom~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.build/URandom.swiftdeps"
+  }
+}

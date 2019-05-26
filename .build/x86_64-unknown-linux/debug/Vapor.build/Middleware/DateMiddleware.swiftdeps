@@ -1,0 +1,537 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DateMiddleware"
+provides-nominal:
+- "5Vapor14DateMiddlewareC"
+provides-member:
+- ["5Vapor14DateMiddlewareC", ""]
+depends-top-level:
+- !private "%"
+- "*"
+- !private "+"
+- !private "/"
+- !private "<"
+- !private "=="
+- "AssignmentPrecedence"
+- "COperatingSystem"
+- "Container"
+- "DateMiddleware"
+- "EventLoop"
+- "Future"
+- "Int"
+- "Middleware"
+- "Request"
+- "Responder"
+- "Response"
+- "ServiceType"
+- "String"
+- "Worker"
+- !private "accuracy"
+- !private "assert"
+- !private "cachedTimeComponents"
+- !private "dayNames"
+- !private "gmtime"
+- !private "monthNames"
+- !private "numericCast"
+- !private "secondsInDay"
+- !private "stringNumbers"
+- "time_t"
+- !private "tm"
+depends-member:
+- !private ["4Core15AnyOptionalTypeP", "pointee"]
+- !private ["4Core22AnyReflectionDecodableP", "append"]
+- !private ["4Core22AnyReflectionDecodableP", "date"]
+- !private ["4Core22AnyReflectionDecodableP", "pointee"]
+- !private ["4Core22AnyReflectionDecodableP", "reserveCapacity"]
+- !private ["4Core22AnyReflectionDecodableP", "subscript"]
+- !private ["Sa", "subscript"]
+- !private ["4Core21BasicKeyRepresentableP", "append"]
+- !private ["4Core21BasicKeyRepresentableP", "date"]
+- !private ["4Core21BasicKeyRepresentableP", "reserveCapacity"]
+- !private ["5Async11BasicWorkerP", "http"]
+- !private ["SK", "append"]
+- !private ["SK", "date"]
+- !private ["SK", "reserveCapacity"]
+- !private ["SK", "subscript"]
+- !private ["s7CVarArgP", "pointee"]
+- !private ["Sl", "append"]
+- !private ["Sl", "date"]
+- !private ["Sl", "reserveCapacity"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "append"]
+- !private ["SL", "date"]
+- !private ["SL", "pointee"]
+- !private ["SL", "reserveCapacity"]
+- !private ["7Service9ContainerP", "http"]
+- !private ["7Service14ContainerAliasP", "http"]
+- !private ["5Vapor7ContentP", "append"]
+- !private ["5Vapor7ContentP", "date"]
+- !private ["5Vapor7ContentP", "reserveCapacity"]
+- !private ["5Vapor7ContentP", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["3NIO20ContiguousCollectionP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "date"]
+- !private ["s28CustomDebugStringConvertibleP", "headers"]
+- !private ["s28CustomDebugStringConvertibleP", "http"]
+- !private ["s28CustomDebugStringConvertibleP", "pointee"]
+- !private ["s28CustomDebugStringConvertibleP", "replaceOrAdd"]
+- !private ["s28CustomDebugStringConvertibleP", "reserveCapacity"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "date"]
+- !private ["s17CustomReflectableP", "pointee"]
+- !private ["s17CustomReflectableP", "reserveCapacity"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "date"]
+- !private ["s23CustomStringConvertibleP", "headers"]
+- !private ["s23CustomStringConvertibleP", "http"]
+- !private ["s23CustomStringConvertibleP", "replaceOrAdd"]
+- !private ["s23CustomStringConvertibleP", "reserveCapacity"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["5Vapor14DateMiddlewareC", "COperatingSystem"]
+- ["5Vapor14DateMiddlewareC", "Container"]
+- ["5Vapor14DateMiddlewareC", "DateMiddleware"]
+- ["5Vapor14DateMiddlewareC", "EventLoop"]
+- ["5Vapor14DateMiddlewareC", "Future"]
+- ["5Vapor14DateMiddlewareC", "Int"]
+- ["5Vapor14DateMiddlewareC", "Request"]
+- ["5Vapor14DateMiddlewareC", "Responder"]
+- ["5Vapor14DateMiddlewareC", "Response"]
+- ["5Vapor14DateMiddlewareC", "String"]
+- ["5Vapor14DateMiddlewareC", "Worker"]
+- !private ["5Vapor14DateMiddlewareC", "accuracy"]
+- !private ["5Vapor14DateMiddlewareC", "assert"]
+- !private ["5Vapor14DateMiddlewareC", "cachedTimeComponents"]
+- !private ["5Vapor14DateMiddlewareC", "cachedTimestamp"]
+- !private ["5Vapor14DateMiddlewareC", "dayNames"]
+- ["5Vapor14DateMiddlewareC", "deinit"]
+- !private ["5Vapor14DateMiddlewareC", "eventLoop"]
+- !private ["5Vapor14DateMiddlewareC", "getDate"]
+- !private ["5Vapor14DateMiddlewareC", "gmtime"]
+- !private ["5Vapor14DateMiddlewareC", "init"]
+- !private ["5Vapor14DateMiddlewareC", "init"]
+- ["5Vapor14DateMiddlewareC", "makeService"]
+- !private ["5Vapor14DateMiddlewareC", "monthNames"]
+- !private ["5Vapor14DateMiddlewareC", "numericCast"]
+- ["5Vapor14DateMiddlewareC", "respond"]
+- !private ["5Vapor14DateMiddlewareC", "secondsInDay"]
+- ["5Vapor14DateMiddlewareC", "serviceSupports"]
+- !private ["5Vapor14DateMiddlewareC", "stringNumbers"]
+- !private ["5Vapor14DateMiddlewareC", "tm"]
+- !private ["Se", "append"]
+- !private ["Se", "date"]
+- !private ["Se", "pointee"]
+- !private ["Se", "reserveCapacity"]
+- !private ["Se", "subscript"]
+- !private ["SE", "append"]
+- !private ["SE", "date"]
+- !private ["SE", "map"]
+- !private ["SE", "pointee"]
+- !private ["SE", "reserveCapacity"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "append"]
+- !private ["SQ", "date"]
+- !private ["SQ", "map"]
+- !private ["SQ", "pointee"]
+- !private ["SQ", "replaceOrAdd"]
+- !private ["SQ", "reserveCapacity"]
+- !private ["SQ", "subscript"]
+- !private ["3NIO9EventLoopP", "inEventLoop"]
+- !private ["3NIO15EventLoopFutureC", "map"]
+- !private ["3NIO14EventLoopGroupP", "eventLoop"]
+- !private ["3NIO14EventLoopGroupP", "http"]
+- !private ["3NIO14EventLoopGroupP", "inEventLoop"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "replaceOrAdd"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "append"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "date"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "reserveCapacity"]
+- !private ["s23ExpressibleByNilLiteralP", "pointee"]
+- !private ["s32ExpressibleByStringInterpolationP", "append"]
+- !private ["s32ExpressibleByStringInterpolationP", "date"]
+- !private ["s32ExpressibleByStringInterpolationP", "reserveCapacity"]
+- !private ["s26ExpressibleByStringLiteralP", "append"]
+- !private ["s26ExpressibleByStringLiteralP", "date"]
+- !private ["s26ExpressibleByStringLiteralP", "reserveCapacity"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "append"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "date"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "reserveCapacity"]
+- !private ["5Async10FutureTypeP", "map"]
+- !private ["4HTTP14HTTPHeaderNameV", "date"]
+- !private ["8NIOHTTP111HTTPHeadersV", "replaceOrAdd"]
+- !private ["4HTTP11HTTPMessageP", "headers"]
+- !private ["5Vapor20HTTPMessageContainerP", "http"]
+- !private ["4HTTP12HTTPResponseV", "headers"]
+- !private ["SH", "append"]
+- !private ["SH", "date"]
+- !private ["SH", "pointee"]
+- !private ["SH", "reserveCapacity"]
+- !private ["SH", "subscript"]
+- !private ["4Core23LosslessDataConvertibleP", "append"]
+- !private ["4Core23LosslessDataConvertibleP", "date"]
+- !private ["4Core23LosslessDataConvertibleP", "reserveCapacity"]
+- !private ["4Core23LosslessDataConvertibleP", "subscript"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "append"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "date"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "reserveCapacity"]
+- !private ["s25LosslessStringConvertibleP", "append"]
+- !private ["s25LosslessStringConvertibleP", "date"]
+- !private ["s25LosslessStringConvertibleP", "reserveCapacity"]
+- !private ["5Vapor10MiddlewareP", "COperatingSystem"]
+- ["5Vapor10MiddlewareP", ""]
+- !private ["5Vapor10MiddlewareP", "accuracy"]
+- !private ["5Vapor10MiddlewareP", "assert"]
+- !private ["5Vapor10MiddlewareP", "cachedTimeComponents"]
+- !private ["5Vapor10MiddlewareP", "cachedTimestamp"]
+- !private ["5Vapor10MiddlewareP", "dayNames"]
+- !private ["5Vapor10MiddlewareP", "eventLoop"]
+- !private ["5Vapor10MiddlewareP", "getDate"]
+- !private ["5Vapor10MiddlewareP", "gmtime"]
+- !private ["5Vapor10MiddlewareP", "init"]
+- !private ["5Vapor10MiddlewareP", "init"]
+- ["5Vapor10MiddlewareP", "makeService"]
+- !private ["5Vapor10MiddlewareP", "monthNames"]
+- !private ["5Vapor10MiddlewareP", "numericCast"]
+- ["5Vapor10MiddlewareP", "respond"]
+- !private ["5Vapor10MiddlewareP", "secondsInDay"]
+- ["5Vapor10MiddlewareP", "serviceSupports"]
+- !private ["5Vapor10MiddlewareP", "stringNumbers"]
+- !private ["s10MirrorPathP", "append"]
+- !private ["s10MirrorPathP", "date"]
+- !private ["s10MirrorPathP", "reserveCapacity"]
+- !private ["9Multipart0A15PartConvertibleP", "append"]
+- !private ["9Multipart0A15PartConvertibleP", "date"]
+- !private ["9Multipart0A15PartConvertibleP", "reserveCapacity"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["10Foundation8NSCodingP", "append"]
+- !private ["10Foundation8NSCodingP", "reserveCapacity"]
+- !private ["10Foundation9NSCopyingP", "append"]
+- !private ["10Foundation9NSCopyingP", "reserveCapacity"]
+- !private ["10Foundation16NSMutableCopyingP", "append"]
+- !private ["10Foundation16NSMutableCopyingP", "reserveCapacity"]
+- !private ["10Foundation8NSObjectC", "append"]
+- !private ["10Foundation8NSObjectC", "reserveCapacity"]
+- !private ["10Foundation16NSObjectProtocolP", "append"]
+- !private ["10Foundation16NSObjectProtocolP", "reserveCapacity"]
+- !private ["10Foundation14NSSecureCodingP", "append"]
+- !private ["10Foundation14NSSecureCodingP", "reserveCapacity"]
+- !private ["10Foundation8NSStringC", "append"]
+- !private ["10Foundation8NSStringC", "reserveCapacity"]
+- !private ["Sq", "pointee"]
+- !private ["4Core12OptionalTypeP", "pointee"]
+- !private ["7Routing9ParameterP", "append"]
+- !private ["7Routing9ParameterP", "date"]
+- !private ["7Routing9ParameterP", "reserveCapacity"]
+- !private ["7Routing27PathComponentsRepresentableP", "append"]
+- !private ["7Routing27PathComponentsRepresentableP", "date"]
+- !private ["7Routing27PathComponentsRepresentableP", "reserveCapacity"]
+- !private ["7Routing27PathComponentsRepresentableP", "subscript"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "append"]
+- !private ["Sm", "date"]
+- !private ["Sm", "reserveCapacity"]
+- !private ["Sm", "subscript"]
+- !private ["4Core19ReflectionDecodableP", "append"]
+- !private ["4Core19ReflectionDecodableP", "date"]
+- !private ["4Core19ReflectionDecodableP", "pointee"]
+- !private ["4Core19ReflectionDecodableP", "reserveCapacity"]
+- !private ["4Core19ReflectionDecodableP", "subscript"]
+- !private ["5Vapor16RequestDecodableP", "append"]
+- !private ["5Vapor16RequestDecodableP", "date"]
+- !private ["5Vapor16RequestDecodableP", "reserveCapacity"]
+- !private ["5Vapor16RequestDecodableP", "subscript"]
+- !private ["5Vapor16RequestEncodableP", "append"]
+- !private ["5Vapor16RequestEncodableP", "date"]
+- !private ["5Vapor16RequestEncodableP", "reserveCapacity"]
+- !private ["5Vapor16RequestEncodableP", "subscript"]
+- !private ["5Vapor9ResponderP", "respond"]
+- !private ["5Vapor8ResponseC", "deinit"]
+- !private ["5Vapor8ResponseC", "http"]
+- !private ["5Vapor17ResponseDecodableP", "append"]
+- !private ["5Vapor17ResponseDecodableP", "date"]
+- !private ["5Vapor17ResponseDecodableP", "http"]
+- !private ["5Vapor17ResponseDecodableP", "reserveCapacity"]
+- !private ["5Vapor17ResponseDecodableP", "subscript"]
+- !private ["5Vapor17ResponseEncodableP", "append"]
+- !private ["5Vapor17ResponseEncodableP", "date"]
+- !private ["5Vapor17ResponseEncodableP", "headers"]
+- !private ["5Vapor17ResponseEncodableP", "http"]
+- !private ["5Vapor17ResponseEncodableP", "map"]
+- !private ["5Vapor17ResponseEncodableP", "reserveCapacity"]
+- !private ["5Vapor17ResponseEncodableP", "subscript"]
+- !private ["7Routing17RoutableComponentP", "append"]
+- !private ["7Routing17RoutableComponentP", "date"]
+- !private ["7Routing17RoutableComponentP", "reserveCapacity"]
+- !private ["ST", "append"]
+- !private ["ST", "date"]
+- !private ["ST", "replaceOrAdd"]
+- !private ["ST", "reserveCapacity"]
+- !private ["ST", "subscript"]
+- !private ["7ServiceAAP", "COperatingSystem"]
+- ["7ServiceAAP", ""]
+- !private ["7ServiceAAP", "accuracy"]
+- !private ["7ServiceAAP", "assert"]
+- !private ["7ServiceAAP", "cachedTimeComponents"]
+- !private ["7ServiceAAP", "cachedTimestamp"]
+- !private ["7ServiceAAP", "dayNames"]
+- !private ["7ServiceAAP", "eventLoop"]
+- !private ["7ServiceAAP", "getDate"]
+- !private ["7ServiceAAP", "gmtime"]
+- !private ["7ServiceAAP", "init"]
+- !private ["7ServiceAAP", "init"]
+- ["7ServiceAAP", "makeService"]
+- !private ["7ServiceAAP", "monthNames"]
+- !private ["7ServiceAAP", "numericCast"]
+- ["7ServiceAAP", "respond"]
+- !private ["7ServiceAAP", "secondsInDay"]
+- ["7ServiceAAP", "serviceSupports"]
+- !private ["7ServiceAAP", "stringNumbers"]
+- !private ["7Service0A4TypeP", "COperatingSystem"]
+- ["7Service0A4TypeP", ""]
+- !private ["7Service0A4TypeP", "accuracy"]
+- !private ["7Service0A4TypeP", "assert"]
+- !private ["7Service0A4TypeP", "cachedTimeComponents"]
+- !private ["7Service0A4TypeP", "cachedTimestamp"]
+- !private ["7Service0A4TypeP", "dayNames"]
+- !private ["7Service0A4TypeP", "eventLoop"]
+- !private ["7Service0A4TypeP", "getDate"]
+- !private ["7Service0A4TypeP", "gmtime"]
+- !private ["7Service0A4TypeP", "init"]
+- !private ["7Service0A4TypeP", "init"]
+- ["7Service0A4TypeP", "makeService"]
+- !private ["7Service0A4TypeP", "monthNames"]
+- !private ["7Service0A4TypeP", "numericCast"]
+- ["7Service0A4TypeP", "respond"]
+- !private ["7Service0A4TypeP", "secondsInDay"]
+- ["7Service0A4TypeP", "serviceSupports"]
+- !private ["7Service0A4TypeP", "stringNumbers"]
+- !private ["Sx", "pointee"]
+- !private ["SS", "append"]
+- !private ["SS", "date"]
+- !private ["SS", "reserveCapacity"]
+- !private ["Sy", "append"]
+- !private ["Sy", "date"]
+- !private ["Sy", "reserveCapacity"]
+- !private ["11TemplateKit0A17DataRepresentableP", "append"]
+- !private ["11TemplateKit0A17DataRepresentableP", "date"]
+- !private ["11TemplateKit0A17DataRepresentableP", "pointee"]
+- !private ["11TemplateKit0A17DataRepresentableP", "reserveCapacity"]
+- !private ["s16TextOutputStreamP", "append"]
+- !private ["s16TextOutputStreamP", "date"]
+- !private ["s16TextOutputStreamP", "reserveCapacity"]
+- !private ["s20TextOutputStreamableP", "append"]
+- !private ["s20TextOutputStreamableP", "date"]
+- !private ["s20TextOutputStreamableP", "reserveCapacity"]
+- !private ["14URLEncodedForm0aB15DataConvertibleP", "append"]
+- !private ["14URLEncodedForm0aB15DataConvertibleP", "date"]
+- !private ["14URLEncodedForm0aB15DataConvertibleP", "reserveCapacity"]
+- !private ["4HTTP16URLRepresentableP", "append"]
+- !private ["4HTTP16URLRepresentableP", "date"]
+- !private ["4HTTP16URLRepresentableP", "reserveCapacity"]
+- !private ["Sp", "pointee"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["10Foundation13_CFBridgeableP", "append"]
+- !private ["10Foundation13_CFBridgeableP", "date"]
+- !private ["10Foundation13_CFBridgeableP", "reserveCapacity"]
+- !private ["10Foundation13_CFBridgeableP", "subscript"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "append"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "date"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "pointee"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "reserveCapacity"]
+- !private ["8NIOHTTP128_DeprecateHTTPHeaderIteratorP", "replaceOrAdd"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "append"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "date"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "reserveCapacity"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "append"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "date"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "reserveCapacity"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "append"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "date"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "reserveCapacity"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "date"]
+- !private ["s19_HasContiguousBytesP", "reserveCapacity"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation13_NSBridgeableP", "append"]
+- !private ["10Foundation13_NSBridgeableP", "date"]
+- !private ["10Foundation13_NSBridgeableP", "reserveCapacity"]
+- !private ["10Foundation13_NSBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "date"]
+- !private ["s21_ObjectiveCBridgeableP", "reserveCapacity"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s8_PointerP", "pointee"]
+- !private ["10Foundation17_StructBridgeableP", "append"]
+- !private ["10Foundation17_StructBridgeableP", "reserveCapacity"]
+- !private ["10Foundation21_StructTypeBridgeableP", "append"]
+- !private ["10Foundation21_StructTypeBridgeableP", "reserveCapacity"]
+- !private ["10Foundation16_SwiftBridgeableP", "append"]
+- !private ["10Foundation16_SwiftBridgeableP", "reserveCapacity"]
+- !private ["s12_UnwrappableP", "pointee"]
+- !private ["So2tmV", "tm_mday"]
+- !private ["So2tmV", "tm_mon"]
+- !private ["So2tmV", "tm_wday"]
+- !private ["So2tmV", "tm_year"]
+depends-nominal:
+- !private "4Core15AnyOptionalTypeP"
+- !private "4Core22AnyReflectionDecodableP"
+- !private "Sa"
+- !private "4Core21BasicKeyRepresentableP"
+- !private "5Async11BasicWorkerP"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "7Service9ContainerP"
+- !private "7Service14ContainerAliasP"
+- !private "5Vapor7ContentP"
+- !private "10Foundation15ContiguousBytesP"
+- !private "3NIO20ContiguousCollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "5Vapor14DateMiddlewareC"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "3NIO9EventLoopP"
+- !private "3NIO15EventLoopFutureC"
+- !private "3NIO14EventLoopGroupP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "5Async10FutureTypeP"
+- !private "4HTTP14HTTPHeaderNameV"
+- !private "8NIOHTTP111HTTPHeadersV"
+- !private "4HTTP11HTTPMessageP"
+- !private "5Vapor20HTTPMessageContainerP"
+- !private "4HTTP12HTTPResponseV"
+- !private "SH"
+- !private "4Core23LosslessDataConvertibleP"
+- !private "4HTTP29LosslessHTTPBodyRepresentableP"
+- !private "s25LosslessStringConvertibleP"
+- "5Vapor10MiddlewareP"
+- !private "s10MirrorPathP"
+- !private "9Multipart0A15PartConvertibleP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "10Foundation8NSCodingP"
+- !private "10Foundation9NSCopyingP"
+- !private "10Foundation16NSMutableCopyingP"
+- !private "10Foundation8NSObjectC"
+- !private "10Foundation16NSObjectProtocolP"
+- !private "10Foundation14NSSecureCodingP"
+- !private "10Foundation8NSStringC"
+- !private "Sq"
+- !private "4Core12OptionalTypeP"
+- !private "7Routing9ParameterP"
+- !private "7Routing27PathComponentsRepresentableP"
+- !private "Sk"
+- !private "Sm"
+- !private "4Core19ReflectionDecodableP"
+- !private "5Vapor16RequestDecodableP"
+- !private "5Vapor16RequestEncodableP"
+- !private "5Vapor9ResponderP"
+- !private "5Vapor8ResponseC"
+- !private "5Vapor17ResponseDecodableP"
+- !private "5Vapor17ResponseEncodableP"
+- !private "7Routing17RoutableComponentP"
+- !private "ST"
+- "7ServiceAAP"
+- "7Service0A4TypeP"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "11TemplateKit0A17DataRepresentableP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "14URLEncodedForm0aB15DataConvertibleP"
+- !private "4HTTP16URLRepresentableP"
+- !private "Sp"
+- !private "s14_ArrayProtocolP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "8NIOHTTP128_DeprecateHTTPHeaderIteratorP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s8_PointerP"
+- !private "10Foundation17_StructBridgeableP"
+- !private "10Foundation21_StructTypeBridgeableP"
+- !private "10Foundation16_SwiftBridgeableP"
+- !private "s12_UnwrappableP"
+- !private "So2tmV"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Command.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/URLEncodedForm.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Validation.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Crypto.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/DatabaseKit.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOSHA1/include/CNIOSHA1.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl-support.git-5259653155612051483/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBase32/include/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBcrypt/include/module.modulemap"
+interface-hash: "99f08e466caba7e608fbcbb4759db876"

@@ -1,0 +1,251 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateConditional.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateConditional.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateConditional.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateConditional~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateConditional.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateConstant.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateConstant.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateConstant.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateConstant~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateConstant.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateCustom.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateCustom.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateCustom.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateCustom~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateCustom.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateDataContext.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateDataContext.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateDataContext.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateDataContext~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateDataContext.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateEmbed.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateEmbed.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateEmbed.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateEmbed~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateEmbed.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateExpression.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateExpression.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateExpression.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateExpression~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateExpression.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateIdentifier.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateIdentifier.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateIdentifier.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateIdentifier~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateIdentifier.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateIterator.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateIterator.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateIterator.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateIterator~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateIterator.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateRaw.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateRaw.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateRaw.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateRaw~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateRaw.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateSource.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSource.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSource.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSource~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSource.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateSyntax.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSyntax.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSyntax.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSyntax~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSyntax.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateSyntaxType.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSyntaxType.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSyntaxType.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSyntaxType~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateSyntaxType.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/AST/TemplateTag.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateTag.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateTag.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateTag~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/AST/TemplateTag.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Data/TemplateData.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateData.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateData.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateData~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateData.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Data/TemplateDataEncoder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataEncoder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataEncoder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataEncoder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataEncoder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Data/TemplateDataRepresentable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataRepresentable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataRepresentable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataRepresentable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Data/TemplateDataStorage.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataStorage.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataStorage.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataStorage~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Data/TemplateDataStorage.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Deprecated.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Deprecated.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Deprecated.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Deprecated.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Pipeline/ASTCache.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/ASTCache.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/ASTCache.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/ASTCache~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/ASTCache.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Pipeline/PlaintextRenderer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/PlaintextRenderer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/PlaintextRenderer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/PlaintextRenderer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/PlaintextRenderer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Pipeline/TemplateByteScanner.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateByteScanner.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateByteScanner.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateByteScanner~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateByteScanner.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Pipeline/TemplateParser.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateParser.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateParser.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateParser~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateParser.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Pipeline/TemplateRenderer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateRenderer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateRenderer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateRenderer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateRenderer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Pipeline/TemplateSerializer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateSerializer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateSerializer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateSerializer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Pipeline/TemplateSerializer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/Capitalize.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Capitalize.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Capitalize.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Capitalize~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Capitalize.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/Comment.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Comment.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Comment.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Comment~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Comment.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/Contains.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Contains.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Contains.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Contains~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Contains.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/Count.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Count.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Count.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Count~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Count.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/DateFormat.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/DateFormat.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/DateFormat.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/DateFormat~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/DateFormat.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/Lowercase.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Lowercase.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Lowercase.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Lowercase~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Lowercase.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/Print.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Print.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Print.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Print~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Print.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/Raw.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Raw.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Raw.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Raw~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Raw.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/TagContext.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/TagContext.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/TagContext.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/TagContext~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/TagContext.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/TagRenderer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/TagRenderer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/TagRenderer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/TagRenderer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/TagRenderer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/Uppercase.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Uppercase.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Uppercase.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Uppercase~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Uppercase.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Tag/Var.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Var.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Var.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Var~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Tag/Var.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Utilities/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Utilities/HTMLEscape.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/HTMLEscape.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/HTMLEscape.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/HTMLEscape~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/HTMLEscape.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/Utilities/TemplateError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/TemplateError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/TemplateError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/TemplateError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/Utilities/TemplateError.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/View.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/View.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/View.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/View~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/View.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/template-kit.git-6155153731644046518/Sources/TemplateKit/ViewRenderer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/ViewRenderer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/ViewRenderer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/ViewRenderer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.build/ViewRenderer.swiftdeps"
+  }
+}

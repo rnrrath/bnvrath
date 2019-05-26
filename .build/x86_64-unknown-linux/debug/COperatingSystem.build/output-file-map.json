@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/COperatingSystem/libc.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.build/libc.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.build/libc.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.build/libc.swiftdeps"
+  }
+}

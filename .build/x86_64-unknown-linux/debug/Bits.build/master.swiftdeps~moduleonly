@@ -1,0 +1,16 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "cdcd0c74582e521b4dc6b726e99403f1"
+build_time: [1558846255, 197568189]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/BitsError.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Byte+Alphabet.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Byte+Control.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Byte+Digit.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/ByteBuffer+peek.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/ByteBuffer+require.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/ByteBuffer+string.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Bytes.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Data+Bytes.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Data+Strings.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Bits/Deprecated.swift": [1558804089, 315184436]

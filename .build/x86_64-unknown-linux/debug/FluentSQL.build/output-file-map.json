@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/FluentSQLQuery.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/FluentSQLQuery.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/FluentSQLQuery.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/FluentSQLQuery~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/FluentSQLQuery.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/FluentSQLSchema.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/FluentSQLSchema.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/FluentSQLSchema.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/FluentSQLSchema~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/FluentSQLSchema.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/QueryBuilder+GroupBy.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/QueryBuilder+GroupBy.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/QueryBuilder+GroupBy.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/QueryBuilder+GroupBy~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/QueryBuilder+GroupBy.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/SQL+Contains.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+Contains.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+Contains.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+Contains~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+Contains.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/SQL+JoinSupporting.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+JoinSupporting.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+JoinSupporting.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+JoinSupporting~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+JoinSupporting.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/SQL+QuerySupporting.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+QuerySupporting.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+QuerySupporting.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+QuerySupporting~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+QuerySupporting.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/SQL+SchemaSupporting.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+SchemaSupporting.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+SchemaSupporting.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+SchemaSupporting~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SQL+SchemaSupporting.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/SchemaBuilder+Field.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SchemaBuilder+Field.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SchemaBuilder+Field.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SchemaBuilder+Field~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/FluentSQL.build/SchemaBuilder+Field.swiftdeps"
+  }
+}

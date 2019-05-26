@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/websocket.git--3452760953571513752/Sources/WebSocket/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/websocket.git--3452760953571513752/Sources/WebSocket/WebSocket+Client.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket+Client.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket+Client.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket+Client~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket+Client.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/websocket.git--3452760953571513752/Sources/WebSocket/WebSocket+Server.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket+Server.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket+Server.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket+Server~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket+Server.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/websocket.git--3452760953571513752/Sources/WebSocket/WebSocket.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocket.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/websocket.git--3452760953571513752/Sources/WebSocket/WebSocketFrameSequence.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocketFrameSequence.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocketFrameSequence.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocketFrameSequence~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocketFrameSequence.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/websocket.git--3452760953571513752/Sources/WebSocket/WebSocketHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocketHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocketHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocketHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.build/WebSocketHandler.swiftdeps"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/FormDataDecoder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/FormDataDecoder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/FormDataDecoder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/FormDataDecoder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/FormDataDecoder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/FormDataEncoder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/FormDataEncoder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/FormDataEncoder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/FormDataEncoder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/FormDataEncoder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/MultipartError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartError.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/MultipartParser.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartParser.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartParser.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartParser~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartParser.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/MultipartPart.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartPart.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartPart.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartPart~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartPart.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/MultipartPartConvertible.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartPartConvertible.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartPartConvertible.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartPartConvertible~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartPartConvertible.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/MultipartSerializer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartSerializer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartSerializer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartSerializer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.build/MultipartSerializer.swiftdeps"
+  }
+}

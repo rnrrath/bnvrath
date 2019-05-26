@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/ApplicationProtocolNegotiationHandler.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOTLS/SNIHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/SNIHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/SNIHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/SNIHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/SNIHandler.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOTLS/TLSEvents.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/TLSEvents.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/TLSEvents.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/TLSEvents~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.build/TLSEvents.swiftdeps"
+  }
+}

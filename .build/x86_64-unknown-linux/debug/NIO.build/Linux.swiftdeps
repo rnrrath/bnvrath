@@ -1,0 +1,176 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TimerFd"
+- "EventFd"
+- "Epoll"
+- "Linux"
+provides-nominal:
+- "3NIO7TimerFdO"
+- "3NIO7EventFdO"
+- "3NIO5EpollO"
+- "3NIO5LinuxO"
+provides-member:
+- ["3NIO7TimerFdO", ""]
+- ["3NIO7EventFdO", ""]
+- ["3NIO5EpollO", ""]
+- ["3NIO5LinuxO", ""]
+depends-top-level:
+- "CInt"
+- "CNIOLinux"
+- "CUnsignedInt"
+- "Epoll"
+- "EventFd"
+- "Glibc"
+- !private "IOResult"
+- "Int32"
+- "Linux"
+- "TimerFd"
+- "UInt64"
+- "UnsafeMutablePointer"
+- "UnsafePointer"
+- "itimerspec"
+- "numericCast"
+- "sockaddr"
+- "socklen_t"
+- !private "wrapSyscall"
+- !private "wrapSyscallMayBlock"
+- !private "|"
+depends-member:
+- ["s18AdditiveArithmeticP", "init"]
+- ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "init"]
+- ["Sz", "init"]
+- ["s7CVarArgP", "init"]
+- ["SL", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["Se", "init"]
+- ["So12EPOLL_EVENTSV", "rawValue"]
+- ["SE", "init"]
+- ["3NIO5EpollO", "CInt"]
+- ["3NIO5EpollO", "CNIOLinux"]
+- ["3NIO5EpollO", "CUnsignedInt"]
+- ["3NIO5EpollO", "ENOENT"]
+- ["3NIO5EpollO", "EPOLLERR"]
+- ["3NIO5EpollO", "EPOLLET"]
+- ["3NIO5EpollO", "EPOLLHUP"]
+- ["3NIO5EpollO", "EPOLLIN"]
+- ["3NIO5EpollO", "EPOLLOUT"]
+- ["3NIO5EpollO", "EPOLLRDHUP"]
+- ["3NIO5EpollO", "EPOLL_CTL_ADD"]
+- ["3NIO5EpollO", "EPOLL_CTL_DEL"]
+- ["3NIO5EpollO", "EPOLL_CTL_MOD"]
+- ["3NIO5EpollO", "Int32"]
+- ["3NIO5EpollO", "UnsafeMutablePointer"]
+- ["3NIO5EpollO", "epoll_create"]
+- ["3NIO5EpollO", "epoll_ctl"]
+- ["3NIO5EpollO", "epoll_event"]
+- ["3NIO5EpollO", "epoll_wait"]
+- ["3NIO5EpollO", "numericCast"]
+- !private ["3NIO5EpollO", "wrapSyscall"]
+- ["SQ", "init"]
+- ["SQ", "processed"]
+- ["SQ", "rawValue"]
+- ["3NIO7EventFdO", "CNIOLinux"]
+- ["3NIO7EventFdO", "EFD_CLOEXEC"]
+- ["3NIO7EventFdO", "EFD_NONBLOCK"]
+- ["3NIO7EventFdO", "Int32"]
+- ["3NIO7EventFdO", "UInt64"]
+- ["3NIO7EventFdO", "UnsafeMutablePointer"]
+- ["3NIO7EventFdO", "eventfd"]
+- ["3NIO7EventFdO", "eventfd_read"]
+- ["3NIO7EventFdO", "eventfd_t"]
+- ["3NIO7EventFdO", "eventfd_write"]
+- !private ["3NIO7EventFdO", "wrapSyscall"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s17FixedWidthIntegerP", "init"]
+- ["SH", "init"]
+- ["3NIO8IOResultO", "processed"]
+- ["s5Int32V", "init"]
+- ["3NIO5LinuxO", "CInt"]
+- !private ["3NIO5LinuxO", "CNIOLinux"]
+- ["3NIO5LinuxO", "Glibc"]
+- !private ["3NIO5LinuxO", "IOResult"]
+- ["3NIO5LinuxO", "Int32"]
+- ["3NIO5LinuxO", "SOCK_CLOEXEC"]
+- ["3NIO5LinuxO", "SOCK_NONBLOCK"]
+- ["3NIO5LinuxO", "UnsafeMutablePointer"]
+- ["3NIO5LinuxO", "accept4"]
+- ["3NIO5LinuxO", "sockaddr"]
+- ["3NIO5LinuxO", "socklen_t"]
+- !private ["3NIO5LinuxO", "wrapSyscallMayBlock"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["Sj", "init"]
+- ["SY", "rawValue"]
+- ["s10SIMDScalarP", "init"]
+- ["SZ", "init"]
+- ["s13SignedNumericP", "init"]
+- ["Sx", "init"]
+- ["3NIO7TimerFdO", "CNIOLinux"]
+- ["3NIO7TimerFdO", "Int32"]
+- ["3NIO7TimerFdO", "TFD_CLOEXEC"]
+- ["3NIO7TimerFdO", "TFD_NONBLOCK"]
+- ["3NIO7TimerFdO", "UnsafeMutablePointer"]
+- ["3NIO7TimerFdO", "UnsafePointer"]
+- ["3NIO7TimerFdO", "itimerspec"]
+- ["3NIO7TimerFdO", "timerfd_create"]
+- ["3NIO7TimerFdO", "timerfd_settime"]
+- !private ["3NIO7TimerFdO", "wrapSyscall"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["So13__socket_typeV", "rawValue"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- "21NIOConcurrencyHelpers15AtomicPrimitiveP"
+- "Sz"
+- "s7CVarArgP"
+- "SL"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "So12EPOLL_EVENTSV"
+- "SE"
+- "3NIO5EpollO"
+- "SQ"
+- "3NIO7EventFdO"
+- "s27ExpressibleByIntegerLiteralP"
+- "s17FixedWidthIntegerP"
+- "SH"
+- "3NIO8IOResultO"
+- "s5Int32V"
+- "3NIO5LinuxO"
+- "s25LosslessStringConvertibleP"
+- "Sj"
+- "SY"
+- "s10SIMDScalarP"
+- "SZ"
+- "s13SignedNumericP"
+- "Sx"
+- "3NIO7TimerFdO"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "So13__socket_typeV"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "e159527bde7229704d66019b00170988"

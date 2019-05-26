@@ -1,0 +1,137 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MemoryKeyedCache"
+provides-nominal:
+- "11DatabaseKit16MemoryKeyedCacheC"
+provides-member:
+- ["11DatabaseKit16MemoryKeyedCacheC", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "Decodable"
+- "DictionaryKeyedCache"
+- "Encodable"
+- "Future"
+- "KeyedCache"
+- "MemoryKeyedCache"
+- "NSLock"
+- "Service"
+- "String"
+- "Void"
+depends-member:
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lock"]
+- !private ["s28CustomDebugStringConvertibleP", "unlock"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lock"]
+- !private ["s23CustomStringConvertibleP", "unlock"]
+- !private ["11DatabaseKit20DictionaryKeyedCacheC", "deinit"]
+- !private ["11DatabaseKit20DictionaryKeyedCacheC", "get"]
+- !private ["11DatabaseKit20DictionaryKeyedCacheC", "init"]
+- !private ["11DatabaseKit20DictionaryKeyedCacheC", "remove"]
+- !private ["11DatabaseKit20DictionaryKeyedCacheC", "set"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "lock"]
+- !private ["SQ", "unlock"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "lock"]
+- !private ["SH", "unlock"]
+- !private ["11DatabaseKit10KeyedCacheP", "DictionaryKeyedCache"]
+- ["11DatabaseKit10KeyedCacheP", ""]
+- ["11DatabaseKit10KeyedCacheP", "get"]
+- !private ["11DatabaseKit10KeyedCacheP", "init"]
+- !private ["11DatabaseKit10KeyedCacheP", "lock"]
+- !private ["11DatabaseKit10KeyedCacheP", "memory"]
+- ["11DatabaseKit10KeyedCacheP", "remove"]
+- ["11DatabaseKit10KeyedCacheP", "set"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "Decodable"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "DictionaryKeyedCache"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "Encodable"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "Future"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "NSLock"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "String"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "Void"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "deinit"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "get"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "init"]
+- !private ["11DatabaseKit16MemoryKeyedCacheC", "lock"]
+- !private ["11DatabaseKit16MemoryKeyedCacheC", "memory"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "remove"]
+- ["11DatabaseKit16MemoryKeyedCacheC", "set"]
+- !private ["10Foundation6NSLockC", "init"]
+- !private ["10Foundation6NSLockC", "init"]
+- !private ["10Foundation6NSLockC", "lock"]
+- !private ["10Foundation6NSLockC", "unlock"]
+- !private ["10Foundation9NSLockingP", "init"]
+- !private ["10Foundation9NSLockingP", "init"]
+- !private ["10Foundation9NSLockingP", "lock"]
+- !private ["10Foundation9NSLockingP", "unlock"]
+- !private ["10Foundation8NSObjectC", "init"]
+- !private ["10Foundation8NSObjectC", "init"]
+- !private ["10Foundation8NSObjectC", "lock"]
+- !private ["10Foundation8NSObjectC", "unlock"]
+- !private ["10Foundation16NSObjectProtocolP", "init"]
+- !private ["10Foundation16NSObjectProtocolP", "init"]
+- !private ["10Foundation16NSObjectProtocolP", "lock"]
+- !private ["10Foundation16NSObjectProtocolP", "unlock"]
+- !private ["7ServiceAAP", "DictionaryKeyedCache"]
+- ["7ServiceAAP", ""]
+- ["7ServiceAAP", "get"]
+- !private ["7ServiceAAP", "init"]
+- !private ["7ServiceAAP", "lock"]
+- !private ["7ServiceAAP", "memory"]
+- ["7ServiceAAP", "remove"]
+- ["7ServiceAAP", "set"]
+- !private ["7Service0A4TypeP", "get"]
+- !private ["7Service0A4TypeP", "init"]
+- !private ["7Service0A4TypeP", "remove"]
+- !private ["7Service0A4TypeP", "set"]
+depends-nominal:
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "11DatabaseKit20DictionaryKeyedCacheC"
+- !private "SQ"
+- !private "SH"
+- "11DatabaseKit10KeyedCacheP"
+- "11DatabaseKit16MemoryKeyedCacheC"
+- !private "10Foundation6NSLockC"
+- !private "10Foundation9NSLockingP"
+- !private "10Foundation8NSObjectC"
+- !private "10Foundation16NSObjectProtocolP"
+- "7ServiceAAP"
+- !private "7Service0A4TypeP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "2fdc1087dba150818e74c666a5007f34"

@@ -1,0 +1,202 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConfiguredDatabase"
+- "ConnectionConfig"
+provides-nominal:
+- "11DatabaseKit010ConfiguredA0V"
+- "11DatabaseKit16ConnectionConfigV"
+provides-member:
+- ["11DatabaseKit010ConfiguredA0V", ""]
+- ["11DatabaseKit16ConnectionConfigV", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "ConfiguredDatabase"
+- "Connection"
+- "ConnectionConfig"
+- "Database"
+- "Decodable"
+- "Encodable"
+- "EventLoopFuture"
+- "Future"
+- "KeyedCacheSupporting"
+- !private "LazyFuture"
+- "String"
+- "Void"
+- "Worker"
+depends-member:
+- !private ["4Core22AnyReflectionDecodableP", "map"]
+- !private ["4Core22AnyReflectionDecodableP", "syncFlatten"]
+- !private ["Sa", "map"]
+- !private ["Sa", "syncFlatten"]
+- !private ["SK", "map"]
+- !private ["SK", "syncFlatten"]
+- !private ["Sl", "map"]
+- !private ["Sl", "syncFlatten"]
+- ["11DatabaseKit010ConfiguredA0V", "Connection"]
+- ["11DatabaseKit010ConfiguredA0V", "ConnectionConfig"]
+- ["11DatabaseKit010ConfiguredA0V", "Decodable"]
+- ["11DatabaseKit010ConfiguredA0V", "Encodable"]
+- ["11DatabaseKit010ConfiguredA0V", "EventLoopFuture"]
+- ["11DatabaseKit010ConfiguredA0V", "Future"]
+- ["11DatabaseKit010ConfiguredA0V", "KeyedCacheSupporting"]
+- !private ["11DatabaseKit010ConfiguredA0V", "LazyFuture"]
+- ["11DatabaseKit010ConfiguredA0V", "String"]
+- ["11DatabaseKit010ConfiguredA0V", "Void"]
+- ["11DatabaseKit010ConfiguredA0V", "Worker"]
+- ["11DatabaseKit010ConfiguredA0V", "_Default_Connection"]
+- ["11DatabaseKit010ConfiguredA0V", "base"]
+- ["11DatabaseKit010ConfiguredA0V", "config"]
+- ["11DatabaseKit010ConfiguredA0V", "deinit"]
+- ["11DatabaseKit010ConfiguredA0V", "init"]
+- ["11DatabaseKit010ConfiguredA0V", "keyedCacheGet"]
+- ["11DatabaseKit010ConfiguredA0V", "keyedCacheRemove"]
+- ["11DatabaseKit010ConfiguredA0V", "keyedCacheSet"]
+- ["11DatabaseKit010ConfiguredA0V", "newConnection"]
+- ["11DatabaseKit16ConnectionConfigV", "Future"]
+- ["11DatabaseKit16ConnectionConfigV", "Void"]
+- ["11DatabaseKit16ConnectionConfigV", "init"]
+- ["11DatabaseKit16ConnectionConfigV", "pipeline"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["10Foundation15ContiguousBytesP", "syncFlatten"]
+- !private ["3NIO20ContiguousCollectionP", "map"]
+- !private ["3NIO20ContiguousCollectionP", "syncFlatten"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "syncFlatten"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "syncFlatten"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "syncFlatten"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["10Foundation12DataProtocolP", "syncFlatten"]
+- ["11DatabaseKit0A0P", "Connection"]
+- ["11DatabaseKit0A0P", ""]
+- ["11DatabaseKit0A0P", "_Default_Connection"]
+- !private ["11DatabaseKit0A0P", "base"]
+- !private ["11DatabaseKit0A0P", "config"]
+- ["11DatabaseKit0A0P", "keyedCacheGet"]
+- ["11DatabaseKit0A0P", "keyedCacheRemove"]
+- ["11DatabaseKit0A0P", "keyedCacheSet"]
+- ["11DatabaseKit0A0P", "newConnection"]
+- !private ["Se", "map"]
+- !private ["Se", "syncFlatten"]
+- !private ["SE", "map"]
+- !private ["SE", "syncFlatten"]
+- !private ["SE", "then"]
+- !private ["SE", "transform"]
+- !private ["SQ", "map"]
+- !private ["SQ", "syncFlatten"]
+- !private ["SQ", "then"]
+- !private ["SQ", "transform"]
+- !private ["3NIO15EventLoopFutureC", "then"]
+- !private ["3NIO15EventLoopFutureC", "transform"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s25ExpressibleByArrayLiteralP", "syncFlatten"]
+- !private ["5Async10FutureTypeP", "then"]
+- !private ["5Async10FutureTypeP", "transform"]
+- !private ["SH", "map"]
+- !private ["SH", "syncFlatten"]
+- ["11DatabaseKit20KeyedCacheSupportingP", "Connection"]
+- ["11DatabaseKit20KeyedCacheSupportingP", ""]
+- ["11DatabaseKit20KeyedCacheSupportingP", "_Default_Connection"]
+- !private ["11DatabaseKit20KeyedCacheSupportingP", "base"]
+- !private ["11DatabaseKit20KeyedCacheSupportingP", "config"]
+- ["11DatabaseKit20KeyedCacheSupportingP", "keyedCacheGet"]
+- ["11DatabaseKit20KeyedCacheSupportingP", "keyedCacheRemove"]
+- ["11DatabaseKit20KeyedCacheSupportingP", "keyedCacheSet"]
+- ["11DatabaseKit20KeyedCacheSupportingP", "newConnection"]
+- !private ["4Core23LosslessDataConvertibleP", "map"]
+- !private ["4Core23LosslessDataConvertibleP", "syncFlatten"]
+- !private ["SM", "map"]
+- !private ["SM", "syncFlatten"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "syncFlatten"]
+- !private ["Sk", "map"]
+- !private ["Sk", "syncFlatten"]
+- !private ["Sm", "map"]
+- !private ["Sm", "syncFlatten"]
+- !private ["4Core19ReflectionDecodableP", "map"]
+- !private ["4Core19ReflectionDecodableP", "syncFlatten"]
+- !private ["ST", "map"]
+- !private ["ST", "syncFlatten"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s14_ArrayProtocolP", "syncFlatten"]
+- !private ["10Foundation13_CFBridgeableP", "map"]
+- !private ["10Foundation13_CFBridgeableP", "syncFlatten"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s24_DestructorSafeContainerP", "syncFlatten"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s19_HasContiguousBytesP", "syncFlatten"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "syncFlatten"]
+- !private ["10Foundation13_NSBridgeableP", "map"]
+- !private ["10Foundation13_NSBridgeableP", "syncFlatten"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "syncFlatten"]
+depends-nominal:
+- !private "4Core22AnyReflectionDecodableP"
+- !private "Sa"
+- !private "SK"
+- !private "Sl"
+- "11DatabaseKit010ConfiguredA0V"
+- "11DatabaseKit16ConnectionConfigV"
+- !private "10Foundation15ContiguousBytesP"
+- !private "3NIO20ContiguousCollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "11DatabaseKit0A0P"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "3NIO15EventLoopFutureC"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "5Async10FutureTypeP"
+- !private "SH"
+- "11DatabaseKit20KeyedCacheSupportingP"
+- !private "4Core23LosslessDataConvertibleP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sk"
+- !private "Sm"
+- !private "4Core19ReflectionDecodableP"
+- !private "ST"
+- !private "s14_ArrayProtocolP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "748f8948ae4caef0d715a596637f7cbf"

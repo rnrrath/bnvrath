@@ -1,0 +1,284 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SessionsMiddleware"
+provides-nominal:
+- "5Vapor18SessionsMiddlewareC"
+provides-member:
+- ["5Vapor18SessionsMiddlewareC", ""]
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "Container"
+- "Future"
+- "Middleware"
+- "Request"
+- "Responder"
+- "Response"
+- "ServiceType"
+- "SessionCache"
+- "Sessions"
+- "SessionsConfig"
+- "SessionsMiddleware"
+- !private "Void"
+depends-member:
+- !private ["4Core15AnyOptionalTypeP", "expired"]
+- !private ["4Core22AnyReflectionDecodableP", "expired"]
+- !private ["5Async11BasicWorkerP", "eventLoop"]
+- !private ["5Async11BasicWorkerP", "http"]
+- !private ["5Async11BasicWorkerP", "make"]
+- !private ["5Async11BasicWorkerP", "privateContainer"]
+- !private ["7Service9ContainerP", "eventLoop"]
+- !private ["7Service9ContainerP", "http"]
+- !private ["7Service9ContainerP", "make"]
+- !private ["7Service9ContainerP", "privateContainer"]
+- !private ["7Service14ContainerAliasP", "eventLoop"]
+- !private ["7Service14ContainerAliasP", "http"]
+- !private ["7Service14ContainerAliasP", "privateContainer"]
+- !private ["s28CustomDebugStringConvertibleP", "cookies"]
+- !private ["s28CustomDebugStringConvertibleP", "eventLoop"]
+- !private ["s28CustomDebugStringConvertibleP", "expired"]
+- !private ["s28CustomDebugStringConvertibleP", "http"]
+- !private ["s28CustomDebugStringConvertibleP", "privateContainer"]
+- !private ["s17CustomReflectableP", "expired"]
+- !private ["s23CustomStringConvertibleP", "cookies"]
+- !private ["s23CustomStringConvertibleP", "eventLoop"]
+- !private ["s23CustomStringConvertibleP", "http"]
+- !private ["s23CustomStringConvertibleP", "privateContainer"]
+- !private ["11DatabaseKit0A11ConnectableP", "eventLoop"]
+- !private ["11DatabaseKit0A11ConnectableP", "http"]
+- !private ["11DatabaseKit0A11ConnectableP", "privateContainer"]
+- !private ["Se", "expired"]
+- !private ["SE", "expired"]
+- !private ["SE", "flatMap"]
+- !private ["SE", "map"]
+- !private ["SQ", "expired"]
+- !private ["SQ", "flatMap"]
+- !private ["SQ", "map"]
+- !private ["3NIO9EventLoopP", "newSucceededFuture"]
+- !private ["3NIO15EventLoopFutureC", "flatMap"]
+- !private ["3NIO15EventLoopFutureC", "map"]
+- !private ["3NIO14EventLoopGroupP", "eventLoop"]
+- !private ["3NIO14EventLoopGroupP", "http"]
+- !private ["3NIO14EventLoopGroupP", "make"]
+- !private ["3NIO14EventLoopGroupP", "newSucceededFuture"]
+- !private ["3NIO14EventLoopGroupP", "privateContainer"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "expired"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "string"]
+- !private ["s23ExpressibleByNilLiteralP", "expired"]
+- !private ["s26ExpressibleByStringLiteralP", "expired"]
+- !private ["s26ExpressibleByStringLiteralP", "string"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "expired"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "string"]
+- !private ["5Async10FutureTypeP", "flatMap"]
+- !private ["5Async10FutureTypeP", "map"]
+- !private ["4HTTP15HTTPCookieValueV", "expired"]
+- !private ["4HTTP15HTTPCookieValueV", "string"]
+- !private ["4HTTP11HTTPCookiesV", "subscript"]
+- !private ["4HTTP11HTTPMessageP", "cookies"]
+- !private ["5Vapor20HTTPMessageContainerP", "eventLoop"]
+- !private ["5Vapor20HTTPMessageContainerP", "http"]
+- !private ["5Vapor20HTTPMessageContainerP", "privateContainer"]
+- !private ["4HTTP11HTTPRequestV", "cookies"]
+- !private ["4HTTP12HTTPResponseV", "cookies"]
+- !private ["SH", "expired"]
+- !private ["5Vapor10MiddlewareP", "SessionCache"]
+- ["5Vapor10MiddlewareP", ""]
+- !private ["5Vapor10MiddlewareP", "addCookies"]
+- !private ["5Vapor10MiddlewareP", "config"]
+- !private ["5Vapor10MiddlewareP", "init"]
+- !private ["5Vapor10MiddlewareP", "init"]
+- ["5Vapor10MiddlewareP", "makeService"]
+- ["5Vapor10MiddlewareP", "respond"]
+- ["5Vapor10MiddlewareP", "serviceSupports"]
+- !private ["5Vapor10MiddlewareP", "sessions"]
+- !private ["Sq", "expired"]
+- !private ["4Core12OptionalTypeP", "expired"]
+- !private ["4Core19ReflectionDecodableP", "expired"]
+- !private ["5Vapor7RequestC", "deinit"]
+- !private ["5Vapor7RequestC", "eventLoop"]
+- !private ["5Vapor7RequestC", "http"]
+- !private ["5Vapor7RequestC", "privateContainer"]
+- !private ["5Vapor16RequestDecodableP", "cookies"]
+- !private ["5Vapor16RequestDecodableP", "eventLoop"]
+- !private ["5Vapor16RequestDecodableP", "http"]
+- !private ["5Vapor16RequestDecodableP", "privateContainer"]
+- !private ["5Vapor16RequestEncodableP", "cookies"]
+- !private ["5Vapor16RequestEncodableP", "eventLoop"]
+- !private ["5Vapor16RequestEncodableP", "http"]
+- !private ["5Vapor16RequestEncodableP", "privateContainer"]
+- !private ["5Vapor9ResponderP", "respond"]
+- !private ["5Vapor8ResponseC", "deinit"]
+- !private ["5Vapor8ResponseC", "http"]
+- !private ["5Vapor17ResponseDecodableP", "http"]
+- !private ["5Vapor17ResponseEncodableP", "cookies"]
+- !private ["5Vapor17ResponseEncodableP", "flatMap"]
+- !private ["5Vapor17ResponseEncodableP", "http"]
+- !private ["5Vapor17ResponseEncodableP", "map"]
+- !private ["7ServiceAAP", "SessionCache"]
+- ["7ServiceAAP", ""]
+- !private ["7ServiceAAP", "addCookies"]
+- !private ["7ServiceAAP", "config"]
+- !private ["7ServiceAAP", "cookieFactory"]
+- !private ["7ServiceAAP", "cookieName"]
+- !private ["7ServiceAAP", "init"]
+- !private ["7ServiceAAP", "init"]
+- ["7ServiceAAP", "makeService"]
+- !private ["7ServiceAAP", "middlewareFlag"]
+- ["7ServiceAAP", "respond"]
+- ["7ServiceAAP", "serviceSupports"]
+- !private ["7ServiceAAP", "session"]
+- !private ["7ServiceAAP", "sessions"]
+- !private ["7Service0A4TypeP", "SessionCache"]
+- ["7Service0A4TypeP", ""]
+- !private ["7Service0A4TypeP", "addCookies"]
+- !private ["7Service0A4TypeP", "config"]
+- !private ["7Service0A4TypeP", "cookieFactory"]
+- !private ["7Service0A4TypeP", "cookieName"]
+- !private ["7Service0A4TypeP", "init"]
+- !private ["7Service0A4TypeP", "init"]
+- ["7Service0A4TypeP", "makeService"]
+- !private ["7Service0A4TypeP", "middlewareFlag"]
+- ["7Service0A4TypeP", "respond"]
+- ["7Service0A4TypeP", "serviceSupports"]
+- !private ["7Service0A4TypeP", "session"]
+- !private ["7Service0A4TypeP", "sessions"]
+- !private ["5Vapor7SessionC", "id"]
+- !private ["5Vapor12SessionCacheC", "middlewareFlag"]
+- !private ["5Vapor12SessionCacheC", "session"]
+- !private ["5Vapor8SessionsP", "createSession"]
+- !private ["5Vapor8SessionsP", "destroySession"]
+- !private ["5Vapor8SessionsP", "readSession"]
+- !private ["5Vapor8SessionsP", "updateSession"]
+- !private ["5Vapor14SessionsConfigV", "cookieFactory"]
+- !private ["5Vapor14SessionsConfigV", "cookieName"]
+- ["5Vapor18SessionsMiddlewareC", "Container"]
+- ["5Vapor18SessionsMiddlewareC", "Future"]
+- ["5Vapor18SessionsMiddlewareC", "Request"]
+- ["5Vapor18SessionsMiddlewareC", "Responder"]
+- ["5Vapor18SessionsMiddlewareC", "Response"]
+- ["5Vapor18SessionsMiddlewareC", "SessionCache"]
+- ["5Vapor18SessionsMiddlewareC", "Sessions"]
+- ["5Vapor18SessionsMiddlewareC", "SessionsConfig"]
+- ["5Vapor18SessionsMiddlewareC", "SessionsMiddleware"]
+- !private ["5Vapor18SessionsMiddlewareC", "Void"]
+- !private ["5Vapor18SessionsMiddlewareC", "addCookies"]
+- ["5Vapor18SessionsMiddlewareC", "config"]
+- ["5Vapor18SessionsMiddlewareC", "deinit"]
+- ["5Vapor18SessionsMiddlewareC", "init"]
+- !private ["5Vapor18SessionsMiddlewareC", "init"]
+- ["5Vapor18SessionsMiddlewareC", "makeService"]
+- ["5Vapor18SessionsMiddlewareC", "respond"]
+- ["5Vapor18SessionsMiddlewareC", "serviceSupports"]
+- ["5Vapor18SessionsMiddlewareC", "sessions"]
+- !private ["7Service12SubContainerP", "make"]
+- !private ["11TemplateKit0A17DataRepresentableP", "expired"]
+- !private ["s12_UnwrappableP", "expired"]
+depends-nominal:
+- !private "4Core15AnyOptionalTypeP"
+- !private "4Core22AnyReflectionDecodableP"
+- !private "5Async11BasicWorkerP"
+- !private "7Service9ContainerP"
+- !private "7Service14ContainerAliasP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "11DatabaseKit0A11ConnectableP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "3NIO9EventLoopP"
+- !private "3NIO15EventLoopFutureC"
+- !private "3NIO14EventLoopGroupP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "5Async10FutureTypeP"
+- !private "4HTTP15HTTPCookieValueV"
+- !private "4HTTP11HTTPCookiesV"
+- !private "4HTTP11HTTPMessageP"
+- !private "5Vapor20HTTPMessageContainerP"
+- !private "4HTTP11HTTPRequestV"
+- !private "4HTTP12HTTPResponseV"
+- !private "SH"
+- "5Vapor10MiddlewareP"
+- !private "Sq"
+- !private "4Core12OptionalTypeP"
+- !private "4Core19ReflectionDecodableP"
+- !private "5Vapor7RequestC"
+- !private "5Vapor16RequestDecodableP"
+- !private "5Vapor16RequestEncodableP"
+- !private "5Vapor9ResponderP"
+- !private "5Vapor8ResponseC"
+- !private "5Vapor17ResponseDecodableP"
+- !private "5Vapor17ResponseEncodableP"
+- "7ServiceAAP"
+- "7Service0A4TypeP"
+- !private "5Vapor7SessionC"
+- !private "5Vapor12SessionCacheC"
+- !private "5Vapor8SessionsP"
+- !private "5Vapor14SessionsConfigV"
+- "5Vapor18SessionsMiddlewareC"
+- !private "7Service12SubContainerP"
+- !private "11TemplateKit0A17DataRepresentableP"
+- !private "s12_UnwrappableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Command.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/URLEncodedForm.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Validation.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Crypto.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/DatabaseKit.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOSHA1/include/CNIOSHA1.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl-support.git-5259653155612051483/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBase32/include/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBcrypt/include/module.modulemap"
+interface-hash: "9f4173f5dc110803dd3f83bb84884746"

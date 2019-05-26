@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CCryptoOpenSSL/include"
+    export *
+}

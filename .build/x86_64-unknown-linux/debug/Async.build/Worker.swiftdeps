@@ -1,0 +1,75 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Worker"
+- "BasicWorker"
+provides-nominal:
+- "5Async11BasicWorkerP"
+provides-member:
+- ["3NIO14EventLoopGroupP", ""]
+- ["5Async11BasicWorkerP", ""]
+- ["3NIO14EventLoopGroupP", "eventLoop"]
+- ["3NIO14EventLoopGroupP", "future"]
+- ["3NIO14EventLoopGroupP", "future"]
+- ["3NIO14EventLoopGroupP", "future"]
+- ["5Async11BasicWorkerP", "next"]
+- ["5Async11BasicWorkerP", "shutdownGracefully"]
+depends-top-level:
+- "BasicWorker"
+- "DispatchQueue"
+- "Error"
+- "EventLoop"
+- "EventLoopGroup"
+- "Future"
+- "Void"
+- "Worker"
+depends-member:
+- ["5Async11BasicWorkerP", "DispatchQueue"]
+- ["5Async11BasicWorkerP", "Error"]
+- ["5Async11BasicWorkerP", "EventLoop"]
+- ["5Async11BasicWorkerP", "Void"]
+- ["5Async11BasicWorkerP", "eventLoop"]
+- ["5Async11BasicWorkerP", "next"]
+- ["5Async11BasicWorkerP", "shutdownGracefully"]
+- !private ["3NIO9EventLoopP", "newFailedFuture"]
+- !private ["3NIO9EventLoopP", "newSucceededFuture"]
+- !private ["3NIO9EventLoopP", "shutdownGracefully"]
+- ["3NIO14EventLoopGroupP", "DispatchQueue"]
+- ["3NIO14EventLoopGroupP", "Error"]
+- ["3NIO14EventLoopGroupP", "EventLoop"]
+- ["3NIO14EventLoopGroupP", "Future"]
+- ["3NIO14EventLoopGroupP", "Void"]
+- ["3NIO14EventLoopGroupP", ""]
+- ["3NIO14EventLoopGroupP", "eventLoop"]
+- ["3NIO14EventLoopGroupP", "future"]
+- !private ["3NIO14EventLoopGroupP", "newFailedFuture"]
+- !private ["3NIO14EventLoopGroupP", "newSucceededFuture"]
+- !private ["3NIO14EventLoopGroupP", "next"]
+- !private ["3NIO14EventLoopGroupP", "shutdownGracefully"]
+depends-nominal:
+- "5Async11BasicWorkerP"
+- !private "3NIO9EventLoopP"
+- "3NIO14EventLoopGroupP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "ab532674abb6aa55f225c854569c1507"

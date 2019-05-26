@@ -1,0 +1,7 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "0c8bf8ae1fab0e98c2b1ff3a8cf31bd9"
+build_time: [1558846255, 201658774]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOTLS/SNIHandler.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOTLS/TLSEvents.swift": [1558804089, 251150124]

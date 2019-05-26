@@ -1,0 +1,22 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "7b34eff291ba5f4dcb97ad43842eceeb"
+build_time: [1558846260, 877666443]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Exports.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validatable.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/ValidationError.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validations.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/ValidatorType.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/AndValidator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/CharacterSetValidator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/CountValidator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/EmailValidator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/EmptyValidator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/InValidator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/NilIgnoringValidator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/NilValidator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/NotValidator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/OrValidator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/RangeValidator.swift": [1558804088, 470731330]
+  "/home/rrajput/bnvrath/.build/checkouts/validation.git-2938559754448085909/Sources/Validation/Validators/URLValidator.swift": [1558804088, 470731330]

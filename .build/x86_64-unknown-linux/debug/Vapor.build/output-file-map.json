@@ -1,0 +1,455 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Application.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Application.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Application.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Application~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Application.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Client/Client.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Client/Client.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Client/Client.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Client/Client~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Client/Client.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Client/FoundationClient.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Client/FoundationClient.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Client/FoundationClient.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Client/FoundationClient~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Client/FoundationClient.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Commands/BootCommand.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/BootCommand.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/BootCommand.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/BootCommand~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/BootCommand.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Commands/CommandConfig+Default.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/CommandConfig+Default.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/CommandConfig+Default.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/CommandConfig+Default~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/CommandConfig+Default.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Commands/RoutesCommand.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/RoutesCommand.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/RoutesCommand.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/RoutesCommand~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/RoutesCommand.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Commands/ServeCommand.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/ServeCommand.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/ServeCommand.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/ServeCommand~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Commands/ServeCommand.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Content/Content.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/Content.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/Content.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/Content~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/Content.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Content/ContentCoders.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentCoders.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentCoders.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentCoders~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentCoders.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Content/ContentConfig.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentConfig.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentConfig.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentConfig~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentConfig.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Content/ContentContainer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentContainer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentContainer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentContainer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/ContentContainer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Content/FormDataCoder+HTTP.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/FormDataCoder+HTTP.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/FormDataCoder+HTTP.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/FormDataCoder+HTTP~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/FormDataCoder+HTTP.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Content/HTTPMessageContainer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/HTTPMessageContainer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/HTTPMessageContainer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/HTTPMessageContainer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/HTTPMessageContainer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Content/JSONCoder+Custom.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/JSONCoder+Custom.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/JSONCoder+Custom.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/JSONCoder+Custom~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/JSONCoder+Custom.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Content/PlaintextEncoder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/PlaintextEncoder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/PlaintextEncoder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/PlaintextEncoder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/PlaintextEncoder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Content/QueryContainer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/QueryContainer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/QueryContainer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/QueryContainer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/QueryContainer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Content/SingleValueGet.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/SingleValueGet.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/SingleValueGet.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/SingleValueGet~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/SingleValueGet.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Content/URLEncoded.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/URLEncoded.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/URLEncoded.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/URLEncoded~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Content/URLEncoded.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Deprecated.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Deprecated.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Deprecated.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Deprecated.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Error/Abort.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/Abort.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/Abort.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/Abort~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/Abort.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Error/AbortError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/AbortError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/AbortError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/AbortError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/AbortError.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Error/Error.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/Error.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/Error.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/Error~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Error/Error.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Logging/Logger+LogError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Logging/Logger+LogError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Logging/Logger+LogError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Logging/Logger+LogError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Logging/Logger+LogError.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Middleware/CORSMiddleware.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/CORSMiddleware.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/CORSMiddleware.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/CORSMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/CORSMiddleware.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Middleware/DateMiddleware.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/DateMiddleware.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/DateMiddleware.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/DateMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/DateMiddleware.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Middleware/ErrorMiddleware.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/ErrorMiddleware.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/ErrorMiddleware.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/ErrorMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/ErrorMiddleware.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Middleware/FileMiddleware.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/FileMiddleware.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/FileMiddleware.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/FileMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/FileMiddleware.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Middleware/Middleware.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/Middleware.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/Middleware.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/Middleware~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/Middleware.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Middleware/MiddlewareConfig.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/MiddlewareConfig.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/MiddlewareConfig.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/MiddlewareConfig~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Middleware/MiddlewareConfig.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Request/HTTPMethod+String.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/HTTPMethod+String.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/HTTPMethod+String.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/HTTPMethod+String~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/HTTPMethod+String.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Request/Request.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/Request.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/Request.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/Request~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/Request.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Request/RequestCodable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/RequestCodable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/RequestCodable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/RequestCodable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Request/RequestCodable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Response/ApplicationResponder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/ApplicationResponder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/ApplicationResponder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/ApplicationResponder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/ApplicationResponder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Response/BasicResponder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/BasicResponder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/BasicResponder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/BasicResponder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/BasicResponder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Response/HTTPStatus.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/HTTPStatus.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/HTTPStatus.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/HTTPStatus~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/HTTPStatus.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Response/Redirect.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Redirect.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Redirect.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Redirect~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Redirect.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Response/Responder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Responder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Responder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Responder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Responder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Response/Response.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Response.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Response.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Response~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/Response.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Response/ResponseCodable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/ResponseCodable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/ResponseCodable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/ResponseCodable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Response/ResponseCodable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Routing/EngineRouter.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/EngineRouter.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/EngineRouter.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/EngineRouter~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/EngineRouter.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Routing/ParametersContainer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/ParametersContainer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/ParametersContainer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/ParametersContainer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/ParametersContainer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Routing/RouteCollection.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/RouteCollection.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/RouteCollection.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/RouteCollection~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/RouteCollection.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Routing/Router+Content.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Content.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Content.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Content~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Content.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Routing/Router+Function.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Function.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Function.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Function~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Function.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Routing/Router+LazyMiddleware.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+LazyMiddleware.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+LazyMiddleware.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+LazyMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+LazyMiddleware.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Routing/Router+Method.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Method.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Method.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Method~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Method.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Routing/Router+Middleware.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Middleware.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Middleware.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Middleware~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Middleware.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Routing/Router+Path.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Path.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Path.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Path~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router+Path.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Routing/Router.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Routing/Router.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Server/NIOServer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/NIOServer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/NIOServer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/NIOServer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/NIOServer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Server/NIOServerConfig.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/NIOServerConfig.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/NIOServerConfig.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/NIOServerConfig~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/NIOServerConfig.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Server/RunningServer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/RunningServer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/RunningServer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/RunningServer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/RunningServer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Server/Server.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/Server.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/Server.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/Server~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Server/Server.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Services/Config+Default.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/Config+Default.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/Config+Default.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/Config+Default~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/Config+Default.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Services/Services+Default.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/Services+Default.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/Services+Default.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/Services+Default~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/Services+Default.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Services/VaporProvider.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/VaporProvider.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/VaporProvider.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/VaporProvider~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Services/VaporProvider.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Sessions/KeyedCacheSessions.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/KeyedCacheSessions.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/KeyedCacheSessions.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/KeyedCacheSessions~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/KeyedCacheSessions.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Sessions/MemorySessions.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/MemorySessions.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/MemorySessions.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/MemorySessions~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/MemorySessions.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Sessions/Request+Session.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Request+Session.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Request+Session.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Request+Session~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Request+Session.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Sessions/Session.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Session.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Session.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Session~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Session.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Sessions/SessionCache.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionCache.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionCache.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionCache~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionCache.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Sessions/SessionData.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionData.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionData.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionData~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionData.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Sessions/Sessions.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Sessions.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Sessions.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Sessions~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/Sessions.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Sessions/SessionsConfig.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionsConfig.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionsConfig.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionsConfig~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionsConfig.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Sessions/SessionsMiddleware.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionsMiddleware.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionsMiddleware.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionsMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Sessions/SessionsMiddleware.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Utilities/AnyResponse.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/AnyResponse.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/AnyResponse.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/AnyResponse~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/AnyResponse.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Utilities/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Utilities/FileIO.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/FileIO.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/FileIO.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/FileIO~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/FileIO.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/Utilities/Thread.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/Thread.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/Thread.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/Thread~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/Utilities/Thread.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/View/Vapor+View.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/View/Vapor+View.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/View/Vapor+View.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/View/Vapor+View~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/View/Vapor+View.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/WebSocket/NIOWebSocketClient.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/NIOWebSocketClient.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/NIOWebSocketClient.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/NIOWebSocketClient~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/NIOWebSocketClient.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/WebSocket/NIOWebSocketServer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/NIOWebSocketServer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/NIOWebSocketServer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/NIOWebSocketServer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/NIOWebSocketServer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/WebSocket/WebSocketClient.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketClient.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketClient.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketClient~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketClient.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/WebSocket/WebSocketResponder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketResponder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketResponder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketResponder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketResponder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/vapor.git-4067310828303688891/Sources/Vapor/WebSocket/WebSocketServer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketServer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketServer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketServer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Vapor.build/WebSocket/WebSocketServer.swiftdeps"
+  }
+}

@@ -1,0 +1,197 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "14URLEncodedForm0aB7DecoderC"
+- "14URLEncodedForm0aB7EncoderC"
+provides-member:
+- ["14URLEncodedForm0aB7DecoderC", ""]
+- ["14URLEncodedForm0aB7EncoderC", ""]
+depends-top-level:
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- "Decodable"
+- "Encodable"
+- "Future"
+- !private "HTTPBody"
+- "HTTPMessage"
+- "HTTPMessageDecoder"
+- "HTTPMessageEncoder"
+- "Int"
+- "URLEncodedFormDecoder"
+- "URLEncodedFormEncoder"
+- !private "VaporError"
+- "Worker"
+depends-member:
+- !private ["4Core15AnyOptionalTypeP", "urlEncodedForm"]
+- !private ["4Core22AnyReflectionDecodableP", "urlEncodedForm"]
+- !private ["s28CustomDebugStringConvertibleP", "body"]
+- !private ["s28CustomDebugStringConvertibleP", "consumeData"]
+- !private ["s28CustomDebugStringConvertibleP", "contentType"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "urlEncodedForm"]
+- !private ["s17CustomReflectableP", "urlEncodedForm"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "body"]
+- !private ["s23CustomStringConvertibleP", "consumeData"]
+- !private ["s23CustomStringConvertibleP", "contentType"]
+- !private ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "urlEncodedForm"]
+- !private ["4Core11DataDecoderP", "VaporError"]
+- ["4Core11DataDecoderP", "decode"]
+- !private ["4Core11DataEncoderP", "HTTPBody"]
+- ["4Core11DataEncoderP", "encode"]
+- !private ["9Debugging10DebuggableP", "init"]
+- !private ["Se", "urlEncodedForm"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SE", "map"]
+- !private ["SE", "urlEncodedForm"]
+- !private ["SQ", "description"]
+- !private ["SQ", "map"]
+- !private ["SQ", "urlEncodedForm"]
+- !private ["s5ErrorP", "init"]
+- !private ["3NIO15EventLoopFutureC", "map"]
+- !private ["s23ExpressibleByNilLiteralP", "urlEncodedForm"]
+- !private ["5Async10FutureTypeP", "map"]
+- !private ["4HTTP8HTTPBodyV", "consumeData"]
+- !private ["4HTTP8HTTPBodyV", "init"]
+- !private ["4HTTP11HTTPMessageP", "body"]
+- !private ["4HTTP11HTTPMessageP", "contentType"]
+- !private ["4HTTP18HTTPMessageDecoderP", "VaporError"]
+- ["4HTTP18HTTPMessageDecoderP", ""]
+- ["4HTTP18HTTPMessageDecoderP", "decode"]
+- !private ["4HTTP18HTTPMessageEncoderP", "HTTPBody"]
+- ["4HTTP18HTTPMessageEncoderP", ""]
+- ["4HTTP18HTTPMessageEncoderP", "encode"]
+- !private ["SH", "description"]
+- !private ["SH", "urlEncodedForm"]
+- !private ["10Foundation14LocalizedErrorP", "init"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "consumeData"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "init"]
+- !private ["4Core9MediaTypeV", "description"]
+- !private ["4Core9MediaTypeV", "urlEncodedForm"]
+- !private ["Sq", "urlEncodedForm"]
+- !private ["4Core12OptionalTypeP", "urlEncodedForm"]
+- !private ["4Core19ReflectionDecodableP", "urlEncodedForm"]
+- !private ["5Vapor17ResponseEncodableP", "map"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["11TemplateKit0A17DataRepresentableP", "urlEncodedForm"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- ["14URLEncodedForm0aB7DecoderC", "Decodable"]
+- ["14URLEncodedForm0aB7DecoderC", "Future"]
+- ["14URLEncodedForm0aB7DecoderC", "HTTPMessage"]
+- ["14URLEncodedForm0aB7DecoderC", "Int"]
+- !private ["14URLEncodedForm0aB7DecoderC", "VaporError"]
+- ["14URLEncodedForm0aB7DecoderC", "Worker"]
+- ["14URLEncodedForm0aB7DecoderC", "decode"]
+- ["14URLEncodedForm0aB7DecoderC", "deinit"]
+- ["14URLEncodedForm0aB7EncoderC", "Encodable"]
+- !private ["14URLEncodedForm0aB7EncoderC", "HTTPBody"]
+- ["14URLEncodedForm0aB7EncoderC", "HTTPMessage"]
+- ["14URLEncodedForm0aB7EncoderC", "Worker"]
+- ["14URLEncodedForm0aB7EncoderC", "deinit"]
+- ["14URLEncodedForm0aB7EncoderC", "encode"]
+- !private ["5Vapor0A5ErrorV", "deinit"]
+- !private ["5Vapor0A5ErrorV", "init"]
+- !private ["s26_OptionalNilComparisonTypeV", "urlEncodedForm"]
+- !private ["s12_UnwrappableP", "urlEncodedForm"]
+depends-nominal:
+- !private "4Core15AnyOptionalTypeP"
+- !private "4Core22AnyReflectionDecodableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "4Core11DataDecoderP"
+- "4Core11DataEncoderP"
+- !private "9Debugging10DebuggableP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "3NIO15EventLoopFutureC"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "5Async10FutureTypeP"
+- !private "4HTTP8HTTPBodyV"
+- !private "4HTTP11HTTPMessageP"
+- "4HTTP18HTTPMessageDecoderP"
+- "4HTTP18HTTPMessageEncoderP"
+- !private "SH"
+- !private "10Foundation14LocalizedErrorP"
+- !private "4HTTP29LosslessHTTPBodyRepresentableP"
+- !private "4Core9MediaTypeV"
+- !private "Sq"
+- !private "4Core12OptionalTypeP"
+- !private "4Core19ReflectionDecodableP"
+- !private "5Vapor17ResponseEncodableP"
+- !private "s27StringInterpolationProtocolP"
+- !private "11TemplateKit0A17DataRepresentableP"
+- !private "s16TextOutputStreamP"
+- "14URLEncodedForm0aB7DecoderC"
+- "14URLEncodedForm0aB7EncoderC"
+- !private "5Vapor0A5ErrorV"
+- !private "s26_OptionalNilComparisonTypeV"
+- !private "s12_UnwrappableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Command.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/URLEncodedForm.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Validation.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Crypto.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/DatabaseKit.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOSHA1/include/CNIOSHA1.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl-support.git-5259653155612051483/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBase32/include/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBcrypt/include/module.modulemap"
+interface-hash: "d8d859fe9090c3a56e058e3fdb00d7c3"

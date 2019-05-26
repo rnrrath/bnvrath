@@ -1,0 +1,213 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HTTPScheme"
+provides-nominal:
+- "4HTTP10HTTPSchemeV"
+provides-member:
+- ["4HTTP10HTTPSchemeV", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "Channel"
+- "Future"
+- "HTTPScheme"
+- "Int"
+- !private "OpenSSLClientHandler"
+- !private "SSLContext"
+- "String"
+- "TLSConfiguration"
+- !private "TernaryPrecedence"
+- "Void"
+depends-member:
+- !private ["4Core22AnyReflectionDecodableP", "isIPAddress"]
+- !private ["4Core21BasicKeyRepresentableP", "isIPAddress"]
+- !private ["SK", "isIPAddress"]
+- !private ["3NIO7ChannelP", "eventLoop"]
+- !private ["3NIO7ChannelP", "pipeline"]
+- !private ["3NIO14ChannelHandlerP", "init"]
+- !private ["3NIO21ChannelInboundHandlerP", "init"]
+- !private ["3NIO21ChannelInboundInvokerP", "add"]
+- !private ["3NIO14ChannelInvokerP", "add"]
+- !private ["3NIO22ChannelOutboundHandlerP", "init"]
+- !private ["3NIO22ChannelOutboundInvokerP", "add"]
+- !private ["3NIO22ChannelOutboundInvokerP", "eventLoop"]
+- !private ["3NIO22ChannelOutboundInvokerP", "pipeline"]
+- !private ["3NIO15ChannelPipelineC", "add"]
+- !private ["Sl", "isIPAddress"]
+- !private ["SL", "isIPAddress"]
+- !private ["s28CustomDebugStringConvertibleP", "add"]
+- !private ["s28CustomDebugStringConvertibleP", "isIPAddress"]
+- !private ["s17CustomReflectableP", "isIPAddress"]
+- !private ["s23CustomStringConvertibleP", "isIPAddress"]
+- !private ["Se", "isIPAddress"]
+- !private ["SE", "done"]
+- !private ["SE", "flatMap"]
+- !private ["SE", "isIPAddress"]
+- !private ["SQ", "done"]
+- !private ["SQ", "flatMap"]
+- !private ["SQ", "isIPAddress"]
+- !private ["3NIO15EventLoopFutureC", "done"]
+- !private ["3NIO15EventLoopFutureC", "flatMap"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "isIPAddress"]
+- !private ["s32ExpressibleByStringInterpolationP", "isIPAddress"]
+- !private ["s26ExpressibleByStringLiteralP", "isIPAddress"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "isIPAddress"]
+- !private ["5Async10FutureTypeP", "done"]
+- !private ["5Async10FutureTypeP", "flatMap"]
+- ["4HTTP10HTTPSchemeV", "Channel"]
+- ["4HTTP10HTTPSchemeV", "Future"]
+- ["4HTTP10HTTPSchemeV", "HTTPScheme"]
+- ["4HTTP10HTTPSchemeV", "Int"]
+- !private ["4HTTP10HTTPSchemeV", "OpenSSLClientHandler"]
+- !private ["4HTTP10HTTPSchemeV", "SSLContext"]
+- ["4HTTP10HTTPSchemeV", "String"]
+- ["4HTTP10HTTPSchemeV", "TLSConfiguration"]
+- ["4HTTP10HTTPSchemeV", "Void"]
+- ["4HTTP10HTTPSchemeV", "configureChannel"]
+- ["4HTTP10HTTPSchemeV", "customHTTPS"]
+- ["4HTTP10HTTPSchemeV", "defaultPort"]
+- ["4HTTP10HTTPSchemeV", "http"]
+- ["4HTTP10HTTPSchemeV", "https"]
+- ["4HTTP10HTTPSchemeV", "init"]
+- !private ["4HTTP10HTTPSchemeV", "init"]
+- ["4HTTP10HTTPSchemeV", "ws"]
+- ["4HTTP10HTTPSchemeV", "wss"]
+- !private ["SH", "isIPAddress"]
+- !private ["4Core23LosslessDataConvertibleP", "isIPAddress"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "isIPAddress"]
+- !private ["s25LosslessStringConvertibleP", "isIPAddress"]
+- !private ["s10MirrorPathP", "isIPAddress"]
+- !private ["10Foundation8NSCodingP", "isIPAddress"]
+- !private ["10Foundation9NSCopyingP", "isIPAddress"]
+- !private ["10Foundation16NSMutableCopyingP", "isIPAddress"]
+- !private ["10Foundation8NSObjectC", "isIPAddress"]
+- !private ["10Foundation16NSObjectProtocolP", "isIPAddress"]
+- !private ["10Foundation14NSSecureCodingP", "isIPAddress"]
+- !private ["10Foundation8NSStringC", "isIPAddress"]
+- !private ["10NIOOpenSSL20OpenSSLClientHandlerC", "init"]
+- !private ["Sm", "isIPAddress"]
+- !private ["4Core19ReflectionDecodableP", "isIPAddress"]
+- !private ["10NIOOpenSSL10SSLContextC", "init"]
+- !private ["ST", "isIPAddress"]
+- !private ["SS", "isIPAddress"]
+- !private ["Sy", "isIPAddress"]
+- !private ["10NIOOpenSSL16TLSConfigurationV", "forClient"]
+- !private ["s16TextOutputStreamP", "isIPAddress"]
+- !private ["s20TextOutputStreamableP", "isIPAddress"]
+- !private ["4HTTP16URLRepresentableP", "isIPAddress"]
+- !private ["10Foundation13_CFBridgeableP", "isIPAddress"]
+- !private ["3NIO22_ChannelInboundHandlerP", "init"]
+- !private ["3NIO23_ChannelOutboundHandlerP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "isIPAddress"]
+- !private ["3NIO23_EmittingChannelHandlerP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "isIPAddress"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "isIPAddress"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "isIPAddress"]
+- !private ["s19_HasContiguousBytesP", "isIPAddress"]
+- !private ["10Foundation13_NSBridgeableP", "isIPAddress"]
+- !private ["s21_ObjectiveCBridgeableP", "isIPAddress"]
+- !private ["10Foundation17_StructBridgeableP", "isIPAddress"]
+- !private ["10Foundation21_StructTypeBridgeableP", "isIPAddress"]
+- !private ["10Foundation16_SwiftBridgeableP", "isIPAddress"]
+depends-nominal:
+- !private "4Core22AnyReflectionDecodableP"
+- !private "4Core21BasicKeyRepresentableP"
+- !private "SK"
+- !private "3NIO7ChannelP"
+- !private "3NIO14ChannelHandlerP"
+- !private "3NIO21ChannelInboundHandlerP"
+- !private "3NIO21ChannelInboundInvokerP"
+- !private "3NIO14ChannelInvokerP"
+- !private "3NIO22ChannelOutboundHandlerP"
+- !private "3NIO22ChannelOutboundInvokerP"
+- !private "3NIO15ChannelPipelineC"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "3NIO15EventLoopFutureC"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "5Async10FutureTypeP"
+- "4HTTP10HTTPSchemeV"
+- !private "SH"
+- !private "4Core23LosslessDataConvertibleP"
+- !private "4HTTP29LosslessHTTPBodyRepresentableP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "10Foundation8NSCodingP"
+- !private "10Foundation9NSCopyingP"
+- !private "10Foundation16NSMutableCopyingP"
+- !private "10Foundation8NSObjectC"
+- !private "10Foundation16NSObjectProtocolP"
+- !private "10Foundation14NSSecureCodingP"
+- !private "10Foundation8NSStringC"
+- !private "10NIOOpenSSL20OpenSSLClientHandlerC"
+- !private "Sm"
+- !private "4Core19ReflectionDecodableP"
+- !private "10NIOOpenSSL10SSLContextC"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "10NIOOpenSSL16TLSConfigurationV"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "4HTTP16URLRepresentableP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "3NIO22_ChannelInboundHandlerP"
+- !private "3NIO23_ChannelOutboundHandlerP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "3NIO23_EmittingChannelHandlerP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "10Foundation17_StructBridgeableP"
+- !private "10Foundation21_StructTypeBridgeableP"
+- !private "10Foundation16_SwiftBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl-support.git-5259653155612051483/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "faf8734169b52ee91a770a2b7e32d2ae"

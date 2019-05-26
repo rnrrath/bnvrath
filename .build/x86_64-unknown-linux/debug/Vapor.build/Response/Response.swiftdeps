@@ -1,0 +1,357 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Response"
+provides-nominal:
+- "5Vapor8ResponseC"
+provides-member:
+- ["5Vapor8ResponseC", ""]
+depends-top-level:
+- "AssignmentPrecedence"
+- "Container"
+- "ContainerAlias"
+- "ContentContainer"
+- "CustomDebugStringConvertible"
+- "CustomStringConvertible"
+- "EventLoopFuture"
+- "Future"
+- "HTTPMessageContainer"
+- "HTTPResponse"
+- "KeyPath"
+- "Request"
+- "Response"
+- "ResponseCodable"
+- "String"
+- "SubContainer"
+depends-member:
+- !private ["5Async11BasicWorkerP", "ContentContainer"]
+- ["5Async11BasicWorkerP", "HTTPMessageType"]
+- !private ["5Async11BasicWorkerP", "Request"]
+- ["5Async11BasicWorkerP", ""]
+- ["5Async11BasicWorkerP", "_Default_HTTPMessageType"]
+- ["5Async11BasicWorkerP", "aliasedContainer"]
+- ["5Async11BasicWorkerP", "config"]
+- ["5Async11BasicWorkerP", "debugDescription"]
+- ["5Async11BasicWorkerP", "decode"]
+- ["5Async11BasicWorkerP", "description"]
+- ["5Async11BasicWorkerP", "encode"]
+- ["5Async11BasicWorkerP", "environment"]
+- ["5Async11BasicWorkerP", "eventLoop"]
+- ["5Async11BasicWorkerP", "http"]
+- !private ["5Async11BasicWorkerP", "init"]
+- ["5Async11BasicWorkerP", "makeIterator"]
+- ["5Async11BasicWorkerP", "next"]
+- !private ["5Async11BasicWorkerP", "privateContainer"]
+- ["5Async11BasicWorkerP", "serviceCache"]
+- ["5Async11BasicWorkerP", "services"]
+- ["5Async11BasicWorkerP", "sharedContainer"]
+- ["5Async11BasicWorkerP", "shutdownGracefully"]
+- !private ["5Async11BasicWorkerP", "subContainer"]
+- !private ["7Service9ContainerP", "ContentContainer"]
+- ["7Service9ContainerP", "HTTPMessageType"]
+- !private ["7Service9ContainerP", "Request"]
+- ["7Service9ContainerP", ""]
+- ["7Service9ContainerP", "_Default_HTTPMessageType"]
+- ["7Service9ContainerP", "aliasedContainer"]
+- ["7Service9ContainerP", "config"]
+- ["7Service9ContainerP", "debugDescription"]
+- ["7Service9ContainerP", "decode"]
+- ["7Service9ContainerP", "description"]
+- ["7Service9ContainerP", "encode"]
+- ["7Service9ContainerP", "environment"]
+- ["7Service9ContainerP", "eventLoop"]
+- ["7Service9ContainerP", "http"]
+- !private ["7Service9ContainerP", "init"]
+- ["7Service9ContainerP", "makeIterator"]
+- ["7Service9ContainerP", "next"]
+- !private ["7Service9ContainerP", "privateContainer"]
+- ["7Service9ContainerP", "serviceCache"]
+- ["7Service9ContainerP", "services"]
+- ["7Service9ContainerP", "sharedContainer"]
+- ["7Service9ContainerP", "shutdownGracefully"]
+- !private ["7Service9ContainerP", "subContainer"]
+- !private ["7Service14ContainerAliasP", "ContentContainer"]
+- ["7Service14ContainerAliasP", "HTTPMessageType"]
+- !private ["7Service14ContainerAliasP", "Request"]
+- ["7Service14ContainerAliasP", ""]
+- ["7Service14ContainerAliasP", "_Default_HTTPMessageType"]
+- ["7Service14ContainerAliasP", "aliasedContainer"]
+- ["7Service14ContainerAliasP", "config"]
+- ["7Service14ContainerAliasP", "debugDescription"]
+- ["7Service14ContainerAliasP", "decode"]
+- ["7Service14ContainerAliasP", "description"]
+- ["7Service14ContainerAliasP", "encode"]
+- ["7Service14ContainerAliasP", "environment"]
+- ["7Service14ContainerAliasP", "eventLoop"]
+- ["7Service14ContainerAliasP", "http"]
+- !private ["7Service14ContainerAliasP", "init"]
+- ["7Service14ContainerAliasP", "makeIterator"]
+- ["7Service14ContainerAliasP", "next"]
+- !private ["7Service14ContainerAliasP", "privateContainer"]
+- ["7Service14ContainerAliasP", "serviceCache"]
+- ["7Service14ContainerAliasP", "services"]
+- ["7Service14ContainerAliasP", "sharedContainer"]
+- ["7Service14ContainerAliasP", "shutdownGracefully"]
+- !private ["5Vapor16ContentContainerV", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "ContentContainer"]
+- ["s28CustomDebugStringConvertibleP", "HTTPMessageType"]
+- !private ["s28CustomDebugStringConvertibleP", "Request"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_Default_HTTPMessageType"]
+- ["s28CustomDebugStringConvertibleP", "aliasedContainer"]
+- ["s28CustomDebugStringConvertibleP", "config"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "decode"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "encode"]
+- ["s28CustomDebugStringConvertibleP", "environment"]
+- ["s28CustomDebugStringConvertibleP", "eventLoop"]
+- ["s28CustomDebugStringConvertibleP", "http"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "makeIterator"]
+- ["s28CustomDebugStringConvertibleP", "next"]
+- !private ["s28CustomDebugStringConvertibleP", "privateContainer"]
+- ["s28CustomDebugStringConvertibleP", "serviceCache"]
+- ["s28CustomDebugStringConvertibleP", "services"]
+- ["s28CustomDebugStringConvertibleP", "sharedContainer"]
+- ["s28CustomDebugStringConvertibleP", "shutdownGracefully"]
+- !private ["s23CustomStringConvertibleP", "ContentContainer"]
+- ["s23CustomStringConvertibleP", "HTTPMessageType"]
+- !private ["s23CustomStringConvertibleP", "Request"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_HTTPMessageType"]
+- ["s23CustomStringConvertibleP", "aliasedContainer"]
+- ["s23CustomStringConvertibleP", "config"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "decode"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "encode"]
+- ["s23CustomStringConvertibleP", "environment"]
+- ["s23CustomStringConvertibleP", "eventLoop"]
+- ["s23CustomStringConvertibleP", "http"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "makeIterator"]
+- ["s23CustomStringConvertibleP", "next"]
+- !private ["s23CustomStringConvertibleP", "privateContainer"]
+- ["s23CustomStringConvertibleP", "serviceCache"]
+- ["s23CustomStringConvertibleP", "services"]
+- ["s23CustomStringConvertibleP", "sharedContainer"]
+- ["s23CustomStringConvertibleP", "shutdownGracefully"]
+- !private ["11DatabaseKit0A11ConnectableP", "eventLoop"]
+- !private ["11DatabaseKit0A11ConnectableP", "init"]
+- !private ["3NIO9EventLoopP", "newSucceededFuture"]
+- !private ["3NIO14EventLoopGroupP", "ContentContainer"]
+- ["3NIO14EventLoopGroupP", "HTTPMessageType"]
+- !private ["3NIO14EventLoopGroupP", "Request"]
+- ["3NIO14EventLoopGroupP", ""]
+- ["3NIO14EventLoopGroupP", "_Default_HTTPMessageType"]
+- ["3NIO14EventLoopGroupP", "aliasedContainer"]
+- ["3NIO14EventLoopGroupP", "config"]
+- ["3NIO14EventLoopGroupP", "debugDescription"]
+- ["3NIO14EventLoopGroupP", "decode"]
+- ["3NIO14EventLoopGroupP", "description"]
+- ["3NIO14EventLoopGroupP", "encode"]
+- ["3NIO14EventLoopGroupP", "environment"]
+- ["3NIO14EventLoopGroupP", "eventLoop"]
+- ["3NIO14EventLoopGroupP", "http"]
+- !private ["3NIO14EventLoopGroupP", "init"]
+- ["3NIO14EventLoopGroupP", "makeIterator"]
+- !private ["3NIO14EventLoopGroupP", "newSucceededFuture"]
+- ["3NIO14EventLoopGroupP", "next"]
+- !private ["3NIO14EventLoopGroupP", "privateContainer"]
+- ["3NIO14EventLoopGroupP", "serviceCache"]
+- ["3NIO14EventLoopGroupP", "services"]
+- ["3NIO14EventLoopGroupP", "sharedContainer"]
+- ["3NIO14EventLoopGroupP", "shutdownGracefully"]
+- !private ["3NIO14EventLoopGroupP", "subContainer"]
+- !private ["4HTTP11HTTPMessageP", "debugDescription"]
+- !private ["4HTTP11HTTPMessageP", "description"]
+- !private ["4HTTP11HTTPMessageP", "init"]
+- !private ["4HTTP11HTTPMessageP", "init"]
+- !private ["5Vapor20HTTPMessageContainerP", "ContentContainer"]
+- ["5Vapor20HTTPMessageContainerP", "HTTPMessageType"]
+- !private ["5Vapor20HTTPMessageContainerP", "Request"]
+- ["5Vapor20HTTPMessageContainerP", ""]
+- ["5Vapor20HTTPMessageContainerP", "_Default_HTTPMessageType"]
+- ["5Vapor20HTTPMessageContainerP", "aliasedContainer"]
+- ["5Vapor20HTTPMessageContainerP", "config"]
+- ["5Vapor20HTTPMessageContainerP", "debugDescription"]
+- ["5Vapor20HTTPMessageContainerP", "decode"]
+- ["5Vapor20HTTPMessageContainerP", "description"]
+- ["5Vapor20HTTPMessageContainerP", "encode"]
+- ["5Vapor20HTTPMessageContainerP", "environment"]
+- ["5Vapor20HTTPMessageContainerP", "eventLoop"]
+- ["5Vapor20HTTPMessageContainerP", "http"]
+- !private ["5Vapor20HTTPMessageContainerP", "init"]
+- ["5Vapor20HTTPMessageContainerP", "makeIterator"]
+- ["5Vapor20HTTPMessageContainerP", "next"]
+- !private ["5Vapor20HTTPMessageContainerP", "privateContainer"]
+- ["5Vapor20HTTPMessageContainerP", "serviceCache"]
+- ["5Vapor20HTTPMessageContainerP", "services"]
+- ["5Vapor20HTTPMessageContainerP", "sharedContainer"]
+- ["5Vapor20HTTPMessageContainerP", "shutdownGracefully"]
+- !private ["4HTTP12HTTPResponseV", "debugDescription"]
+- !private ["4HTTP12HTTPResponseV", "description"]
+- !private ["4HTTP12HTTPResponseV", "init"]
+- !private ["4HTTP12HTTPResponseV", "init"]
+- !private ["5Vapor7RequestC", "deinit"]
+- !private ["5Vapor7RequestC", "eventLoop"]
+- !private ["5Vapor7RequestC", "init"]
+- !private ["5Vapor16RequestDecodableP", "eventLoop"]
+- !private ["5Vapor16RequestDecodableP", "init"]
+- !private ["5Vapor16RequestEncodableP", "eventLoop"]
+- !private ["5Vapor16RequestEncodableP", "init"]
+- ["5Vapor8ResponseC", "Container"]
+- ["5Vapor8ResponseC", "ContentContainer"]
+- ["5Vapor8ResponseC", "EventLoopFuture"]
+- ["5Vapor8ResponseC", "Future"]
+- ["5Vapor8ResponseC", "HTTPMessageType"]
+- ["5Vapor8ResponseC", "HTTPResponse"]
+- ["5Vapor8ResponseC", "KeyPath"]
+- ["5Vapor8ResponseC", "Request"]
+- ["5Vapor8ResponseC", "Response"]
+- ["5Vapor8ResponseC", "String"]
+- ["5Vapor8ResponseC", "SubContainer"]
+- ["5Vapor8ResponseC", "_Default_HTTPMessageType"]
+- ["5Vapor8ResponseC", "aliasedContainer"]
+- ["5Vapor8ResponseC", "config"]
+- ["5Vapor8ResponseC", "content"]
+- ["5Vapor8ResponseC", "debugDescription"]
+- ["5Vapor8ResponseC", "decode"]
+- ["5Vapor8ResponseC", "deinit"]
+- ["5Vapor8ResponseC", "description"]
+- ["5Vapor8ResponseC", "encode"]
+- ["5Vapor8ResponseC", "environment"]
+- ["5Vapor8ResponseC", "eventLoop"]
+- ["5Vapor8ResponseC", "http"]
+- ["5Vapor8ResponseC", "init"]
+- ["5Vapor8ResponseC", "makeIterator"]
+- ["5Vapor8ResponseC", "makeRequest"]
+- ["5Vapor8ResponseC", "next"]
+- ["5Vapor8ResponseC", "privateContainer"]
+- ["5Vapor8ResponseC", "serviceCache"]
+- ["5Vapor8ResponseC", "services"]
+- ["5Vapor8ResponseC", "sharedContainer"]
+- ["5Vapor8ResponseC", "shutdownGracefully"]
+- !private ["5Vapor17ResponseDecodableP", "ContentContainer"]
+- ["5Vapor17ResponseDecodableP", "HTTPMessageType"]
+- !private ["5Vapor17ResponseDecodableP", "Request"]
+- ["5Vapor17ResponseDecodableP", ""]
+- ["5Vapor17ResponseDecodableP", "_Default_HTTPMessageType"]
+- ["5Vapor17ResponseDecodableP", "aliasedContainer"]
+- ["5Vapor17ResponseDecodableP", "config"]
+- ["5Vapor17ResponseDecodableP", "debugDescription"]
+- ["5Vapor17ResponseDecodableP", "decode"]
+- ["5Vapor17ResponseDecodableP", "description"]
+- ["5Vapor17ResponseDecodableP", "encode"]
+- ["5Vapor17ResponseDecodableP", "environment"]
+- ["5Vapor17ResponseDecodableP", "eventLoop"]
+- ["5Vapor17ResponseDecodableP", "http"]
+- ["5Vapor17ResponseDecodableP", "makeIterator"]
+- ["5Vapor17ResponseDecodableP", "next"]
+- !private ["5Vapor17ResponseDecodableP", "privateContainer"]
+- ["5Vapor17ResponseDecodableP", "serviceCache"]
+- ["5Vapor17ResponseDecodableP", "services"]
+- ["5Vapor17ResponseDecodableP", "sharedContainer"]
+- ["5Vapor17ResponseDecodableP", "shutdownGracefully"]
+- !private ["5Vapor17ResponseEncodableP", "ContentContainer"]
+- ["5Vapor17ResponseEncodableP", "HTTPMessageType"]
+- !private ["5Vapor17ResponseEncodableP", "Request"]
+- ["5Vapor17ResponseEncodableP", ""]
+- ["5Vapor17ResponseEncodableP", "_Default_HTTPMessageType"]
+- ["5Vapor17ResponseEncodableP", "aliasedContainer"]
+- ["5Vapor17ResponseEncodableP", "config"]
+- ["5Vapor17ResponseEncodableP", "debugDescription"]
+- ["5Vapor17ResponseEncodableP", "decode"]
+- ["5Vapor17ResponseEncodableP", "description"]
+- ["5Vapor17ResponseEncodableP", "encode"]
+- ["5Vapor17ResponseEncodableP", "environment"]
+- ["5Vapor17ResponseEncodableP", "eventLoop"]
+- ["5Vapor17ResponseEncodableP", "http"]
+- !private ["5Vapor17ResponseEncodableP", "init"]
+- !private ["5Vapor17ResponseEncodableP", "init"]
+- ["5Vapor17ResponseEncodableP", "makeIterator"]
+- ["5Vapor17ResponseEncodableP", "next"]
+- !private ["5Vapor17ResponseEncodableP", "privateContainer"]
+- ["5Vapor17ResponseEncodableP", "serviceCache"]
+- ["5Vapor17ResponseEncodableP", "services"]
+- ["5Vapor17ResponseEncodableP", "sharedContainer"]
+- ["5Vapor17ResponseEncodableP", "shutdownGracefully"]
+depends-nominal:
+- "5Async11BasicWorkerP"
+- "7Service9ContainerP"
+- "7Service14ContainerAliasP"
+- !private "5Vapor16ContentContainerV"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- !private "11DatabaseKit0A11ConnectableP"
+- !private "3NIO9EventLoopP"
+- "3NIO14EventLoopGroupP"
+- !private "4HTTP11HTTPMessageP"
+- "5Vapor20HTTPMessageContainerP"
+- !private "4HTTP12HTTPResponseV"
+- !private "5Vapor7RequestC"
+- !private "5Vapor16RequestDecodableP"
+- !private "5Vapor16RequestEncodableP"
+- "5Vapor8ResponseC"
+- "5Vapor17ResponseDecodableP"
+- "5Vapor17ResponseEncodableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Command.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Routing.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Random.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/URLEncodedForm.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Validation.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Crypto.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/WebSocket.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOWebSocket.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/DatabaseKit.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/TemplateKit.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Multipart.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOSHA1/include/CNIOSHA1.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CCryptoOpenSSL/include/c_crypto_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl-support.git-5259653155612051483/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBase32/include/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/CBcrypt/include/module.modulemap"
+interface-hash: "dd9a455c229b0bef9e3976729d82d90d"

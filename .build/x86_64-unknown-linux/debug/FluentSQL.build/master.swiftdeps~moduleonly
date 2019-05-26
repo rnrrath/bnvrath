@@ -1,0 +1,13 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "929173fa273fb4cd9687423d9eeacf3d"
+build_time: [1558846271, 560481866]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/Exports.swift": [1558804088, 790903260]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/FluentSQLQuery.swift": [1558804088, 790903260]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/FluentSQLSchema.swift": [1558804088, 790903260]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/QueryBuilder+GroupBy.swift": [1558804088, 790903260]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/SQL+Contains.swift": [1558804088, 790903260]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/SQL+JoinSupporting.swift": [1558804088, 790903260]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/SQL+QuerySupporting.swift": [1558804088, 790903260]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/SQL+SchemaSupporting.swift": [1558804088, 790903260]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent.git--5528934097750353203/Sources/FluentSQL/SchemaBuilder+Field.swift": [1558804088, 790903260]

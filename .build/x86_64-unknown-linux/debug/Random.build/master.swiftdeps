@@ -1,0 +1,8 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "4e5b2c6116c2aa693cbee6b257966f6f"
+build_time: [1558846256, 568921796]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Random/Array+Random.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Random/OSRandom.swift": [1558804088, 430709839]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Random/RandomProtocol.swift": [1558804088, 434711988]
+  "/home/rrajput/bnvrath/.build/checkouts/crypto.git--559300414352314480/Sources/Random/URandom.swift": [1558804088, 434711988]

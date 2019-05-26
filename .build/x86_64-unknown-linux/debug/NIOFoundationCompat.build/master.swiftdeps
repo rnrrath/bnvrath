@@ -1,0 +1,5 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "aec98f62d955bf55d3722e20fff61755"
+build_time: [1558846255, 195464489]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": [1558804089, 251150124]

@@ -1,0 +1,13 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "ebfc29f0d6bfc7a0229729b074f61247"
+build_time: [1558846255, 196667469]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPDecoder.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPEncoder.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPTypes.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1558804089, 251150124]

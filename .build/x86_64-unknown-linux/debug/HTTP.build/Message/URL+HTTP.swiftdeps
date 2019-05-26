@@ -1,0 +1,212 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "URLRepresentable"
+provides-nominal:
+- "4HTTP16URLRepresentableP"
+- "10Foundation3URLV"
+- "SS"
+provides-member:
+- ["4HTTP16URLRepresentableP", ""]
+- ["10Foundation3URLV", ""]
+- ["SS", ""]
+depends-top-level:
+- "String"
+- "StringLiteralType"
+- "URL"
+- "URLRepresentable"
+- "UnicodeScalarType"
+- !private "_rootURL"
+depends-member:
+- !private ["4Core22AnyReflectionDecodableP", "URL"]
+- !private ["4Core22AnyReflectionDecodableP", "_rootURL"]
+- ["4Core22AnyReflectionDecodableP", "convertToURL"]
+- ["4Core22AnyReflectionDecodableP", "init"]
+- !private ["4Core21BasicKeyRepresentableP", "URL"]
+- ["4Core21BasicKeyRepresentableP", "convertToURL"]
+- !private ["SK", "URL"]
+- ["SK", "convertToURL"]
+- !private ["Sl", "URL"]
+- ["Sl", "convertToURL"]
+- !private ["SL", "URL"]
+- ["SL", "convertToURL"]
+- !private ["s28CustomDebugStringConvertibleP", "URL"]
+- !private ["s28CustomDebugStringConvertibleP", "_rootURL"]
+- ["s28CustomDebugStringConvertibleP", "convertToURL"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s34CustomPlaygroundDisplayConvertibleP", "_rootURL"]
+- ["s34CustomPlaygroundDisplayConvertibleP", "convertToURL"]
+- ["s34CustomPlaygroundDisplayConvertibleP", "init"]
+- !private ["s17CustomReflectableP", "URL"]
+- ["s17CustomReflectableP", "convertToURL"]
+- !private ["s23CustomStringConvertibleP", "URL"]
+- !private ["s23CustomStringConvertibleP", "_rootURL"]
+- ["s23CustomStringConvertibleP", "convertToURL"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["Se", "URL"]
+- !private ["Se", "_rootURL"]
+- ["Se", "convertToURL"]
+- ["Se", "init"]
+- !private ["SE", "URL"]
+- !private ["SE", "_rootURL"]
+- ["SE", "convertToURL"]
+- ["SE", "init"]
+- !private ["SQ", "URL"]
+- !private ["SQ", "_rootURL"]
+- ["SQ", "convertToURL"]
+- ["SQ", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "URL"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "convertToURL"]
+- !private ["s32ExpressibleByStringInterpolationP", "URL"]
+- ["s32ExpressibleByStringInterpolationP", "convertToURL"]
+- !private ["s26ExpressibleByStringLiteralP", "URL"]
+- ["s26ExpressibleByStringLiteralP", "convertToURL"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "URL"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "convertToURL"]
+- !private ["SH", "URL"]
+- !private ["SH", "_rootURL"]
+- ["SH", "convertToURL"]
+- ["SH", "init"]
+- !private ["4Core23LosslessDataConvertibleP", "URL"]
+- ["4Core23LosslessDataConvertibleP", "convertToURL"]
+- !private ["4HTTP29LosslessHTTPBodyRepresentableP", "URL"]
+- ["4HTTP29LosslessHTTPBodyRepresentableP", "convertToURL"]
+- !private ["s25LosslessStringConvertibleP", "URL"]
+- ["s25LosslessStringConvertibleP", "convertToURL"]
+- !private ["s10MirrorPathP", "URL"]
+- ["s10MirrorPathP", "convertToURL"]
+- !private ["Sm", "URL"]
+- ["Sm", "convertToURL"]
+- !private ["10Foundation20ReferenceConvertibleP", "_rootURL"]
+- ["10Foundation20ReferenceConvertibleP", "convertToURL"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["4Core19ReflectionDecodableP", "URL"]
+- !private ["4Core19ReflectionDecodableP", "_rootURL"]
+- ["4Core19ReflectionDecodableP", "convertToURL"]
+- ["4Core19ReflectionDecodableP", "init"]
+- !private ["ST", "URL"]
+- ["ST", "convertToURL"]
+- ["SS", "URL"]
+- ["SS", "convertToURL"]
+- ["SS", "deinit"]
+- !private ["Sy", "URL"]
+- ["Sy", "convertToURL"]
+- !private ["s16TextOutputStreamP", "URL"]
+- ["s16TextOutputStreamP", "convertToURL"]
+- !private ["s20TextOutputStreamableP", "URL"]
+- ["s20TextOutputStreamableP", "convertToURL"]
+- ["10Foundation3URLV", "URL"]
+- !private ["10Foundation3URLV", "_rootURL"]
+- ["10Foundation3URLV", "convertToURL"]
+- ["10Foundation3URLV", "deinit"]
+- ["10Foundation3URLV", "init"]
+- ["10Foundation3URLV", "root"]
+- ["4HTTP16URLRepresentableP", "URL"]
+- ["4HTTP16URLRepresentableP", ""]
+- !private ["4HTTP16URLRepresentableP", "_rootURL"]
+- ["4HTTP16URLRepresentableP", "convertToURL"]
+- ["4HTTP16URLRepresentableP", "init"]
+- !private ["10Foundation13_CFBridgeableP", "URL"]
+- !private ["10Foundation13_CFBridgeableP", "_rootURL"]
+- ["10Foundation13_CFBridgeableP", "convertToURL"]
+- ["10Foundation13_CFBridgeableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "URL"]
+- ["s30_CustomPlaygroundQuickLookableP", "convertToURL"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "URL"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "convertToURL"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "URL"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "convertToURL"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "URL"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "convertToURL"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "_rootURL"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "convertToURL"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "URL"]
+- ["s19_HasContiguousBytesP", "convertToURL"]
+- !private ["10Foundation13_NSBridgeableP", "URL"]
+- !private ["10Foundation13_NSBridgeableP", "_rootURL"]
+- ["10Foundation13_NSBridgeableP", "convertToURL"]
+- ["10Foundation13_NSBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "URL"]
+- !private ["s21_ObjectiveCBridgeableP", "_rootURL"]
+- ["s21_ObjectiveCBridgeableP", "convertToURL"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+depends-nominal:
+- "4Core22AnyReflectionDecodableP"
+- "4Core21BasicKeyRepresentableP"
+- "SK"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s34CustomPlaygroundDisplayConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "4Core23LosslessDataConvertibleP"
+- "4HTTP29LosslessHTTPBodyRepresentableP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "Sm"
+- "10Foundation20ReferenceConvertibleP"
+- "4Core19ReflectionDecodableP"
+- "ST"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "10Foundation3URLV"
+- "4HTTP16URLRepresentableP"
+- "10Foundation13_CFBridgeableP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s34_ExpressibleByFileReferenceLiteralP"
+- "s19_HasContiguousBytesP"
+- "10Foundation13_NSBridgeableP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOTLS.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOZlib/include/CNIOZlib.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/CNIOHTTPParser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOHTTPParser/include/c_nio_http_parser.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl-support.git-5259653155612051483/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "169eabfd1656737907d1c2d12189a04a"

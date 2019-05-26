@@ -1,0 +1,158 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SQLiteBind"
+provides-nominal:
+- "6SQLite0A4BindV"
+- "6SQLite0A4BindV5ValueO"
+provides-member:
+- ["6SQLite0A4BindV", ""]
+- ["6SQLite0A4BindV5ValueO", ""]
+depends-top-level:
+- "CastingPrecedence"
+- "Encodable"
+- "SQLBind"
+- "SQLiteBind"
+- "SQLiteExpression"
+- !private "SQLiteQueryExpressionRepresentable"
+- "String"
+depends-member:
+- !private ["4Core22AnyReflectionDecodableP", "append"]
+- !private ["Sa", "append"]
+- !private ["SK", "append"]
+- !private ["Sl", "append"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["3NIO20ContiguousCollectionP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["Se", "append"]
+- !private ["SE", "append"]
+- !private ["SQ", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByFloatLiteralP", "serialize"]
+- !private ["s27ExpressibleByIntegerLiteralP", "serialize"]
+- !private ["3SQL20GenericSQLExpressionO", "serialize"]
+- !private ["SH", "append"]
+- !private ["4Core23LosslessDataConvertibleP", "append"]
+- !private ["SM", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["Sk", "append"]
+- !private ["Sm", "append"]
+- !private ["4Core19ReflectionDecodableP", "append"]
+- ["3SQL7SQLBindP", ""]
+- ["3SQL7SQLBindP", "encodable"]
+- !private ["3SQL7SQLBindP", "init"]
+- !private ["3SQL7SQLBindP", "init"]
+- ["3SQL7SQLBindP", "serialize"]
+- !private ["3SQL7SQLBindP", "value"]
+- !private ["3SQL13SQLExpressionP", "serialize"]
+- ["3SQL15SQLSerializableP", ""]
+- ["3SQL15SQLSerializableP", "encodable"]
+- !private ["3SQL15SQLSerializableP", "init"]
+- !private ["3SQL15SQLSerializableP", "init"]
+- ["3SQL15SQLSerializableP", "serialize"]
+- !private ["3SQL15SQLSerializableP", "value"]
+- ["6SQLite0A4BindV", "Encodable"]
+- ["6SQLite0A4BindV", "SQLiteBind"]
+- ["6SQLite0A4BindV", "SQLiteExpression"]
+- !private ["6SQLite0A4BindV", "SQLiteQueryExpressionRepresentable"]
+- ["6SQLite0A4BindV", "String"]
+- ["6SQLite0A4BindV", "Value"]
+- ["6SQLite0A4BindV", "deinit"]
+- ["6SQLite0A4BindV", "encodable"]
+- ["6SQLite0A4BindV", "init"]
+- !private ["6SQLite0A4BindV", "init"]
+- ["6SQLite0A4BindV", "serialize"]
+- ["6SQLite0A4BindV", "value"]
+- !private ["6SQLite0A8FunctionV", "deinit"]
+- !private ["6SQLite0A5QueryO", "deinit"]
+- !private ["6SQLite0A28QueryExpressionRepresentableP", "sqliteQueryExpression"]
+- !private ["ST", "append"]
+- ["6SQLite0A4BindV5ValueO", "Encodable"]
+- ["6SQLite0A4BindV5ValueO", "SQLiteExpression"]
+- ["6SQLite0A4BindV5ValueO", "encodable"]
+- ["6SQLite0A4BindV5ValueO", "expression"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["10Foundation13_CFBridgeableP", "append"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["10Foundation13_NSBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+depends-nominal:
+- !private "4Core22AnyReflectionDecodableP"
+- !private "Sa"
+- !private "SK"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "3NIO20ContiguousCollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "3SQL20GenericSQLExpressionO"
+- !private "SH"
+- !private "4Core23LosslessDataConvertibleP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "Sk"
+- !private "Sm"
+- !private "4Core19ReflectionDecodableP"
+- "3SQL7SQLBindP"
+- !private "3SQL13SQLExpressionP"
+- "3SQL15SQLSerializableP"
+- "6SQLite0A4BindV"
+- !private "6SQLite0A8FunctionV"
+- !private "6SQLite0A5QueryO"
+- !private "6SQLite0A28QueryExpressionRepresentableP"
+- !private "ST"
+- "6SQLite0A4BindV5ValueO"
+- !private "s14_ArrayProtocolP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/DatabaseKit.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/sqlite.git-176835955830461430/Sources/CSQLite/include/sqlite3.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "d8041fc6a5518c9c4032a9d711c0d253"

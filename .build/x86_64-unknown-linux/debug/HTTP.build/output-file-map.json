@@ -1,0 +1,161 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Body/HTTPBody.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBody.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBody.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBody~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBody.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Body/HTTPBodyRepresentable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBodyRepresentable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBodyRepresentable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBodyRepresentable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBodyRepresentable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Body/HTTPBodyStorage.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBodyStorage.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBodyStorage.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBodyStorage~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPBodyStorage.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Body/HTTPChunkedStream.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPChunkedStream.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPChunkedStream.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPChunkedStream~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Body/HTTPChunkedStream.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Codable/HTTPMessageCoder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Codable/HTTPMessageCoder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Codable/HTTPMessageCoder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Codable/HTTPMessageCoder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Codable/HTTPMessageCoder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Cookies/HTTPCookieValue.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Cookies/HTTPCookieValue.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Cookies/HTTPCookieValue.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Cookies/HTTPCookieValue~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Cookies/HTTPCookieValue.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Cookies/HTTPCookies.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Cookies/HTTPCookies.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Cookies/HTTPCookies.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Cookies/HTTPCookies~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Cookies/HTTPCookies.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Message/Forwarded.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/Forwarded.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/Forwarded.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/Forwarded~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/Forwarded.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Message/HTTPHeaderName.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPHeaderName.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPHeaderName.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPHeaderName~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPHeaderName.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Message/HTTPHeaders.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPHeaders.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPHeaders.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPHeaders~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPHeaders.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Message/HTTPMessage.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPMessage.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPMessage.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPMessage~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPMessage.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Message/HTTPRequest.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPRequest.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPRequest.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPRequest~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPRequest.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Message/HTTPResponse.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPResponse.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPResponse.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPResponse~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/HTTPResponse.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Message/MediaTypePreference.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/MediaTypePreference.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/MediaTypePreference.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/MediaTypePreference~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/MediaTypePreference.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Message/URL+HTTP.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/URL+HTTP.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/URL+HTTP.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/URL+HTTP~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Message/URL+HTTP.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Responder/HTTPClient.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPClient.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPClient.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPClient~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPClient.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Responder/HTTPClientProtocolUpgrader.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPClientProtocolUpgrader.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPClientProtocolUpgrader.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPClientProtocolUpgrader~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPClientProtocolUpgrader.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Responder/HTTPScheme.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPScheme.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPScheme.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPScheme~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPScheme.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Responder/HTTPServer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPServer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPServer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPServer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPServer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Responder/HTTPServerResponder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPServerResponder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPServerResponder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPServerResponder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Responder/HTTPServerResponder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Utilities/HTTPError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPError.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Utilities/HTTPHeaders+Basic.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPHeaders+Basic.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPHeaders+Basic.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPHeaders+Basic~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPHeaders+Basic.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Utilities/HTTPHeaders+Bearer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPHeaders+Bearer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPHeaders+Bearer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPHeaders+Bearer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/HTTPHeaders+Bearer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Utilities/RFC1123.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/RFC1123.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/RFC1123.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/RFC1123~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/RFC1123.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/http.git--1145890594246638106/Sources/HTTP/Utilities/String+IsIPAddress.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/String+IsIPAddress.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/String+IsIPAddress.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/String+IsIPAddress~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/HTTP.build/Utilities/String+IsIPAddress.swiftdeps"
+  }
+}

@@ -1,0 +1,202 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "=="
+- "!="
+- ">"
+- "<"
+- ">="
+- "<="
+- "~~"
+- "!~"
+- "~~"
+- "!~"
+- "FilterOperator"
+provides-nominal:
+- "6Fluent14FilterOperatorV"
+provides-member:
+- ["6Fluent12QueryBuilderC", ""]
+- ["6Fluent14FilterOperatorV", ""]
+- ["6Fluent12QueryBuilderC", "filter"]
+- ["6Fluent12QueryBuilderC", "filter"]
+depends-top-level:
+- "!="
+- "!~"
+- !private "&&"
+- "<"
+- "<="
+- "=="
+- ">"
+- ">="
+- "DefaultPrecedence"
+- "Encodable"
+- "FilterOperator"
+- "KeyPath"
+- "QueryBuilder"
+- "QuerySupporting"
+- "~~"
+depends-member:
+- !private ["4Core22AnyReflectionDecodableP", "count"]
+- !private ["4Core22AnyReflectionDecodableP", "subscript"]
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "count"]
+- !private ["SK", "subscript"]
+- !private ["Sl", "count"]
+- !private ["Sl", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["3NIO20ContiguousCollectionP", "count"]
+- !private ["3NIO20ContiguousCollectionP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- ["11DatabaseKit0A0P", "QueryFilter"]
+- !private ["11DatabaseKit0A0P", "queryField"]
+- !private ["11DatabaseKit0A0P", "queryFilter"]
+- !private ["11DatabaseKit0A0P", "queryFilterMethodEqual"]
+- !private ["11DatabaseKit0A0P", "queryFilterMethodGreaterThan"]
+- !private ["11DatabaseKit0A0P", "queryFilterMethodGreaterThanOrEqual"]
+- !private ["11DatabaseKit0A0P", "queryFilterMethodInSubset"]
+- !private ["11DatabaseKit0A0P", "queryFilterMethodLessThan"]
+- !private ["11DatabaseKit0A0P", "queryFilterMethodLessThanOrEqual"]
+- !private ["11DatabaseKit0A0P", "queryFilterMethodNotEqual"]
+- !private ["11DatabaseKit0A0P", "queryFilterMethodNotInSubset"]
+- !private ["11DatabaseKit0A0P", "queryFilterValue"]
+- !private ["11DatabaseKit0A0P", "queryFilterValueNil"]
+- !private ["Se", "count"]
+- !private ["Se", "subscript"]
+- !private ["SE", "count"]
+- !private ["SE", "isNil"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "count"]
+- !private ["SQ", "subscript"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- ["6Fluent14FilterOperatorV", "Encodable"]
+- ["6Fluent14FilterOperatorV", "FilterOperator"]
+- ["6Fluent14FilterOperatorV", "KeyPath"]
+- !private ["6Fluent14FilterOperatorV", "filter"]
+- !private ["6Fluent14FilterOperatorV", "init"]
+- ["6Fluent14FilterOperatorV", "make"]
+- !private ["6Fluent0A8PropertyV", "keyPath"]
+- !private ["SH", "count"]
+- !private ["SH", "subscript"]
+- !private ["4Core23LosslessDataConvertibleP", "count"]
+- !private ["4Core23LosslessDataConvertibleP", "subscript"]
+- !private ["SM", "count"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- ["6Fluent12QueryBuilderC", "FilterOperator"]
+- ["6Fluent12QueryBuilderC", "filter"]
+- ["6Fluent15QuerySupportingP", "QueryFilter"]
+- !private ["6Fluent15QuerySupportingP", "queryField"]
+- !private ["6Fluent15QuerySupportingP", "queryFilter"]
+- !private ["6Fluent15QuerySupportingP", "queryFilterMethodEqual"]
+- !private ["6Fluent15QuerySupportingP", "queryFilterMethodGreaterThan"]
+- !private ["6Fluent15QuerySupportingP", "queryFilterMethodGreaterThanOrEqual"]
+- !private ["6Fluent15QuerySupportingP", "queryFilterMethodInSubset"]
+- !private ["6Fluent15QuerySupportingP", "queryFilterMethodLessThan"]
+- !private ["6Fluent15QuerySupportingP", "queryFilterMethodLessThanOrEqual"]
+- !private ["6Fluent15QuerySupportingP", "queryFilterMethodNotEqual"]
+- !private ["6Fluent15QuerySupportingP", "queryFilterMethodNotInSubset"]
+- !private ["6Fluent15QuerySupportingP", "queryFilterValue"]
+- !private ["6Fluent15QuerySupportingP", "queryFilterValueNil"]
+- !private ["Sk", "count"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "count"]
+- !private ["Sm", "subscript"]
+- !private ["4Core19ReflectionDecodableP", "count"]
+- !private ["4Core19ReflectionDecodableP", "subscript"]
+- !private ["ST", "count"]
+- !private ["ST", "subscript"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["10Foundation13_CFBridgeableP", "count"]
+- !private ["10Foundation13_CFBridgeableP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation13_NSBridgeableP", "count"]
+- !private ["10Foundation13_NSBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "4Core22AnyReflectionDecodableP"
+- !private "Sa"
+- !private "SK"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "3NIO20ContiguousCollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "11DatabaseKit0A0P"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "6Fluent14FilterOperatorV"
+- !private "6Fluent0A8PropertyV"
+- !private "SH"
+- !private "4Core23LosslessDataConvertibleP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "6Fluent12QueryBuilderC"
+- "6Fluent15QuerySupportingP"
+- !private "Sk"
+- !private "Sm"
+- !private "4Core19ReflectionDecodableP"
+- !private "ST"
+- !private "s14_ArrayProtocolP"
+- !private "10Foundation13_CFBridgeableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation13_NSBridgeableP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Command.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Console.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Core.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/DatabaseKit.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "2c748e4b74d182b9dcdf36cf26968acc"

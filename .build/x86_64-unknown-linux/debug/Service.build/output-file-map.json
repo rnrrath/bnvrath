@@ -1,0 +1,125 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Config/Config.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Config/Config.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Config/Config.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Config/Config~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Config/Config.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Container/BasicContainer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/BasicContainer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/BasicContainer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/BasicContainer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/BasicContainer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Container/BasicSubContainer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/BasicSubContainer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/BasicSubContainer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/BasicSubContainer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/BasicSubContainer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Container/Container.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/Container.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/Container.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/Container~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/Container.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Container/ContainerAlias.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/ContainerAlias.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/ContainerAlias.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/ContainerAlias~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/ContainerAlias.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Container/SubContainer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/SubContainer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/SubContainer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/SubContainer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Container/SubContainer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Environment/Environment.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Environment/Environment.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Environment/Environment.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Environment/Environment~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Environment/Environment.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Provider/Provider.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Provider/Provider.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Provider/Provider.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Provider/Provider~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Provider/Provider.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Services/BasicServiceFactory.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/BasicServiceFactory.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/BasicServiceFactory.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/BasicServiceFactory~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/BasicServiceFactory.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Services/Service.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/Service.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/Service.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/Service~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/Service.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Services/ServiceCache.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceCache.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceCache.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceCache~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceCache.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Services/ServiceFactory.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceFactory.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceFactory.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceFactory~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceFactory.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Services/ServiceID.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceID.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceID.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceID~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceID.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Services/ServiceType.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceType.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceType.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceType~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/ServiceType.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Services/Services.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/Services.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/Services.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/Services~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/Services.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Services/TypeServiceFactory.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/TypeServiceFactory.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/TypeServiceFactory.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/TypeServiceFactory~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Services/TypeServiceFactory.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Utilities/Deprecated.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Deprecated.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Deprecated.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Deprecated.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Utilities/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Utilities/Extendable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Extendable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Extendable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Extendable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/Extendable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/service.git-968403023026173900/Sources/Service/Utilities/ServiceError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/ServiceError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/ServiceError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/ServiceError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Service.build/Utilities/ServiceError.swiftdeps"
+  }
+}

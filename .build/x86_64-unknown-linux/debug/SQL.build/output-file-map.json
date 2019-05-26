@@ -1,0 +1,359 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLAlterTable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLAlterTable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLAlterTable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLAlterTable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLAlterTable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLAlterTableBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLAlterTableBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLAlterTableBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLAlterTableBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLAlterTableBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLBinaryOperator.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBinaryOperator.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBinaryOperator.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBinaryOperator~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBinaryOperator.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLBind.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBind.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBind.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBind~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBind.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLBoolLiteral.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBoolLiteral.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBoolLiteral.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBoolLiteral~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLBoolLiteral.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLCollation.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCollation.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCollation.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCollation~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCollation.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLColumnBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLColumnConstraint.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnConstraint.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnConstraint.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnConstraint~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnConstraint.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLColumnConstraintAlgorithm.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnConstraintAlgorithm.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnConstraintAlgorithm.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnConstraintAlgorithm~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnConstraintAlgorithm.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLColumnDefinition.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnDefinition.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnDefinition.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnDefinition~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnDefinition.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLColumnIdentifier.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnIdentifier.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnIdentifier.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnIdentifier~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLColumnIdentifier.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLConnection.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLConnection.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLConnection.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLConnection~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLConnection.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLCreateIndex.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateIndex.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateIndex.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateIndex~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateIndex.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLCreateIndexBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateIndexBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateIndexBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateIndexBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateIndexBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLCreateTable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateTable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateTable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateTable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateTable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLCreateTableBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateTableBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateTableBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateTableBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLCreateTableBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLDataType.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDataType.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDataType.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDataType~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDataType.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLDefaultLiteral.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDefaultLiteral.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDefaultLiteral.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDefaultLiteral~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDefaultLiteral.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLDelete.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDelete.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDelete.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDelete~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDelete.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLDeleteBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDeleteBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDeleteBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDeleteBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDeleteBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLDirection.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDirection.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDirection.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDirection~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDirection.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLDistinct.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDistinct.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDistinct.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDistinct~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDistinct.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLDropIndex.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropIndex.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropIndex.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropIndex~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropIndex.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLDropTable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropTable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropTable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropTable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropTable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLDropTableBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropTableBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropTableBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropTableBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLDropTableBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLError.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLExpression.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLExpression.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLExpression.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLExpression~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLExpression.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLForeignKey.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLForeignKey.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLForeignKey.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLForeignKey~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLForeignKey.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLForeignKeyAction.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLForeignKeyAction.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLForeignKeyAction.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLForeignKeyAction~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLForeignKeyAction.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLFunction.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLFunction.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLFunction.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLFunction~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLFunction.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLFunctionArgument.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLFunctionArgument.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLFunctionArgument.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLFunctionArgument~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLFunctionArgument.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLGroupBy.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLGroupBy.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLGroupBy.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLGroupBy~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLGroupBy.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLIdentifier.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLIdentifier.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLIdentifier.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLIdentifier~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLIdentifier.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLIndexModifier.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLIndexModifier.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLIndexModifier.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLIndexModifier~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLIndexModifier.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLInsert.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLInsert.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLInsert.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLInsert~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLInsert.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLInsertBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLInsertBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLInsertBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLInsertBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLInsertBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLJoin.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLJoin.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLJoin.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLJoin~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLJoin.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLJoinMethod.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLJoinMethod.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLJoinMethod.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLJoinMethod~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLJoinMethod.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLLiteral.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLLiteral.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLLiteral.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLLiteral~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLLiteral.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLOrderBy.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLOrderBy.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLOrderBy.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLOrderBy~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLOrderBy.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLPredicateBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPredicateBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPredicateBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPredicateBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPredicateBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLPredicateGroupBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPredicateGroupBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPredicateGroupBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPredicateGroupBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPredicateGroupBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLPrimaryKey.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPrimaryKey.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPrimaryKey.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPrimaryKey~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLPrimaryKey.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLQuery.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQuery.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQuery.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQuery~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQuery.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLQueryBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLQueryEncoder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryEncoder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryEncoder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryEncoder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryEncoder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLQueryFetcher.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryFetcher.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryFetcher.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryFetcher~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLQueryFetcher.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLRawBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLRawBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLRawBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLRawBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLRawBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLSelect.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelect.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelect.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelect~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelect.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLSelectBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelectBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelectBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelectBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelectBuilder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLSelectExpression.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelectExpression.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelectExpression.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelectExpression~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSelectExpression.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLSerializable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSerializable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSerializable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSerializable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLSerializable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLTable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLTableConstraint.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableConstraint.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableConstraint.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableConstraint~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableConstraint.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLTableConstraintAlgorithm.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableConstraintAlgorithm.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableConstraintAlgorithm.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableConstraintAlgorithm~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableConstraintAlgorithm.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLTableIdentifier.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableIdentifier.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableIdentifier.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableIdentifier~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLTableIdentifier.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLUpdate.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLUpdate.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLUpdate.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLUpdate~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLUpdate.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/sql.git-4999458466206224298/Sources/SQL/SQLUpdateBuilder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLUpdateBuilder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLUpdateBuilder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLUpdateBuilder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/SQL.build/SQLUpdateBuilder.swiftdeps"
+  }
+}

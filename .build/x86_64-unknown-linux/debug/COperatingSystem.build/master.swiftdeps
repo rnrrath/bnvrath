@@ -1,0 +1,5 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "0c97ead47390bbe9d52f356d72d5c473"
+build_time: [1558846247, 55222468]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/COperatingSystem/libc.swift": [1558804089, 315184436]

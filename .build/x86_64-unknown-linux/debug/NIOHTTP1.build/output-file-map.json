@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/ByteCollectionUtils.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/ByteCollectionUtils.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/ByteCollectionUtils.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/ByteCollectionUtils~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/ByteCollectionUtils.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPDecoder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPDecoder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPDecoder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPDecoder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPDecoder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPEncoder.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPEncoder.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPEncoder.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPEncoder~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPEncoder.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPPipelineSetup.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPPipelineSetup.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPPipelineSetup.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPPipelineSetup~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPPipelineSetup.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPResponseCompressor.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPResponseCompressor.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPResponseCompressor.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPResponseCompressor~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPResponseCompressor.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPServerPipelineHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPServerPipelineHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPServerPipelineHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPServerPipelineHandler.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPServerProtocolErrorHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPServerProtocolErrorHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPServerProtocolErrorHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPServerProtocolErrorHandler.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPTypes.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPTypes.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPTypes.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPTypes~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPTypes.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPUpgradeHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPUpgradeHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPUpgradeHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOHTTP1.build/HTTPUpgradeHandler.swiftdeps"
+  }
+}

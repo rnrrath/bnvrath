@@ -1,0 +1,75 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DataDecoder"
+- "DataEncoder"
+provides-nominal:
+- "4Core11DataDecoderP"
+- "4Core11DataEncoderP"
+- "10Foundation11JSONDecoderC"
+- "10Foundation11JSONEncoderC"
+provides-member:
+- ["4Core11DataDecoderP", ""]
+- ["4Core11DataEncoderP", ""]
+- ["10Foundation11JSONDecoderC", ""]
+- ["10Foundation11JSONEncoderC", ""]
+- ["4Core11DataDecoderP", "decode"]
+depends-top-level:
+- "Data"
+- "DataDecoder"
+- "DataEncoder"
+- "Decodable"
+- "Encodable"
+- "JSONDecoder"
+- "JSONEncoder"
+- "LosslessDataConvertible"
+depends-member:
+- ["4Core11DataDecoderP", "Data"]
+- ["4Core11DataDecoderP", "Decodable"]
+- ["4Core11DataDecoderP", "LosslessDataConvertible"]
+- ["4Core11DataDecoderP", ""]
+- ["4Core11DataDecoderP", "decode"]
+- ["4Core11DataEncoderP", "Data"]
+- ["4Core11DataEncoderP", "Encodable"]
+- ["4Core11DataEncoderP", ""]
+- ["4Core11DataEncoderP", "encode"]
+- ["10Foundation11JSONDecoderC", "decode"]
+- ["10Foundation11JSONDecoderC", "deinit"]
+- ["10Foundation11JSONEncoderC", "deinit"]
+- ["10Foundation11JSONEncoderC", "encode"]
+- !private ["4Core23LosslessDataConvertibleP", "convertToData"]
+depends-nominal:
+- "4Core11DataDecoderP"
+- "4Core11DataEncoderP"
+- "10Foundation11JSONDecoderC"
+- "10Foundation11JSONEncoderC"
+- !private "4Core23LosslessDataConvertibleP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Async.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Debugging.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/COperatingSystem.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Bits.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "117adedd1c4a858e4fde0287fb90c9ca"

@@ -1,0 +1,7 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "c62f1f9e4fcdc1f9a41aee5380c18133"
+build_time: [1558846242, 789098437]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Debugging/Debuggable.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Debugging/Demangler.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Debugging/SourceLocation.swift": [1558804089, 315184436]

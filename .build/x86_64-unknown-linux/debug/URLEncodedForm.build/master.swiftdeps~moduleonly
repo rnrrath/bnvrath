@@ -1,0 +1,12 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "082d0099d85a2601b88c5dff33a101a8"
+build_time: [1558846260, 834897867]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/url-encoded-form.git--4970168240594220284/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1558804088, 946987076]
+  "/home/rrajput/bnvrath/.build/checkouts/url-encoded-form.git--4970168240594220284/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1558804088, 946987076]
+  "/home/rrajput/bnvrath/.build/checkouts/url-encoded-form.git--4970168240594220284/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1558804088, 946987076]
+  "/home/rrajput/bnvrath/.build/checkouts/url-encoded-form.git--4970168240594220284/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1558804088, 946987076]
+  "/home/rrajput/bnvrath/.build/checkouts/url-encoded-form.git--4970168240594220284/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1558804088, 946987076]
+  "/home/rrajput/bnvrath/.build/checkouts/url-encoded-form.git--4970168240594220284/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1558804088, 946987076]
+  "/home/rrajput/bnvrath/.build/checkouts/url-encoded-form.git--4970168240594220284/Sources/URLEncodedForm/Utilities/Exports.swift": [1558804088, 946987076]
+  "/home/rrajput/bnvrath/.build/checkouts/url-encoded-form.git--4970168240594220284/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1558804088, 946987076]

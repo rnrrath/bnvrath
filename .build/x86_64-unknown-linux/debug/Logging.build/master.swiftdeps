@@ -1,0 +1,8 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "2b7b6bf0cad6ebbe96753673f8d5e148"
+build_time: [1558846260, 834014661]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Logging/Exports.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Logging/LogLevel.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Logging/Logger.swift": [1558804089, 151096513]
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Logging/PrintLogger.swift": [1558804089, 151096513]

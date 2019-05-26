@@ -1,0 +1,335 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/AddressedEnvelope.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/AddressedEnvelope.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/AddressedEnvelope.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/AddressedEnvelope~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/AddressedEnvelope.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/BaseSocket.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BaseSocket.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BaseSocket.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BaseSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BaseSocket.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/BaseSocketChannel.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BaseSocketChannel.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BaseSocketChannel.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BaseSocketChannel~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BaseSocketChannel.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/BlockingIOThreadPool.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BlockingIOThreadPool.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BlockingIOThreadPool.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BlockingIOThreadPool~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/BlockingIOThreadPool.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Bootstrap.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Bootstrap.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Bootstrap.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Bootstrap~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Bootstrap.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/ByteBuffer-aux.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-aux.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-aux.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-aux~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-aux.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/ByteBuffer-core.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-core.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-core.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-core~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-core.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/ByteBuffer-int.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-int.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-int.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-int~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-int.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/ByteBuffer-views.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-views.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-views.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-views~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ByteBuffer-views.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Channel.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Channel.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Channel.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Channel~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Channel.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/ChannelHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelHandler.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/ChannelHandlers.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelHandlers.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelHandlers.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelHandlers~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelHandlers.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/ChannelInvoker.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelInvoker.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelInvoker.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelInvoker~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelInvoker.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/ChannelOption.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelOption.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelOption.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelOption~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelOption.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/ChannelPipeline.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelPipeline.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelPipeline.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelPipeline~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ChannelPipeline.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/CircularBuffer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/CircularBuffer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/CircularBuffer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/CircularBuffer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/CircularBuffer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Codec.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Codec.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Codec.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Codec~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Codec.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/CompositeError.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/CompositeError.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/CompositeError.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/CompositeError~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/CompositeError.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/ContiguousCollection.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ContiguousCollection.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ContiguousCollection.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ContiguousCollection~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ContiguousCollection.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/DeadChannel.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/DeadChannel.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/DeadChannel.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/DeadChannel~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/DeadChannel.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Embedded.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Embedded.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Embedded.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Embedded~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Embedded.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/EventLoop.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/EventLoop.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/EventLoop.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/EventLoop~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/EventLoop.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/EventLoopFuture.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/EventLoopFuture.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/EventLoopFuture.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/EventLoopFuture~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/EventLoopFuture.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/FileDescriptor.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileDescriptor.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileDescriptor.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileDescriptor~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileDescriptor.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/FileHandle.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileHandle.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileHandle.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileHandle~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileHandle.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/FileRegion.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileRegion.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileRegion.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileRegion~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/FileRegion.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/GetaddrinfoResolver.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/GetaddrinfoResolver.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/GetaddrinfoResolver.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/GetaddrinfoResolver~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/GetaddrinfoResolver.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/HappyEyeballs.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/HappyEyeballs.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/HappyEyeballs.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/HappyEyeballs~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/HappyEyeballs.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Heap.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Heap.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Heap.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Heap~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Heap.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/IO.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IO.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IO.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IO~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IO.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/IOData.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IOData.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IOData.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IOData~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IOData.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/IntegerTypes.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IntegerTypes.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IntegerTypes.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IntegerTypes~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/IntegerTypes.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Interfaces.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Interfaces.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Interfaces.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Interfaces~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Interfaces.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Linux.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Linux.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Linux.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Linux~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Linux.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/LinuxCPUSet.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/LinuxCPUSet.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/LinuxCPUSet.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/LinuxCPUSet~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/LinuxCPUSet.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/MarkedCircularBuffer.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/MarkedCircularBuffer.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/MarkedCircularBuffer.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/MarkedCircularBuffer~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/MarkedCircularBuffer.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/MulticastChannel.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/MulticastChannel.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/MulticastChannel.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/MulticastChannel~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/MulticastChannel.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/NIOAny.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/NIOAny.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/NIOAny.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/NIOAny~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/NIOAny.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/NonBlockingFileIO.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/NonBlockingFileIO.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/NonBlockingFileIO.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/NonBlockingFileIO~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/NonBlockingFileIO.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/PendingDatagramWritesManager.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PendingDatagramWritesManager.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PendingDatagramWritesManager.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PendingDatagramWritesManager~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PendingDatagramWritesManager.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/PendingWritesManager.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PendingWritesManager.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PendingWritesManager.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PendingWritesManager~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PendingWritesManager.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/PriorityQueue.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PriorityQueue.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PriorityQueue.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PriorityQueue~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/PriorityQueue.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/RecvByteBufferAllocator.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/RecvByteBufferAllocator.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/RecvByteBufferAllocator.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/RecvByteBufferAllocator~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/RecvByteBufferAllocator.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Resolver.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Resolver.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Resolver.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Resolver~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Resolver.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Selectable.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Selectable.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Selectable.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Selectable~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Selectable.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Selector.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Selector.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Selector.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Selector~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Selector.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/ServerSocket.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ServerSocket.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ServerSocket.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ServerSocket~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/ServerSocket.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Socket.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Socket.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Socket.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Socket.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/SocketAddresses.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketAddresses.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketAddresses.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketAddresses~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketAddresses.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/SocketChannel.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketChannel.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketChannel.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketChannel~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketChannel.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/SocketOptionProvider.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketOptionProvider.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketOptionProvider.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketOptionProvider~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/SocketOptionProvider.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/System.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/System.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/System.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/System~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/System.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Thread.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Thread.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Thread.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Thread~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Thread.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/TypeAssistedChannelHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/TypeAssistedChannelHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/TypeAssistedChannelHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/TypeAssistedChannelHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/TypeAssistedChannelHandler.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIO/Utilities.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Utilities.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Utilities.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Utilities~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIO.build/Utilities.swiftdeps"
+  }
+}

@@ -1,0 +1,13 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "6982ddf70354917ef679a5987c9e8f75"
+build_time: [1558846258, 499743744]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/Base64.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/SHA1.swift": [1558804089, 219132969]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketFrame.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketOpcode.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [1558804089, 251150124]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/NIOWebSocket/WebSocketUpgrader.swift": [1558804089, 251150124]

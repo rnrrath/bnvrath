@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Logging/Exports.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/Exports.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/Exports.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/Exports.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Logging/LogLevel.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/LogLevel.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/LogLevel.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/LogLevel~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/LogLevel.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Logging/Logger.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/Logger.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/Logger.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/Logger.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/console.git--6731066293148282044/Sources/Logging/PrintLogger.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/PrintLogger.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/PrintLogger.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/PrintLogger~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/Logging.build/PrintLogger.swiftdeps"
+  }
+}

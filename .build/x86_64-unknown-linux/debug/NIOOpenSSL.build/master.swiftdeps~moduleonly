@@ -1,0 +1,21 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "c24b756fb1253f53d9150a0770858e70"
+build_time: [1558846256, 608017529]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/IdentityVerification.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/PosixPort.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLCertificate.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLConnection.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLContext.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLErrors.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLInit.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLPublicKey.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": [1558804088, 382684049]
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/TLSConfiguration.swift": [1558804088, 382684049]

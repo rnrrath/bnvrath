@@ -1,0 +1,12 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "bb6dd9ad6c548a3b7f88d5c201fc9cdf"
+build_time: [1558846260, 834882767]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/Exports.swift": [1558804088, 726868874]
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/FormDataDecoder.swift": [1558804088, 726868874]
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/FormDataEncoder.swift": [1558804088, 726868874]
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/MultipartError.swift": [1558804088, 726868874]
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/MultipartParser.swift": [1558804088, 734873172]
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/MultipartPart.swift": [1558804088, 726868874]
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/MultipartPartConvertible.swift": [1558804088, 726868874]
+  "/home/rrajput/bnvrath/.build/checkouts/multipart.git--9044862871860003558/Sources/Multipart/MultipartSerializer.swift": [1558804088, 726868874]

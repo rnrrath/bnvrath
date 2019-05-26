@@ -1,0 +1,16 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "50ed24089b9a851754abf2fae2314b72"
+build_time: [1558846263, 448883379]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Parameter/Parameter.swift": [1558804088, 842931198]
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Parameter/ParameterValue.swift": [1558804088, 842931198]
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Parameter/Parameters.swift": [1558804088, 842931198]
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Register/PathComponent.swift": [1558804088, 842931198]
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Register/Route.swift": [1558804088, 842931198]
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Register/RouterOption.swift": [1558804088, 842931198]
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Routing/RoutableComponent.swift": [1558804088, 842931198]
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Routing/RouterNode.swift": [1558804088, 842931198]
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Routing/TrieRouter.swift": [1558804088, 842931198]
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Utilities/Deprecated.swift": [1558804088, 842931198]
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Utilities/Exports.swift": [1558804088, 842931198]
+  "/home/rrajput/bnvrath/.build/checkouts/routing.git--2682402508564863930/Sources/Routing/Utilities/RoutingError.swift": [1558804088, 842931198]

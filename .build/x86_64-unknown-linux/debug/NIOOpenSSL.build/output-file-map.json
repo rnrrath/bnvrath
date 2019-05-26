@@ -1,0 +1,107 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/ByteBufferBIO.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/ByteBufferBIO.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/ByteBufferBIO.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/ByteBufferBIO~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/ByteBufferBIO.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/IdentityVerification.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/IdentityVerification.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/IdentityVerification.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/IdentityVerification~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/IdentityVerification.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLClientHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLClientHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLClientHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLClientHandler.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/OpenSSLHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLHandler.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLServerHandler.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLServerHandler.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLServerHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLServerHandler.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/PosixPort.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/PosixPort.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/PosixPort.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/PosixPort~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/PosixPort.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLCertificate.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLCertificate.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLCertificate.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLCertificate~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLCertificate.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLConnection.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLConnection.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLConnection.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLConnection~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLConnection.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLContext.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLContext.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLContext.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLContext~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLContext.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLErrors.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLErrors.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLErrors.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLErrors~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLErrors.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLInit.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLInit.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLInit.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLInit~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLInit.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPKCS12Bundle.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPKCS12Bundle~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLPointerTricks.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPointerTricks.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPointerTricks.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPointerTricks~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPointerTricks.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLPrivateKey.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPrivateKey.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPrivateKey.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPrivateKey~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPrivateKey.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLPublicKey.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPublicKey.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPublicKey.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPublicKey~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPublicKey.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLVerificationCallbacks.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLVerificationCallbacks.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLVerificationCallbacks~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLVerificationCallbacks.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/.build/checkouts/swift-nio-ssl.git-3385358380850718953/Sources/NIOOpenSSL/TLSConfiguration.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/TLSConfiguration.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/TLSConfiguration.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/TLSConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/TLSConfiguration.swiftdeps"
+  }
+}

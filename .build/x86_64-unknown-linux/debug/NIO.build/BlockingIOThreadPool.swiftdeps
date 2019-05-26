@@ -1,0 +1,321 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BlockingIOThreadPool"
+provides-nominal:
+- "3NIO20BlockingIOThreadPoolC"
+- "3NIO20BlockingIOThreadPoolC13WorkItemStateO"
+provides-member:
+- ["3NIO20BlockingIOThreadPoolC", ""]
+- ["3NIO20BlockingIOThreadPoolC13WorkItemStateO", ""]
+- ["3NIO20BlockingIOThreadPoolC", "runIfActive"]
+- ["3NIO20BlockingIOThreadPoolC", "shutdownGracefully"]
+- ["3NIO20BlockingIOThreadPoolC", "syncShutdownGracefully"]
+depends-top-level:
+- !private "!="
+- !private "..<"
+- "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- "BlockingIOThreadPool"
+- "Bool"
+- !private "ChannelError"
+- "CircularBuffer"
+- !private "DispatchGroup"
+- "DispatchQueue"
+- "DispatchSemaphore"
+- !private "DispatchWorkItem"
+- "Error"
+- "EventLoop"
+- "EventLoopFuture"
+- "Int"
+- "Lock"
+- !private "Swift"
+- "Void"
+- !private "assert"
+- !private "assertionFailure"
+- !private "fatalError"
+- !private "~="
+depends-member:
+- !private ["3NIO20AppendableCollectionP", "append"]
+- !private ["3NIO20AppendableCollectionP", "forEach"]
+- !private ["3NIO20AppendableCollectionP", "init"]
+- !private ["3NIO20AppendableCollectionP", "removeFirst"]
+- !private ["Sa", "enumerated"]
+- !private ["Sa", "forEach"]
+- !private ["Sa", "init"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "append"]
+- !private ["SK", "enumerated"]
+- !private ["SK", "forEach"]
+- !private ["SK", "init"]
+- !private ["SK", "map"]
+- !private ["SK", "removeFirst"]
+- !private ["SK", "subscript"]
+- !private ["3NIO20BlockingIOThreadPoolC", "Array"]
+- !private ["3NIO20BlockingIOThreadPoolC", "BlockingIOThreadPool"]
+- ["3NIO20BlockingIOThreadPoolC", "Bool"]
+- !private ["3NIO20BlockingIOThreadPoolC", "ChannelError"]
+- ["3NIO20BlockingIOThreadPoolC", "CircularBuffer"]
+- !private ["3NIO20BlockingIOThreadPoolC", "DispatchGroup"]
+- ["3NIO20BlockingIOThreadPoolC", "DispatchQueue"]
+- ["3NIO20BlockingIOThreadPoolC", "DispatchSemaphore"]
+- !private ["3NIO20BlockingIOThreadPoolC", "DispatchWorkItem"]
+- ["3NIO20BlockingIOThreadPoolC", "Error"]
+- ["3NIO20BlockingIOThreadPoolC", "EventLoop"]
+- ["3NIO20BlockingIOThreadPoolC", "EventLoopFuture"]
+- ["3NIO20BlockingIOThreadPoolC", "Int"]
+- ["3NIO20BlockingIOThreadPoolC", "Lock"]
+- ["3NIO20BlockingIOThreadPoolC", "State"]
+- !private ["3NIO20BlockingIOThreadPoolC", "Swift"]
+- ["3NIO20BlockingIOThreadPoolC", "Void"]
+- ["3NIO20BlockingIOThreadPoolC", "WorkItem"]
+- ["3NIO20BlockingIOThreadPoolC", "WorkItemState"]
+- !private ["3NIO20BlockingIOThreadPoolC", "assert"]
+- !private ["3NIO20BlockingIOThreadPoolC", "assertionFailure"]
+- ["3NIO20BlockingIOThreadPoolC", "deinit"]
+- !private ["3NIO20BlockingIOThreadPoolC", "fatalError"]
+- ["3NIO20BlockingIOThreadPoolC", "init"]
+- !private ["3NIO20BlockingIOThreadPoolC", "lock"]
+- !private ["3NIO20BlockingIOThreadPoolC", "numberOfThreads"]
+- !private ["3NIO20BlockingIOThreadPoolC", "process"]
+- !private ["3NIO20BlockingIOThreadPoolC", "queues"]
+- ["3NIO20BlockingIOThreadPoolC", "runIfActive"]
+- !private ["3NIO20BlockingIOThreadPoolC", "semaphore"]
+- ["3NIO20BlockingIOThreadPoolC", "shutdownGracefully"]
+- ["3NIO20BlockingIOThreadPoolC", "start"]
+- !private ["3NIO20BlockingIOThreadPoolC", "state"]
+- ["3NIO20BlockingIOThreadPoolC", "submit"]
+- ["3NIO20BlockingIOThreadPoolC", "syncShutdownGracefully"]
+- !private ["3NIO12ChannelErrorO", "deinit"]
+- !private ["3NIO12ChannelErrorO", "ioOnClosedChannel"]
+- !private ["3NIO14CircularBufferV", "append"]
+- !private ["3NIO14CircularBufferV", "deinit"]
+- !private ["3NIO14CircularBufferV", "forEach"]
+- !private ["3NIO14CircularBufferV", "init"]
+- !private ["3NIO14CircularBufferV", "removeFirst"]
+- !private ["Sl", "append"]
+- !private ["Sl", "enumerated"]
+- !private ["Sl", "forEach"]
+- !private ["Sl", "init"]
+- !private ["Sl", "map"]
+- !private ["Sl", "removeFirst"]
+- !private ["Sl", "subscript"]
+- !private ["3NIO20ContiguousCollectionP", "enumerated"]
+- !private ["3NIO20ContiguousCollectionP", "forEach"]
+- !private ["3NIO20ContiguousCollectionP", "init"]
+- !private ["3NIO20ContiguousCollectionP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "enumerated"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "enumerated"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "enumerated"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "removeFirst"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["Se", "enumerated"]
+- !private ["Se", "forEach"]
+- !private ["Se", "init"]
+- !private ["Se", "map"]
+- !private ["Se", "subscript"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["8Dispatch0A5GroupC", "init"]
+- !private ["8Dispatch0A5GroupC", "notify"]
+- !private ["8Dispatch0A6ObjectC", "async"]
+- !private ["8Dispatch0A6ObjectC", "global"]
+- !private ["8Dispatch0A6ObjectC", "init"]
+- !private ["8Dispatch0A6ObjectC", "notify"]
+- !private ["8Dispatch0A6ObjectC", "signal"]
+- !private ["8Dispatch0A6ObjectC", "wait"]
+- !private ["8Dispatch0A5QueueC", "async"]
+- !private ["8Dispatch0A5QueueC", "global"]
+- !private ["8Dispatch0A5QueueC", "init"]
+- ["8Dispatch0A9SemaphoreC", "init"]
+- !private ["8Dispatch0A9SemaphoreC", "signal"]
+- !private ["8Dispatch0A9SemaphoreC", "wait"]
+- !private ["8Dispatch0A8WorkItemC", "init"]
+- !private ["8Dispatch0A8WorkItemC", "perform"]
+- !private ["8Dispatch0A8WorkItemC", "wait"]
+- !private ["SE", "enumerated"]
+- !private ["SE", "forEach"]
+- !private ["SE", "init"]
+- !private ["SE", "map"]
+- !private ["SE", "subscript"]
+- !private ["s18EnumeratedSequenceV", "forEach"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "active"]
+- !private ["SQ", "cancelled"]
+- !private ["SQ", "enumerated"]
+- !private ["SQ", "forEach"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "init"]
+- !private ["SQ", "ioOnClosedChannel"]
+- !private ["SQ", "map"]
+- !private ["SQ", "subscript"]
+- !private ["s5ErrorP", "ioOnClosedChannel"]
+- !private ["3NIO9EventLoopP", "newPromise"]
+- !private ["3NIO14EventLoopGroupP", "newPromise"]
+- !private ["3NIO16EventLoopPromiseV", "fail"]
+- !private ["3NIO16EventLoopPromiseV", "futureResult"]
+- !private ["3NIO16EventLoopPromiseV", "succeed"]
+- !private ["s25ExpressibleByArrayLiteralP", "enumerated"]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s23ExpressibleByNilLiteralP", "map"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "active"]
+- !private ["SH", "cancelled"]
+- !private ["SH", "enumerated"]
+- !private ["SH", "forEach"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "init"]
+- !private ["SH", "map"]
+- !private ["SH", "subscript"]
+- !private ["s6HasherV", "combine"]
+- ["21NIOConcurrencyHelpers4LockC", "init"]
+- !private ["21NIOConcurrencyHelpers4LockC", "withLock"]
+- !private ["SM", "enumerated"]
+- !private ["SM", "forEach"]
+- !private ["SM", "init"]
+- !private ["SM", "subscript"]
+- !private ["Sq", "map"]
+- !private ["Sk", "append"]
+- !private ["Sk", "enumerated"]
+- !private ["Sk", "forEach"]
+- !private ["Sk", "init"]
+- !private ["Sk", "map"]
+- !private ["Sk", "removeFirst"]
+- !private ["Sk", "subscript"]
+- !private ["Sn", "forEach"]
+- !private ["Sn", "map"]
+- !private ["SX", "forEach"]
+- !private ["SX", "map"]
+- !private ["Sm", "append"]
+- !private ["Sm", "enumerated"]
+- !private ["Sm", "forEach"]
+- !private ["Sm", "init"]
+- !private ["Sm", "removeFirst"]
+- !private ["Sm", "subscript"]
+- !private ["ST", "append"]
+- !private ["ST", "enumerated"]
+- !private ["ST", "forEach"]
+- !private ["ST", "init"]
+- !private ["ST", "map"]
+- !private ["ST", "removeFirst"]
+- !private ["ST", "subscript"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- ["3NIO20BlockingIOThreadPoolC13WorkItemStateO", "=="]
+- ["3NIO20BlockingIOThreadPoolC13WorkItemStateO", "__derived_enum_equals"]
+- ["3NIO20BlockingIOThreadPoolC13WorkItemStateO", "_rawHashValue"]
+- ["3NIO20BlockingIOThreadPoolC13WorkItemStateO", "active"]
+- ["3NIO20BlockingIOThreadPoolC13WorkItemStateO", "cancelled"]
+- ["3NIO20BlockingIOThreadPoolC13WorkItemStateO", "deinit"]
+- ["3NIO20BlockingIOThreadPoolC13WorkItemStateO", "hash"]
+- ["3NIO20BlockingIOThreadPoolC13WorkItemStateO", "hashValue"]
+- !private ["s14_ArrayProtocolP", "enumerated"]
+- !private ["s14_ArrayProtocolP", "forEach"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "enumerated"]
+- !private ["s24_DestructorSafeContainerP", "forEach"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s19_HasContiguousBytesP", "enumerated"]
+- !private ["s19_HasContiguousBytesP", "forEach"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "enumerated"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forEach"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s12_UnwrappableP", "map"]
+depends-nominal:
+- !private "3NIO20AppendableCollectionP"
+- !private "Sa"
+- !private "SK"
+- "3NIO20BlockingIOThreadPoolC"
+- !private "3NIO12ChannelErrorO"
+- !private "3NIO14CircularBufferV"
+- !private "Sl"
+- !private "3NIO20ContiguousCollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "8Dispatch0A5GroupC"
+- !private "8Dispatch0A6ObjectC"
+- !private "8Dispatch0A5QueueC"
+- "8Dispatch0A9SemaphoreC"
+- !private "8Dispatch0A8WorkItemC"
+- !private "SE"
+- !private "s18EnumeratedSequenceV"
+- "SQ"
+- !private "s5ErrorP"
+- !private "3NIO9EventLoopP"
+- !private "3NIO14EventLoopGroupP"
+- !private "3NIO16EventLoopPromiseV"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "s6HasherV"
+- "21NIOConcurrencyHelpers4LockC"
+- !private "SM"
+- !private "Sq"
+- !private "Sk"
+- !private "Sn"
+- !private "SX"
+- !private "Sm"
+- !private "ST"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- "3NIO20BlockingIOThreadPoolC13WorkItemStateO"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s12_UnwrappableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio.git--3926110475254336109/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/home/rrajput/Documents/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/rrajput/bnvrath/.build/checkouts/swift-nio-zlib-support.git-2138547163929982931/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CSQLite.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+interface-hash: "c7830ec6e2fc5634f3eee3c27606ac6c"

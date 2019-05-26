@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/master.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/Sources/App/Controllers/TodoController.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/Controllers/TodoController.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/Controllers/TodoController.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/Controllers/TodoController~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/Controllers/TodoController.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/Sources/App/Models/Todo.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/Models/Todo.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/Models/Todo.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/Models/Todo~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/Models/Todo.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/Sources/App/app.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/app.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/app.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/app~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/app.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/Sources/App/boot.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/boot.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/boot.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/boot~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/boot.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/Sources/App/configure.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/configure.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/configure.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/configure~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/configure.swiftdeps"
+  },
+  "/home/rrajput/bnvrath/Sources/App/routes.swift": {
+    "dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/routes.d",
+    "object": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/routes.swift.o",
+    "swiftmodule": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/routes~partial.swiftmodule",
+    "swift-dependencies": "/home/rrajput/bnvrath/.build/x86_64-unknown-linux/debug/App.build/routes.swiftdeps"
+  }
+}

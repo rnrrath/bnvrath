@@ -1,0 +1,16 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "247a93c1c02c17d8249cc0178c5768cc"
+build_time: [1558846273, 443044953]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/Exports.swift": [1558804089, 431246625]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/FluentSQLiteError.swift": [1558804089, 431246625]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/FluentSQLiteProvider.swift": [1558804089, 431246625]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/FluentSQLiteQuery.swift": [1558804089, 431246625]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/FluentSQLiteSchema.swift": [1558804089, 431246625]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteDatabase+JoinSupporting.swift": [1558804089, 431246625]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteDatabase+MigrationSupporting.swift": [1558804089, 431246625]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteDatabase+QuerySupporting.swift": [1558804089, 431246625]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteDatabase+SchemaSupporting.swift": [1558804089, 431246625]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteDatabase+TransactionSupporting.swift": [1558804089, 431246625]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteModels.swift": [1558804089, 431246625]
+  "/home/rrajput/bnvrath/.build/checkouts/fluent-sqlite.git-1334867532394629161/Sources/FluentSQLite/SQLiteTypes.swift": [1558804089, 431246625]

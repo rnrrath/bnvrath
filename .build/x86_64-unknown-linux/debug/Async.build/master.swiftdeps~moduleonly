@@ -1,0 +1,19 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "13f3dcdc50e25b74793cd7fde647de46"
+build_time: [1558846255, 197959493]
+inputs:
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Async+NIO.swift": [1558804089, 311182292]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/AsyncError.swift": [1558804089, 311182292]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Collection+Future.swift": [1558804089, 319186581]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Deprecated.swift": [1558804089, 311182292]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Exports.swift": [1558804089, 311182292]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Future+DoCatch.swift": [1558804089, 323188725]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Future+Flatten.swift": [1558804089, 323188725]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Future+Global.swift": [1558804089, 311182292]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Future+Map.swift": [1558804089, 311182292]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Future+Transform.swift": [1558804089, 311182292]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Future+Variadic.swift": [1558804089, 311182292]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Future+Void.swift": [1558804089, 311182292]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/FutureType.swift": [1558804089, 323188725]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/QueueHandler.swift": [1558804089, 315184436]
+  "/home/rrajput/bnvrath/.build/checkouts/core.git-8668161724855206819/Sources/Async/Worker.swift": [1558804089, 315184436]

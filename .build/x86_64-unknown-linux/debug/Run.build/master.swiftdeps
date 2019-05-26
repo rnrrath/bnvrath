@@ -1,0 +1,5 @@
+version: "Swift version 5.0 (swift-5.0-RELEASE)"
+options: "832db8faec78a2bad2ee7f14dd373c74"
+build_time: [1558846274, 745069483]
+inputs:
+  "/home/rrajput/bnvrath/Sources/Run/main.swift": [1558801251, 212916852]
